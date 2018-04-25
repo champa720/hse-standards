@@ -1,0 +1,39 @@
+{% comment %}
+
+Mathematics
+| Level | Grade | Domain | Standard statement | Standard description | Standard |
+
+Reading & Writing
+| Level | Grade | Domain | CCR anchor | CCR anchor statement | Standard description | Standard |
+{% endcomment %}
+
+
+{%- assign level = site.data.CCRStandardsAdultEd.Mathematics | where_exp:  "CCRS", "CCRS.Level == page.level" | group_by: "Domain" -%}
+<nav class="mdc-layout-grid__cell--span-3">
+  <ul class="mdc-list"> {%- for data in level -%}
+    <li id="leading-checkbox-list" class="mdc-list-item checkbox-list-ripple-surface" data-mdc-auto-init="MDCRipple">
+      <span class="mdc-list-item__graphic">
+        <div class="mdc-checkbox" data-mdc-auto-init="MDCCheckbox">
+          <input type="checkbox" class="mdc-checkbox__native-control" id="{{ data.name }}">
+          <div class="mdc-checkbox__background">
+            <svg class="mdc-checkbox__checkmark" viewBox="0 0 24 24">
+              <path class="mdc-checkbox__checkmark-path" fill="none" stroke="white" d="M1.73,12.91 8.1,19.28 22.79,4.59"></path>
+            </svg>
+            <div class="mdc-checkbox__mixedmark"></div>
+          </div>
+        </div>
+      </span>
+      <label for="{{ data.name }}">{{ data.name }}</label>
+    <li> {%- endfor -%}
+  </ul>
+</nav>
+
+<div class="mdc-list-group mdc-layout-grid__cell--span-9"> {%- for data in level -%}
+  <h2 class="mdc-list-group__subheader">{{ data.name }}</h2>
+  <ul class="mdc-list mdc-list--two-line"> {%- for data in data.items -%}
+    <li class="mdc-list-item">
+      <span class="mdc-list-item__text">{{ data["Standard description"] }}
+      <span class="mdc-list-item__secondary-text">{{ data.Standard }}</span></span>
+    </li> {%- endfor -%}
+  </ul> {%- endfor -%}
+</div>

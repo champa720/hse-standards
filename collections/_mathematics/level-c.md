@@ -1,0 +1,6 @@
+---
+title: Mathematics Standards Level C
+level: C
+grade: "4-5, 6"
+---
+More than any other, Level C provides the foundation for all future mathematical studies. Fluency with multidigit whole and decimal numbers as well as calculations with fractions (and the relationships between them) carry the most weight at this level. This extends to working with the concept of ratio and rates, addition and subtraction of fractions, and understanding why the procedures for multiplying and dividing fractions make sense. While the greatest emphasis is still on standards for numbers and operations, attention to algebra and geometry increases considerably in Level C. Reading, writing, and interpreting expressions and equations and generating patterns in numbers and shapes provide a conceptual foundation for functions. In addition, analyzing geometric properties, such as parallelism, perpendicularity, and symmetry, and developing and finding volumes of right rectangular prisms take precedence. Level C also emphasizes sampling techniques and data collection through statistical questioning; to previous standards about data, it adds the understanding of measures of center and spread and display of collected data with line plots.

@@ -1,0 +1,29 @@
+
+{%- assign CCRS = site.data.CCRStandardsAdultEd.Mathematics | group_by: "Domain" -%}
+{%- assign KHAN = site.data.Correlations["Khan Academy"] | group_by: "Common Core Area" -%}
+
+<div class="mdc-layout-grid" aria-label="Content">
+  <div class="mdc-layout-grid__inner">
+    <nav class="mdc-layout-grid__cell--span-3">
+      <b>Khan Academy</b> {%- for KA in KHAN -%}
+      <details>
+        <summary>{{ KA.name }}</summary>
+        <ul> {%- for KA in KA.items -%}
+          <li>
+            <a href="{{ KA.['Link to skill'] }}">{{ KA.["Name of skill on Khan Academy"] }}</a>
+          </li> {%- endfor -%}
+        </ul>
+      </details>{%- endfor -%}
+    </nav>
+
+    <div class="mdc-list-group mdc-layout-grid__cell--span-9"> {%- for DOMAIN in CCRS -%}
+      <b>{{ DOMAIN.name }}</b> {% assign STATEMENT = DOMAIN.items | group_by: "Standard statement" %} {% for S in STATEMENT %}
+      <details>
+        <summary>{{ S.items.first["Standard statement"] }}</summary>
+        <ul> {% for standard in S.items %}
+          <li>{{ standard.["Standard description"] }}</li> {%- endfor -%}
+        </ul>
+      </details> {%- endfor -%} {%- endfor -%}
+    </div>
+  <div>
+</div>

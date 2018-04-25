@@ -1,0 +1,6 @@
+---
+title: Mathematics Standards Level D
+level: D
+grade: "6, 7-8"
+---
+Like preceding levels, Level D also emphasizes number sense and operations, but here the attention is on fluency with all four operations with rational numbers—both negative and positive. The foundation for understanding of irrational numbers is built here, including calculation with square and cube roots and solving simple quadratic equations. Another keen area of concentration is algebra and functions: formulating and reasoning about expressions, equations, and inequalities; solving linear equations and systems of linear equations; grasping the concept of a function; and using functions to describe quantitative relationships. Level D is also where understanding and applying ratios, rates, and proportional reasoning—forming a bridge between rational number operations and algebraic relationships—are developed. Building on the geometric analysis in Level C, the focus turns to analyzing two- and threedimensional figures using distance, angle, similarity, and congruence, and understanding basic right triangle trigonometry. Having worked with measurement data in previous levels, students at this level develop notions of statistical variability and learn to understand summary statistics and distributions. The concept of probability is introduced and developed at this level.
