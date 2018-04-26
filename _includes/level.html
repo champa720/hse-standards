@@ -1,9 +1,9 @@
 <section>
-  <div class="dots">
-    <article class="dot active" role="tabpanel" aria-hidden="false">{%- include list.html -%}</article>
-    <article class="dot" role="tabpanel" aria-hidden="true">Item Two</article>
-    <article class="dot" role="tabpanel" aria-hidden="true">Item Three</article>
-    <article class="dot" role="tabpanel" aria-hidden="true">Item Four</article>
-    <article class="dot" role="tabpanel" aria-hidden="true">Item Five</article>
+  <div class="dots"> <!-- rename dots && dot -->
+    {%- assign CCRS = site.data.CCRStandardsAdultEd.Mathematics | group_by: "Level" -%} {%- for L in CCRS -%}
+
+    <article class="dot {%- if forloop.first %} active {%- endif -%}" role="tabpanel" aria-hidden="{%- if forloop.first -%} false {%- else -%} true {%- endif -%}">
+      {%- include list.html -%}
+    </article> {%- endfor -%}
   </div>
 </section>

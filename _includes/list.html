@@ -1,27 +1,46 @@
-
-{%- assign CCRS = site.data.CCRStandardsAdultEd.Mathematics | group_by: "Domain" -%}
-{%- assign KHAN = site.data.Correlations["Khan Academy"] | group_by: "Common Core Area" -%}
+{%- assign KHAN = site.data.Correlations["Khan Academy"] | group_by: "Level" -%}
+{%- assign NP = site.data.Correlations["Number Power"] | group_by: "Standard" -%}
 
 <div class="mdc-layout-grid" aria-label="Content">
   <div class="mdc-layout-grid__inner">
     <nav class="mdc-layout-grid__cell--span-3">
-      <b>Khan Academy</b> {%- for KA in KHAN -%}
+      <b>Khan Academy</b> {%- for KAL in KHAN -%} {%- if KAL.name == L.name -%}
+      {%- assign DOMAIN = KAL.items | group_by: "Common Core Area" -%} {%- for KAD in DOMAIN -%}
       <details>
-        <summary>{{ KA.name }}</summary>
-        <ul> {%- for KA in KA.items -%}
+        <summary>{{ KAD.items.first["Common Core Area"] }}</summary>
+        <ul> {%- for KA in KAD.items -%}
           <li>
             <a href="{{ KA.['Link to skill'] }}">{{ KA.["Name of skill on Khan Academy"] }}</a>
           </li> {%- endfor -%}
         </ul>
-      </details>{%- endfor -%}
+      </details> {%- endfor -%} {%- endif -%} {%- endfor -%}
     </nav>
 
-    <div class="mdc-list-group mdc-layout-grid__cell--span-9"> {%- for DOMAIN in CCRS -%}
-      <b>{{ DOMAIN.name }}</b> {% assign STATEMENT = DOMAIN.items | group_by: "Standard statement" %} {% for S in STATEMENT %}
+    <!-- Investigate how to group KHAN and CCRS is same order -->
+
+
+    {%- assign DOMAIN = L.items | group_by: "Domain" -%}
+
+    <div class="mdc-list-group mdc-layout-grid__cell--span-9"> {%- for D in DOMAIN -%}
+      <b>{{ D.items.first["Domain"] }}</b> {% assign STATEMENT = D.items | group_by: "Standard statement" %} {% for SS in STATEMENT %}
       <details>
-        <summary>{{ S.items.first["Standard statement"] }}</summary>
-        <ul> {% for standard in S.items %}
-          <li>{{ standard.["Standard description"] }}</li> {%- endfor -%}
+        <summary>{{ SS.items.first["Standard statement"] }}</summary>
+        <ul> {% for S in SS.items %}
+          
+          <!-- begin source correlations here with reference to standard -->
+          {%- for STANDARD in NP -%} {%- if STANDARD.name == S.["Standard"] -%}
+
+          <!-- TODO: display CCRStandard information as helper text or modal
+          <em>{{ S.["Standard description"] }}</em> -->
+
+          {%- for NPS in STANDARD.items -%}
+          <li>{{ NPS.["Source"] }} // {{ NPS.["Lesson"] }} // {{ NPS.["Page"] }}</li>
+          {%- endfor -%} {%- endif -%} {%- endfor -%}
+          <!-- end source corrleations -->
+
+          <!-- TODO: display standards not covered -->
+          {%- if forloop.first -%} <hr> {%- endif -%}
+          <li>{{ S.["Standard"] }} <em>{{ S.["Standard description"] }}</em></li> {%- endfor -%}
         </ul>
       </details> {%- endfor -%} {%- endfor -%}
     </div>
