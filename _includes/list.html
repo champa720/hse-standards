@@ -1,11 +1,11 @@
-{%- assign KHAN = site.data.Correlations["Khan Academy"] | uniq | group_by: "Standard" -%}
-{%- assign NP = site.data.Correlations["Number Power"] | group_by: "Standard" -%}
+{%- assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] | uniq | group_by: "Standard" -%}
+{%- assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] | group_by: "Standard" -%}
 {%- assign DOMAIN = L.items | group_by: "Domain" -%}
 
 
 <div class="mdc-layout-grid" aria-label="Content">
   <div class="mdc-layout-grid__inner">
-    <div class="mdc-layout-grid__cell--span-4">
+    <div class="mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-4-desktop">
       {%- for D in DOMAIN -%}
       <h2 class="mdc-typography--headline6">{{ D.items.first["Domain"] }}</h2>
       {% assign STATEMENT = D.items | group_by: "Standard statement" %}
@@ -56,7 +56,7 @@
           {% for S in SS.items %}
 
           <!-- begin source correlations here with reference to standard -->
-          {%- for STANDARD in NP -%}
+          {%- for STANDARD in TEXT -%}
           {%- if STANDARD.name == S.["Standard"] -%}
           {%- for NPS in STANDARD.items -%}
           <li class="mdc-list-item">
