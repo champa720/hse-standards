@@ -1,9 +1,5 @@
-<section>
-  <div class="dots"> <!-- rename dots && dot -->
-    {%- assign CCRS = site.data.CCRStandardsAdultEd.Mathematics | group_by: "Level" -%} {%- for L in CCRS -%}
-
-    <article class="dot {%- if forloop.first %} active {%- endif -%}" role="tabpanel" aria-hidden="{%- if forloop.first -%} false {%- else -%} true {%- endif -%}">
-      {%- include list.html -%}
-    </article> {%- endfor -%}
-  </div>
+<section class="dots"> <!-- rename dots && dot --> {%- for page in site.mathematics -%}
+  <article id="lower-panel-{{ forloop.index }}" class="dot {%- if page.level == "C" %} active {%- endif -%}" role="tabpanel" aria-hidden="{%- if page.level == "C" -%} false {%- else -%} true {%- endif -%}">
+    {%- include list.html -%}
+  </article> {%- endfor -%}
 </section>

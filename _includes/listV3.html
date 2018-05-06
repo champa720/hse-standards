@@ -1,0 +1,86 @@
+{%- assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] | uniq | group_by: "Standard" -%}
+{%- assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] | group_by: "Standard" -%}
+{%- assign DOMAIN = L.items | group_by: "Domain" -%}
+
+
+<div class="mdc-layout-grid" aria-label="Content">
+  <div class="mdc-layout-grid__inner">
+    <div class="mdc-layout-grid__cell--span-8-tablet mdc-layout-grid__cell--span-4-desktop">
+      {%- for D in DOMAIN -%}
+      <h2 class="mdc-typography--headline6">{{ D.items.first["Domain"] }}</h2>
+      {% assign STATEMENT = D.items | group_by: "Standard statement" %}
+      <div class="mdc-list-group">
+        {% for SS in STATEMENT %}
+        {% unless forloop.first %}
+        <hr class="mdc-list-divider">
+        {% endunless %}
+        <h3 class="mdc-list-group__subheader">{{ SS.items.first["Standard statement"] }}</h3>
+        <nav class="mdc-list mdc-list--two-line mdc-list--dense">
+          {% for S in SS.items %}
+
+          <!-- begin source correlations here with reference to standard -->
+          {%- for STANDARD in KHAN -%}
+          {%- if STANDARD.name == S.["Standard"] -%}
+          {%- for KA in STANDARD.items -%}
+          <a class="mdc-list-item mdc-ripple-surface" href="{{ KA.['Link to skill'] }}" data-mdc-auto-init="MDCRipple">
+            <span class="mdc-list-item__text">{{ KA.["Name of skill on Khan Academy"] }}
+              <span class="mdc-list-item__secondary-text">{{ KA.["Description"] }}</span>
+            </span>
+            <span class="mdc-list-item__meta">{{ KA.["Standard"] }}</span>
+          </a>
+          {%- endfor -%}
+          {%- endif -%}
+          {%- endfor -%}
+          <!-- end correlations -->
+
+          {%- endfor -%}
+        </nav>
+        {%- endfor -%}
+      </div>
+      {%- endfor -%}
+    </div>
+
+
+    <div class="mdc-layout-grid__cell--span-8">
+      {%- for D in DOMAIN -%}
+      <h2 class="mdc-typography--headline6">{{ D.items.first["Domain"] }}</h2>
+      {% assign STATEMENT = D.items | group_by: "Standard statement" %}
+      <div class="mdc-list-group">
+        {% for SS in STATEMENT %}
+        {% unless forloop.first %}
+        <hr class="mdc-list-divider">
+        {% endunless %}
+        <h3 class="mdc-list-group__subheader">{{ SS.items.first["Standard statement"] }}</h3>
+        <p class="mdc-list-group__subheader">{{ SS.items.first["Standard"] }}</p>
+        <ul class="mdc-list mdc-list--two-line mdc-list--dense">
+          {% for S in SS.items %}
+
+          <!-- begin source correlations here with reference to standard -->
+          {%- for STANDARD in TEXT -%}
+          {%- if STANDARD.name == S.["Standard"] -%}
+          {%- for NPS in STANDARD.items -%}
+          <li class="mdc-list-item">
+            <span class="mdc-list-item__text">{{ NPS.["Lesson"] }}
+              <span class="mdc-list-item__secondary-text">{{ NPS.["Source"] }} // {{ NPS.["Page"] }}</span>
+            </span>
+            <span class="mdc-list-item__meta">{{ NPS.["Standard"] }}</span>
+          </li>
+          {%- endfor -%}
+          {%- endif -%}
+          {%- endfor -%}
+          <!-- end source corrleations -->
+
+          <!-- TODO: display standards not covered
+          {%- if forloop.first -%} <hr> {%- endif -%}
+          <li>{{ S.["Standard"] }} <em>{{ S.["Standard description"] }}</em></li>
+          {%- endfor -%} -->
+
+          <!-- TODO: display CCRStandard information as helper text or modal
+          <em>{{ S.["Standard description"] }}</em> -->
+        </ul>
+        {%- endfor -%}
+      </div>
+      {%- endfor -%}
+    </div>
+  <div>
+</div>
