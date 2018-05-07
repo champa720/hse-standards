@@ -110,6 +110,84 @@
       {%- endfor -%}
 
     </div>
+
+    <!-- khanacademy move to persitant drawer-right -->
+    <div class="mdc-layout-grid__cell--span-4-phone
+                mdc-layout-grid__cell--span-6-tablet
+                mdc-layout-grid__cell--span-3-desktop">
+
+      <article id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}-khanacademy" class="bookmark">
+        <div class="bookmark__sticky">
+          <div class="mdc-card mdc-card--outlined">
+            <div class="mdc-card__content--primary">
+              <h2 class="mdc-typography--headline4">Khan Academy</h2>
+            </div>
+          </div>
+        </div>
+        {%- for mDataDomain in MATH -%}
+        <div class="mdc-list-group" khanacademy>
+          <p class="mdc-list-group__subheader">{{ mDataDomain.name }}</p>
+
+          {%- for mDataItem in mDataDomain.items -%}
+          <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
+          <p class="mdc-list-group__subheader">{{ mDataItem.Standard }}</p>
+
+          {%- comment -%}
+          <div class="mdc-card mdc-card--outlined">
+            <div class="mdc-card__content--sticky">
+              <div class="mdc-card__content--primary">
+                <span class="mdc-card__content">
+                  <h3 class="mdc-card__title mdc-typography--headline6">{{ mDataItem.["Standard statement"] }}</h3>
+                  <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
+                </span>
+                <!-- title="khanacademy standard exercises" -->
+
+              </div>
+              <div class="mdc-card__content--secondary">
+                <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
+              </div>
+              <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
+            </div>
+          </div>
+          {%- endcomment -%}
+
+
+          {%- for kDataStandard in KHAN -%}
+          {%- if kDataStandard.name == mDataItem.Standard -%}
+          {%- capture kDataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
+          {%- assign kDataItem = kDataStandard.items -%}
+          <!-- begin khanacademy correlations -->
+          <nav class="mdc-list mdc-list--two-line mdc-list--dense">
+            {%- for kData in kDataItem -%}
+            <a class="mdc-list-item mdc-ripple-surface" href="{{ kData.['Link to skill'] }}" target="_blank" role="listitem" data-mdc-auto-init="MDCRipple">
+              <span class="mdc-list-item__text">{{ kData.["Name of skill on Khan Academy"] }}
+                <span class="mdc-list-item__secondary-text">{{ kData.["Description"] }}</span>
+              </span>
+              <span class="mdc-list-item__meta">{{ kData.["Standard"] }}</span>
+            </a>
+            {%- endfor -%}
+          </nav>
+          {%- endif -%}
+          {%- endfor -%}
+
+
+          {%- if kDataMatch != mDataItem.Standard -%}
+          <!-- no text corrlelation warning -->
+          <ul class="mdc-list mdc-list--non-interactive">
+            <li class="mdc-list-item" role="listitem">
+              <span class="mdc-list-item__text">No available content</span>
+              <span class="mdc-list-item__meta material-icons">clear</span>
+            </li>
+          </ul>
+          {%- endif -%}
+
+
+          {%- endfor -%}
+        </div>
+
+        {%- endfor -%}
+      </article>
+    </div>
   </div>
 </div>
 
@@ -133,7 +211,7 @@
       {%- for STANDARD in KHAN -%}
       {%- if STANDARD.name == S.["Standard"] -%}
       {%- for KA in STANDARD.items -%}
-      <a class="mdc-list-item mdc-ripple-surface" href="{{ KA.['Link to skill'] }}" data-mdc-auto-init="MDCRipple">
+      <a class="mdc-list-item mdc-ripple-surface" href="{{ KA.['Link to skill'] }}" role="listitem" data-mdc-auto-init="MDCRipple">
         <span class="mdc-list-item__text">{{ KA.["Name of skill on Khan Academy"] }}
           <span class="mdc-list-item__secondary-text">{{ KA.["Description"] }}</span>
         </span>
