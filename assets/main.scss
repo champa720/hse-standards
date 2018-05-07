@@ -106,6 +106,12 @@ body {
 
 
 // Begin list
-.mdc-list-group {
-  //border: 1px solid rgba(0, 0, 0, 0.1);
+.mdc-list-group[khanacademy] {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+[khanacademy] p:first-child {
+  position: sticky;
+  top: 194px;
+  z-index: 1;
+  background-color: var(--mdc-theme-surface);
 }
