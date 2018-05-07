@@ -29,63 +29,84 @@
                 mdc-layout-grid__cell--span-6-desktop">
 
       {%- for mDataDomain in MATH -%}
-      <h4 id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}" class="bookmark mdc-typography--headline4">{{ mDataDomain.name }}</h4>
-      {%- for mDataItem in mDataDomain.items -%}
-      <div class="mdc-card mdc-card--outlined">
-        <div class="mdc-card__primary">
-          <h3 class="mdc-card__title mdc-typography--headline6">{{ mDataItem.["Standard statement"] }}</h3>
-          <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
-        </div>
-        <div class="mdc-card__secondary">
-          <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
+      <article id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}" class="bookmark">
+        <div class="bookmark__sticky">
+          <div class="mdc-card mdc-card--outlined">
+            <div class="mdc-card__content--primary">
+              <h2 class="mdc-typography--headline4">{{ mDataDomain.name }}</h2>
+            </div>
+          </div>
         </div>
 
-
-        {%- for tDataStandard in TEXT -%}
-        {%- if tDataStandard.name == mDataItem.Standard -%}
-        {%- capture dataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
-        {%- assign tDataSourceGroup = tDataStandard.items | group_by: "Source" -%}
-        <!-- begin text correlations -->
-        <div class="mdc-list-group">
-          {%- for tDataSource in tDataSourceGroup -%}
-          <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
-            <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
-            <li class="mdc-list-item" role="listitem">
-              <span class="mdc-list-item__graphic material-icons" aria-hidden="true">book</span>
-              <span class="mdc-list-item__text">{{ tDataSource.name }}</span>
-            </li>
-          </ul>
-          <ul class="mdc-list mdc-list--two-line mdc-list--dense">
-            {%- for tDataItem in tDataSource.items -%}
-            <li class="mdc-list-item" role="listitem">
-              <span class="mdc-list-item__graphic"></span>
-              <span class="mdc-list-item__text">{{ tDataItem.["Lesson"] }}
-                <span class="mdc-list-item__secondary-text">{{ tDataItem.["Page"] }}</span>
+        {%- for mDataItem in mDataDomain.items -%}
+        <div class="mdc-card mdc-card--outlined">
+          <div class="mdc-card__content--sticky">
+            <div class="mdc-card__content--primary">
+              <span class="mdc-card__content">
+                <h3 class="mdc-card__title mdc-typography--headline6">{{ mDataItem.["Standard statement"] }}</h3>
+                <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
               </span>
-              <span class="mdc-list-item__meta">{{ tDataItem.["Standard"] }}</span>
-            </li>
+              <!-- title="khanacademy standard exercises" -->
+
+            </div>
+            <div class="mdc-card__content--secondary">
+              <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
+            </div>
+            <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
+          </div>
+
+
+          {%- for tDataStandard in TEXT -%}
+          {%- if tDataStandard.name == mDataItem.Standard -%}
+          {%- capture dataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
+          {%- assign tDataSourceGroup = tDataStandard.items | group_by: "Source" -%}
+          <!-- begin text correlations -->
+          <div class="mdc-list-group">
+            {%- for tDataSource in tDataSourceGroup -%}
+            <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
+              {%- unless forloop.first -%}
+              <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
+              {%- endunless -%}
+              <li class="mdc-list-item" role="listitem">
+                <span class="mdc-list-item__graphic material-icons" aria-hidden="true">book</span>
+                <span class="mdc-list-item__text">{{ tDataSource.name }}</span>
+              </li>
+            </ul>
+            <ul class="mdc-list mdc-list--two-line mdc-list--dense">
+              {%- for tDataItem in tDataSource.items -%}
+              <li class="mdc-list-item" role="listitem">
+                <span class="mdc-list-item__graphic"></span>
+                <span class="mdc-list-item__text">{{ tDataItem.["Lesson"] }}
+                  <span class="mdc-list-item__secondary-text">{{ tDataItem.["Page"] }}</span>
+                </span>
+                <span class="mdc-list-item__meta">{{ tDataItem.["Standard"] }}</span>
+              </li>
+              {%- endfor -%}
+            </ul>
             {%- endfor -%}
-          </ul>
+          </div>
+          {%- endif -%}
           {%- endfor -%}
+
+
+          {%- if dataMatch != mDataItem.Standard -%}
+          <!-- no text corrlelation warning -->
+          <div class="mdc-list-group">
+            <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
+              <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
+              <li class="mdc-list-item" role="listitem">
+                <span class="mdc-list-item__graphic material-icons" aria-hidden="true">clear</span>
+                <span class="mdc-list-item__text">No text available</span>
+              </li>
+            </ul>
+          </div>
+          {%endif%}
+
+
         </div>
-        {%- endif -%}
         {%- endfor -%}
 
-
-        {%- if dataMatch != mDataItem.Standard -%}
-        <!-- no text corrlelation warning -->
-        <div class="mdc-list-group">
-          <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
-            <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
-            <li class="mdc-list-item" role="listitem">
-              <span class="mdc-list-item__graphic material-icons" aria-hidden="true">clear</span>
-              <span class="mdc-list-item__text">No text available</span>
-            </li>
-          </ul>
-        </div>
-        {%endif%}
-      </div>
-      {%- endfor -%}
+      </article>
       {%- endfor -%}
 
     </div>

@@ -1,5 +1,5 @@
-<section class="dots"> <!-- rename dots && dot --> {%- for page in site.mathematics -%}
-  <article id="lower-panel-{{ forloop.index }}" class="dot {%- if page.level == "C" %} active {%- endif -%}" role="tabpanel" aria-hidden="{%- if page.level == "C" -%} false {%- else -%} true {%- endif -%}">
+<div class="dots"> <!-- rename dots && dot --> {%- for page in site.mathematics -%}
+  <section id="lower-panel-{{ forloop.index }}" class="dot {%- if page.level == "C" %} active {%- endif -%}" role="tabpanel" aria-hidden="{%- if page.level == "C" -%} false {%- else -%} true {%- endif -%}">
     {%- include list.html -%}
-  </article> {%- endfor -%}
-</section>
+  </section> {%- endfor -%}
+</div>
