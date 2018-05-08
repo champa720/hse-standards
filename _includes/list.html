@@ -47,7 +47,7 @@
                 <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
               </span>
               <!-- title="khanacademy standard exercises" -->
-
+              <i id="dialog-{{ mDataItem.Standard | slugify }}-activation" class="mdc-icon-toggle mdc-card__overflow material-icons" role="button" title="khanacademy standard exercises">more_vert</i>
             </div>
             <div class="mdc-card__content--secondary">
               <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
@@ -111,7 +111,7 @@
 
     </div>
 
-    <!-- khanacademy move to persitant drawer-right -->
+    <!-- khanacademy move to dialog test --> {%- comment -%}
     <div class="mdc-layout-grid__cell--span-4-phone
                 mdc-layout-grid__cell--span-6-tablet
                 mdc-layout-grid__cell--span-3-desktop">
@@ -187,45 +187,71 @@
 
         {%- endfor -%}
       </article>
-    </div>
+    </div> {%- endcomment -%}
   </div>
 </div>
 
 
+<!--
+//
+//
+//
+//
+//
+//
+//
+-->
 
-{% comment %}
 
-  {%- for D in DOMAIN -%}
-  <h2 class="mdc-typography--headline6">{{ D.items.first["Domain"] }}</h2>
-  {% assign STATEMENT = D.items | group_by: "Standard statement" %}
-  <div class="mdc-list-group">
-    {% for SS in STATEMENT %}
-    {% unless forloop.first %}
-    <hr class="mdc-list-divider">
-    {% endunless %}
-    <h3 class="mdc-list-group__subheader">{{ SS.items.first["Standard statement"] }}</h3>
-    <nav class="mdc-list mdc-list--two-line mdc-list--dense">
-      {% for S in SS.items %}
+{%- for mDataDomain in MATH -%}
+{%- for mDataItem in mDataDomain.items -%}
+<aside id="dialog-{{ mDataItem.["Standard"] | slugify }}"
+  class="mdc-dialog"
+  role="dialog"
+  aria-labelledby="dialog-{{ mDataItem.["Standard"] | slugify }}-label"
+  aria-describedby="dialog-{{ mDataItem.["Standard"] | slugify }}-description">
+  <div class="mdc-dialog__surface">
+    <header class="mdc-dialog__header">
+      <h2 id="mdc-dialog-with-list-label" class="mdc-dialog__header__title">
+        {{ mDataItem.["Standard"] }}
+      </h2>
+    </header>
+    <section class="mdc-dialog__body mdc-dialog__body--scrollable">
+      <p>{{ mDataItem.["Standard statement"] }}</p>
 
-      <!-- begin source correlations here with reference to standard -->
-      {%- for STANDARD in KHAN -%}
-      {%- if STANDARD.name == S.["Standard"] -%}
-      {%- for KA in STANDARD.items -%}
-      <a class="mdc-list-item mdc-ripple-surface" href="{{ KA.['Link to skill'] }}" role="listitem" data-mdc-auto-init="MDCRipple">
-        <span class="mdc-list-item__text">{{ KA.["Name of skill on Khan Academy"] }}
-          <span class="mdc-list-item__secondary-text">{{ KA.["Description"] }}</span>
-        </span>
-        <span class="mdc-list-item__meta">{{ KA.["Standard"] }}</span>
-      </a>
-      {%- endfor -%}
+      <!-- begin khanacademy correlations -->
+      {%- for kDataStandard in KHAN -%}
+      {%- if kDataStandard.name == mDataItem.Standard -%}
+      {%- capture kDataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
+      {%- assign kDataItem = kDataStandard.items -%}
+      <nav class="mdc-list mdc-list--two-line mdc-list--dense">
+        {%- for kData in kDataItem -%}
+        <a class="mdc-list-item mdc-ripple-surface" href="{{ kData.['Link to skill'] }}" target="_blank" role="listitem" data-mdc-auto-init="MDCRipple">
+          <span class="mdc-list-item__text">{{ kData.["Name of skill on Khan Academy"] }}
+            <span class="mdc-list-item__secondary-text">{{ kData.["Description"] }}</span>
+          </span>
+          <span class="mdc-list-item__meta">{{ kData.["Standard"] }}</span>
+        </a>
+        {%- endfor -%}
+      </nav>
       {%- endif -%}
       {%- endfor -%}
-      <!-- end correlations -->
+      {%- if kDataMatch != mDataItem.Standard -%}
+      <!-- no text corrlelation warning -->
+      <ul class="mdc-list mdc-list--non-interactive">
+        <li class="mdc-list-item" role="listitem">
+          <span class="mdc-list-item__text">No available content</span>
+          <span class="mdc-list-item__meta material-icons">clear</span>
+        </li>
+      </ul>
+      {%- endif -%}
 
-      {%- endfor -%}
-    </nav>
-    {%- endfor -%}
+    </section>
+    <footer class="mdc-dialog__footer">
+      <button type="button" class="mdc-button mdc-dialog__footer__button mdc-dialog__footer__button--accept">Close</button>
+    </footer>
   </div>
-  {%- endfor -%}
-
-{% endcomment %}
+  <div class="mdc-dialog__backdrop"></div>
+</aside>
+{%- endfor -%}
+{%- endfor -%}

@@ -58,3 +58,24 @@ dots.addEventListener('click', function (evt) {
   updateDot(dotIndex);
 })
 </script>
+
+
+{%- assign mDataStandardGroup = site.data.CCRStandardsAdultEd["Mathematics"] | group_by: "Standard" -%}
+{%- for mDataStandard in mDataStandardGroup -%}
+<script>
+  var dialog{{ forloop.index }} = new mdc.dialog.MDCDialog(document.querySelector('#dialog-{{ mDataStandard.name | slugify }}'));
+
+  dialog{{ forloop.index }}.listen('MDCDialog:accept', function() {
+    console.log('accepted');
+  })
+
+  dialog{{ forloop.index }}.listen('MDCDialog:cancel', function() {
+    console.log('canceled');
+  })
+
+  document.querySelector('#dialog-{{ mDataStandard.name | slugify }}-activation').addEventListener('click', function (evt) {
+    dialog{{ forloop.index }}.lastFocusedTarget = evt.target;
+    dialog{{ forloop.index }}.show();
+  })
+</script>
+{%- endfor -%}
