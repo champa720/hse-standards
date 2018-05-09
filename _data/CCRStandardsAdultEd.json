@@ -70,7 +70,7 @@
       "Grade": 1,
       "Domain": "Operations and Algebraic Thinking",
       "Standard statement": "Represent and solve problems involving addition and subtraction.",
-      "Standard description": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem."
+      "Standard description": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem. (1.OA.2)"
     },
     {
       "Standard": "1.OA.3",
@@ -31921,6 +31921,3910 @@
   ],
   "Mathematics Text": [
     {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 8",
+      "Standard": "1.NBT.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 9",
+      "Standard": "1.NBT.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 11",
+      "Standard": "1.NBT.3",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 27-32",
+      "Standard": "1.NBT.4",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 37-42",
+      "Standard": "1.NBT.6",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 36",
+      "Standard": "1.OA.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 45",
+      "Standard": "1.OA.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 73",
+      "Standard": "1.OA.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 102",
+      "Standard": "1.OA.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 27",
+      "Standard": "1.OA.3",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 37",
+      "Standard": "1.OA.3",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 37-38",
+      "Standard": "1.OA.4",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 29",
+      "Standard": "1.OA.5",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 97",
+      "Standard": "1.OA.5",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 28-29",
+      "Standard": "1.OA.6",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 38",
+      "Standard": "1.OA.6",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 27",
+      "Standard": "1.OA.7",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 37",
+      "Standard": "1.OA.7",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 98",
+      "Standard": "1.OA.7",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 125-127",
+      "Standard": "K.G.4",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 113-114",
+      "Standard": "1.MD.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 116",
+      "Standard": "1.MD.2",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 81-88",
+      "Standard": "1.MD.4",
+      "Level": "A"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 8-9",
+      "Standard": "2.NBT.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 25-26",
+      "Standard": "2.NBT.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 97",
+      "Standard": "2.NBT.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 10",
+      "Standard": "2.NBT.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 11",
+      "Standard": "2.NBT.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 30-31",
+      "Standard": "2.NBT.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 32",
+      "Standard": "2.NBT.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 39-42",
+      "Standard": "2.NBT.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 27",
+      "Standard": "2.NBT.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 37",
+      "Standard": "2.NBT.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 14-16",
+      "Standard": "3.NBT.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 25-26",
+      "Standard": "3.NBT.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 27-32",
+      "Standard": "3.NBT.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 37-42",
+      "Standard": "3.NBT.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 19",
+      "Standard": "3.NF.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 21",
+      "Standard": "3.NF.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 21",
+      "Standard": "3.NF.3b",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 36",
+      "Standard": "2.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 45",
+      "Standard": "2.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 73",
+      "Standard": "2.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 102",
+      "Standard": "2.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 28",
+      "Standard": "2.OA.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 47",
+      "Standard": "3.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 56",
+      "Standard": "3.OA.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 57",
+      "Standard": "3.OA.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 63-64",
+      "Standard": "3.OA.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 100",
+      "Standard": "3.OA.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 57",
+      "Standard": "3.OA.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 56-57",
+      "Standard": "3.OA.5",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 56-57",
+      "Standard": "3.OA.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48-52",
+      "Standard": "3.OA.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 58-61",
+      "Standard": "3.OA.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 68-72",
+      "Standard": "3.OA.8",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 74-77",
+      "Standard": "3.OA.8",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 95-98",
+      "Standard": "3.OA.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 100-101",
+      "Standard": "3.OA.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 105-106",
+      "Standard": "3.OA.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 125-127",
+      "Standard": "2.G.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 19-20",
+      "Standard": "2.G.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 125",
+      "Standard": "3.G.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 19-20",
+      "Standard": "3.G.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 114",
+      "Standard": "2.MD.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 113",
+      "Standard": "2.MD.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 119-121",
+      "Standard": "3.MD.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 117-118",
+      "Standard": "3.MD.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 123-124",
+      "Standard": "3.MD.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 87-88",
+      "Standard": "2.MD.10",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 93-94",
+      "Standard": "2.MD.10",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level E",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 114-115",
+      "Standard": "3.MD.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 8-9",
+      "Standard": "2.NBT.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 8-10",
+      "Standard": "2.NBT.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 11",
+      "Standard": "2.NBT.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 17",
+      "Standard": "2.NBT.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 15-20",
+      "Standard": "2.NBT.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 26-30",
+      "Standard": "2.NBT.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 15",
+      "Standard": "2.NBT.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 26",
+      "Standard": "2.NBT.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 12",
+      "Standard": "3.NBT.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 16-20",
+      "Standard": "3.NBT.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 27-30",
+      "Standard": "3.NBT.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 41",
+      "Standard": "3.NBT.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 63-64",
+      "Standard": "3.NF.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 74",
+      "Standard": "3.NF.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "3.NF.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 69-70",
+      "Standard": "3.NF.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 67",
+      "Standard": "3.NF.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "3.NF.3a",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "3.NF.3b",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 67",
+      "Standard": "3.NF.3c",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 69-70",
+      "Standard": "3.NF.3d",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 22-23",
+      "Standard": "2.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 32-33",
+      "Standard": "2.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 27",
+      "Standard": "2.OA.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 36",
+      "Standard": "3.OA.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 48",
+      "Standard": "3.OA.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 44-45",
+      "Standard": "3.OA.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 59",
+      "Standard": "3.OA.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 37",
+      "Standard": "3.OA.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 49",
+      "Standard": "3.OA.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 113",
+      "Standard": "3.OA.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 36",
+      "Standard": "3.OA.5",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48-49",
+      "Standard": "3.OA.5",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 114-115",
+      "Standard": "3.OA.5",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 49",
+      "Standard": "3.OA.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 115",
+      "Standard": "3.OA.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 37",
+      "Standard": "3.OA.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 49",
+      "Standard": "3.OA.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 60",
+      "Standard": "3.OA.8",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 112",
+      "Standard": "3.OA.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 122-128",
+      "Standard": "3.OA.9",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 146-148",
+      "Standard": "2.G.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 154",
+      "Standard": "2.G.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "2.G.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 146-147",
+      "Standard": "3.G.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "3.G.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 132",
+      "Standard": "2.MD.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 125",
+      "Standard": "2.MD.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 132",
+      "Standard": "2.MD.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 131",
+      "Standard": "2.MD.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 137-140",
+      "Standard": "3.MD.1",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 125",
+      "Standard": "3.MD.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 130",
+      "Standard": "3.MD.2",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 104-105",
+      "Standard": "2.MD.10",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 104-105",
+      "Standard": "3.MD.3",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 131-132",
+      "Standard": "3.MD.4",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "3.MD.5",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "3.MD.6",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "3.MD.7",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "3.MD.7a",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "3.MD.7b",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "3.MD.7c",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 135",
+      "Standard": "3.MD.8",
+      "Level": "B"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 8",
+      "Standard": "4.NBT.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 9-11",
+      "Standard": "4.NBT.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 12",
+      "Standard": "4.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 15-20",
+      "Standard": "4.NBT.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 26-30",
+      "Standard": "4.NBT.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 38-39",
+      "Standard": "4.NBT.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 42",
+      "Standard": "4.NBT.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48-54",
+      "Standard": "4.NBT.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 56-57",
+      "Standard": "4.NBT.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 8",
+      "Standard": "5.NBT.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 84",
+      "Standard": "5.NBT.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 84-85",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 88",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 85-86",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 87-88",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 85-86",
+      "Standard": "5.NBT.3a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 87-88",
+      "Standard": "5.NBT.3b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 92",
+      "Standard": "5.NBT.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48-54",
+      "Standard": "6.NS.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 56-58",
+      "Standard": "6.NS.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 89-91",
+      "Standard": "6.NS.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 66",
+      "Standard": "6.NS.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 66-68",
+      "Standard": "4.NF.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 69-70",
+      "Standard": "4.NF.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "4.NF.3a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "4.NF.3b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "4.NF.3c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "4.NF.3d",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 72-73",
+      "Standard": "4.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 72",
+      "Standard": "4.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "4.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 72",
+      "Standard": "4.NF.4b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "4.NF.4c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "4.NF.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 86",
+      "Standard": "4.NF.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 87",
+      "Standard": "4.NF.7",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 78",
+      "Standard": "5.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 72-73",
+      "Standard": "5.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 80",
+      "Standard": "5.NF.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 78",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 81-82",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-88",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 97-98",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 134",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 136-137",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 146-150",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 78-79",
+      "Standard": "6.RP.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 114-115",
+      "Standard": "4.OA.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 120-121",
+      "Standard": "4.OA.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 40",
+      "Standard": "4.OA.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 110-112",
+      "Standard": "4.OA.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 117-119",
+      "Standard": "5.OA.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 117-118",
+      "Standard": "5.OA.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 117-118",
+      "Standard": "6.EE.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 117",
+      "Standard": "6.EE.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 119",
+      "Standard": "6.EE.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 117",
+      "Standard": "6.EE.2a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 119",
+      "Standard": "6.EE.2c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 114-115",
+      "Standard": "6.EE.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 117",
+      "Standard": "6.EE.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 120",
+      "Standard": "6.EE.7",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 143-145",
+      "Standard": "4.G.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 155",
+      "Standard": "4.G.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 146-147",
+      "Standard": "5.G.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "6.G.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-127",
+      "Standard": "4.MD.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 135-136",
+      "Standard": "4.MD.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 143-144",
+      "Standard": "4.MD.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-129",
+      "Standard": "5.MD.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level M",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 100-101",
+      "Standard": "6.SP.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 8",
+      "Standard": "4.NBT.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 9-10",
+      "Standard": "4.NBT.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 12",
+      "Standard": "4.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 15-16",
+      "Standard": "4.NBT.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 18-21",
+      "Standard": "4.NBT.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 23-26",
+      "Standard": "4.NBT.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 8",
+      "Standard": "5.NBT.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 40",
+      "Standard": "5.NBT.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 40-41",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 40",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 41",
+      "Standard": "5.NBT.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 40",
+      "Standard": "5.NBT.3a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 41",
+      "Standard": "5.NBT.3b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 42",
+      "Standard": "5.NBT.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 23-26",
+      "Standard": "6.NS.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 28-29",
+      "Standard": "6.NS.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 43-49",
+      "Standard": "6.NS.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 18",
+      "Standard": "6.NS.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 55",
+      "Standard": "4.NF.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 54",
+      "Standard": "4.NF.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 53",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 60",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 60-61",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "4.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 60",
+      "Standard": "4.NF.3a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 60-61",
+      "Standard": "4.NF.3c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "4.NF.3d",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "4.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 56",
+      "Standard": "4.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "4.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 56",
+      "Standard": "4.NF.4a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "4.NF.4b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 65",
+      "Standard": "4.NF.4c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "4.NF.4c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 57",
+      "Standard": "4.NF.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 41",
+      "Standard": "4.NF.7",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 64",
+      "Standard": "5.NF.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "5.NF.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 81",
+      "Standard": "5.NF.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 65-66",
+      "Standard": "5.NF.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 84",
+      "Standard": "5.NF.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "5.NF.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 69",
+      "Standard": "5.NF.7",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 69",
+      "Standard": "5.NF.7a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 69",
+      "Standard": "5.NF.7b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 69",
+      "Standard": "5.NF.7c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 80",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 82",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-87",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 92-93",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 146-152",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 158-159",
+      "Standard": "6.RP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-89",
+      "Standard": "6.RP.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 100",
+      "Standard": "4.OA.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 100-101",
+      "Standard": "4.OA.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 36",
+      "Standard": "4.OA.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 58",
+      "Standard": "4.OA.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 99",
+      "Standard": "4.OA.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 102",
+      "Standard": "4.OA.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 103-104",
+      "Standard": "5.OA.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 103",
+      "Standard": "5.OA.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 105",
+      "Standard": "5.OA.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 100-101",
+      "Standard": "6.EE.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 103-104",
+      "Standard": "6.EE.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 103-104",
+      "Standard": "6.EE.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 103",
+      "Standard": "6.EE.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 104",
+      "Standard": "6.EE.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 103",
+      "Standard": "6.EE.2a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 103",
+      "Standard": "6.EE.2b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 104",
+      "Standard": "6.EE.2c",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 100-101",
+      "Standard": "6.EE.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 105-108",
+      "Standard": "6.EE.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 105",
+      "Standard": "6.EE.6",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 106-107",
+      "Standard": "6.EE.7",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 109-110",
+      "Standard": "6.EE.7",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 109",
+      "Standard": "6.EE.8",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 113-119",
+      "Standard": "4.G.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 126",
+      "Standard": "5.G.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 116-118",
+      "Standard": "5.G.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 143-148",
+      "Standard": "6.G.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 147",
+      "Standard": "6.G.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 138-140",
+      "Standard": "4.MD.2",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 141",
+      "Standard": "4.MD.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 143",
+      "Standard": "4.MD.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 113-114",
+      "Standard": "4.MD.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 134",
+      "Standard": "5.MD.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 136",
+      "Standard": "5.MD.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "5.MD.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "5.MD.4",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "5.MD.5",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "5.MD.5a",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "5.MD.5b",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 153",
+      "Standard": "6.SP.1",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 158",
+      "Standard": "6.SP.3",
+      "Level": "C"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 78",
+      "Standard": "6.NS.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 73-74",
+      "Standard": "6.NS.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "6.NS.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "6.NS.6a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 74",
+      "Standard": "6.NS.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 78",
+      "Standard": "6.NS.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 74",
+      "Standard": "6.NS.7a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 78",
+      "Standard": "6.NS.7d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-128",
+      "Standard": "6.NS.8",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 75-76",
+      "Standard": "7.NS.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 75",
+      "Standard": "7.NS.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "7.NS.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 75-76",
+      "Standard": "7.NS.1a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 75",
+      "Standard": "7.NS.1b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "7.NS.1c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 75-76",
+      "Standard": "7.NS.1d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "7.NS.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "7.NS.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "7.NS.2a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "7.NS.2b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 77",
+      "Standard": "7.NS.2c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 50",
+      "Standard": "7.NS.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "7.NS.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 78",
+      "Standard": "7.NS.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 81-82",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-88",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-87",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 88",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 97-98",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 134",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 136-137",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 149-150",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-87",
+      "Standard": "6.RP.3b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 88",
+      "Standard": "6.RP.3c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 97-98",
+      "Standard": "6.RP.3c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 134",
+      "Standard": "6.RP.3d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 136-137",
+      "Standard": "6.RP.3d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 149-150",
+      "Standard": "6.RP.3d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 83-84",
+      "Standard": "7.RP.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 85",
+      "Standard": "7.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 91-98",
+      "Standard": "7.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 103-105",
+      "Standard": "7.EE.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 11",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 17",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 22",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 27",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 30-31",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 36-39",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 89-90",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 109-112",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 108-109",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 111-112",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 109-112",
+      "Standard": "7.EE.4a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 108-109",
+      "Standard": "7.EE.4b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 111-112",
+      "Standard": "7.EE.4b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 106-107",
+      "Standard": "8.EE.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 106-107",
+      "Standard": "8.EE.7a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 106-107",
+      "Standard": "8.EE.7b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 102",
+      "Standard": "8.F.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 102",
+      "Standard": "8.F.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 142",
+      "Standard": "7.G.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 146",
+      "Standard": "7.G.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 121",
+      "Standard": "8.G.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 124-125",
+      "Standard": "8.G.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 121",
+      "Standard": "8.G.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 153",
+      "Standard": "7.SP.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 151-152",
+      "Standard": "7.SP.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 164-165",
+      "Standard": "7.SP.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-87",
+      "Standard": "N.Q.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 103",
+      "Standard": "A.SSE.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 105",
+      "Standard": "A.SSE.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 108-112",
+      "Standard": "A.CED.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 108-112",
+      "Standard": "A.REI.3",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level D",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 102",
+      "Standard": "F.IF.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "6.NS.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 73",
+      "Standard": "6.NS.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 68-69",
+      "Standard": "6.NS.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "6.NS.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "6.NS.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 113",
+      "Standard": "6.NS.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "6.NS.6a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "6.NS.6a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 113",
+      "Standard": "6.NS.6a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 69",
+      "Standard": "6.NS.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "6.NS.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 73",
+      "Standard": "6.NS.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 68",
+      "Standard": "6.NS.7a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 73",
+      "Standard": "6.NS.7d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 65-69",
+      "Standard": "6.NS.8",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 70-71",
+      "Standard": "7.NS.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "7.NS.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "7.NS.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 70-71",
+      "Standard": "7.NS.1a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 70",
+      "Standard": "7.NS.1b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "7.NS.1c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 70-71",
+      "Standard": "7.NS.1d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 72",
+      "Standard": "7.NS.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "7.NS.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 51",
+      "Standard": "7.NS.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 71",
+      "Standard": "7.NS.2a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 72",
+      "Standard": "7.NS.2b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 72",
+      "Standard": "7.NS.2c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 51",
+      "Standard": "7.NS.2d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 45",
+      "Standard": "7.NS.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 64",
+      "Standard": "7.NS.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 73",
+      "Standard": "7.NS.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 76",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 80",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 80-81",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 82",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-87",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 92-93",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 150-152",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 158-159",
+      "Standard": "6.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 80-81",
+      "Standard": "6.RP.3b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 82",
+      "Standard": "6.RP.3c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 86-87",
+      "Standard": "6.RP.3c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 92-93",
+      "Standard": "6.RP.3c",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 148",
+      "Standard": "6.RP.3d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 150-152",
+      "Standard": "6.RP.3d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 158-159",
+      "Standard": "6.RP.3d",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 77-78",
+      "Standard": "7.RP.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 79",
+      "Standard": "7.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 81",
+      "Standard": "7.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 88-93",
+      "Standard": "7.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 106",
+      "Standard": "7.RP.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 114-117",
+      "Standard": "7.EE.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 19",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 54",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 83-85",
+      "Standard": "7.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 117",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 124",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 128-129",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-119",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-123",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-127",
+      "Standard": "7.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-119",
+      "Standard": "7.EE.4a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-123",
+      "Standard": "7.EE.4a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-127",
+      "Standard": "7.EE.4b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 13-14",
+      "Standard": "8.EE.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 16",
+      "Standard": "8.EE.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 15",
+      "Standard": "8.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 40-41",
+      "Standard": "8.EE.3",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 40-41",
+      "Standard": "8.EE.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-119",
+      "Standard": "8.EE.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-123",
+      "Standard": "8.EE.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-123",
+      "Standard": "8.EE.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-119",
+      "Standard": "8.EE.7a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-123",
+      "Standard": "8.EE.7a",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-123",
+      "Standard": "8.EE.7b",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 112",
+      "Standard": "8.F.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 112",
+      "Standard": "8.F.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 116-118",
+      "Standard": "7.G.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 122-123",
+      "Standard": "7.G.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 154-155",
+      "Standard": "7.G.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 134-135",
+      "Standard": "7.G.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 155-157",
+      "Standard": "7.G.6",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 141-142",
+      "Standard": "8.G.2",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 141-142",
+      "Standard": "8.G.4",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 139",
+      "Standard": "8.G.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 143-144",
+      "Standard": "8.G.7",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 98",
+      "Standard": "7.SP.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 108-109",
+      "Standard": "7.SP.1",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 94-95",
+      "Standard": "7.SP.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 108-109",
+      "Standard": "7.SP.5",
+      "Level": "D"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 13-14",
+      "Standard": "N.RN.2",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 80-81",
+      "Standard": "N.Q.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 114-115",
+      "Standard": "A.SSE.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 120",
+      "Standard": "A.SSE.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 120",
+      "Standard": "A.SSE.1a",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 122",
+      "Standard": "A.SSE.3",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 120",
+      "Standard": "A.APR.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 117-119",
+      "Standard": "A.CED.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-124",
+      "Standard": "A.CED.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-129",
+      "Standard": "A.CED.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 125",
+      "Standard": "A.CED.4",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-119",
+      "Standard": "A.REI.1",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 118-119",
+      "Standard": "A.REI.2",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-123",
+      "Standard": "A.REI.2",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 117-119",
+      "Standard": "A.REI.3",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 121-124",
+      "Standard": "A.REI.3",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 126-129",
+      "Standard": "A.REI.3",
+      "Level": "E"
+    },
+    {
+      "Source": "Achieving TABE Success in Math - Level A",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 112",
+      "Standard": "F.IF.1",
+      "Level": "E"
+    },
+    {
       "Source": "EMPower Plus",
       "Chapter": "",
       "Lesson": "Everyday Number Sense: Mental Math and Visual Models",
@@ -42367,6 +46271,838 @@
       "Page": "Lesson 8.4",
       "Standard": "S.ID.7",
       "Level": "E"
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
+    },
+    {
+      "Source": "",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "",
+      "Standard": "",
+      "Level": ""
     },
     {
       "Source": "",
