@@ -8591,572 +8591,572 @@
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.1",
+      "Standard": "6.EE.1",
       "Name of skill on Khan Academy": "Exponents (basic)",
       "Link to skill": "https://www.khanacademy.org/e/positive_and_zero_exponents",
       "Description": "Practice taking exponents of whole numbers. All exponents in these problems are either positive or zero.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.1",
+      "Standard": "6.EE.1",
       "Name of skill on Khan Academy": "Order of operations challenge",
       "Link to skill": "https://www.khanacademy.org/e/evaluating-numerical-expressions-with-exponents",
       "Description": "Practice solving more challenging problems using the order of operations.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.1",
+      "Standard": "6.EE.1",
       "Name of skill on Khan Academy": "Powers of fractions",
       "Link to skill": "https://www.khanacademy.org/e/powers-of-fractions",
       "Description": "Practice evaluating exponents that have fractional bases.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.1",
+      "Standard": "6.EE.1",
       "Name of skill on Khan Academy": "Variable expressions with exponents",
       "Link to skill": "https://www.khanacademy.org/e/exponents-in-expressions",
       "Description": "Practice evaluating expressions with exponents by substituting values for the variables. ",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.1",
+      "Standard": "6.EE.1",
       "Name of skill on Khan Academy": "Exponents",
       "Link to skill": "https://www.khanacademy.org/e/exponents",
       "Description": "Practice solving more challenging exponents problems. All exponents in these problems are either positive or zero.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Writing expressions word problems",
       "Link to skill": "https://www.khanacademy.org/e/writing-basic-algebraic-expressions-word-problems-2",
       "Description": "Practice writing slightly more complex algebraic expressions to model real-world situations.",
       "Area": "in-in-class-6th-math-cbse",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Order of operations challenge",
       "Link to skill": "https://www.khanacademy.org/e/evaluating-numerical-expressions-with-exponents",
       "Description": "Practice solving more challenging problems using the order of operations.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Evaluating expressions with multiple variables",
       "Link to skill": "https://www.khanacademy.org/e/evaluating_expressions_2",
       "Description": "Practice evaluating expressions in two variables by plugging in values for the variables. ",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Writing basic expressions word problems",
       "Link to skill": "https://www.khanacademy.org/e/writing-expressions-with-variables-word-problems",
       "Description": "Practice writing basic algebraic expressions to model real-world situations.",
       "Area": "in-in-class-6th-math-cbse",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Writing basic expressions with variables",
       "Link to skill": "https://www.khanacademy.org/e/writing-expressions-with-variables-1",
       "Description": "Practice writing basic algebraic expressions to match verbal descriptions of mathematical operations.",
       "Area": "zh-v2-grade-5",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Evaluating expressions with variables word problems",
       "Link to skill": "https://www.khanacademy.org/e/evaluating-expressions-3",
       "Description": "Practice plugging in values to evaluate real-world algebraic expressions. These are introductory problems, so the expressions aren't too complicated.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Order of operations",
       "Link to skill": "https://www.khanacademy.org/e/order_of_operations_2",
       "Description": "Practice evaluating expressions using the order of operations.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Evaluating expressions with multiple variables: fractions & decimals",
       "Link to skill": "https://www.khanacademy.org/e/evaluating-expressions-in-two-variables-2",
       "Description": "Practice evaluating expressions in two variables by plugging in values for the variables. These problems include some fractions and decimals.",
       "Area": "in-in-class-6th-math-cbse",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Writing expressions with variables",
       "Link to skill": "https://www.khanacademy.org/e/writing_expressions_1",
       "Description": "Practice writing algebraic expressions to match verbal descriptions of mathematical operations.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Evaluating expressions with one variable",
       "Link to skill": "https://www.khanacademy.org/e/evaluating_expressions_1",
       "Description": "Practice plugging in a value for the variable in an equation. These are introductory problems, so the expressions aren't too complicated.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Parts of algebraic expressions",
       "Link to skill": "https://www.khanacademy.org/e/identifying-parts-of-expressions",
       "Description": "Practice identifying the following parts of algebraic expressions: sum, product, difference, quotient, coefficient, factor, term, and variable. ",
       "Area": "in-seventh-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.2",
+      "Standard": "6.EE.2",
       "Name of skill on Khan Academy": "Expression value intuition",
       "Link to skill": "https://www.khanacademy.org/e/expression-value-intuition",
       "Description": "Practice thinking about how the values of expressions change as the values of their variables change.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.3",
+      "Standard": "6.EE.3",
       "Name of skill on Khan Academy": "Combining like terms",
       "Link to skill": "https://www.khanacademy.org/e/combining-like-terms-0.5",
       "Description": "Simplify algebraic expressions by combining like terms.",
       "Area": "7th-grade-foundations-engageny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.3",
+      "Standard": "6.EE.3",
       "Name of skill on Khan Academy": "Equivalent expressions",
       "Link to skill": "https://www.khanacademy.org/e/equivalent-forms-of-expressions-1",
       "Description": "Practice determining whether or not two algebraic expressions are equivalent by manipulating the expressions. These problems require you to combine like terms and apply the distributive property.",
       "Area": "algebra-basics",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.3",
+      "Standard": "6.EE.3",
       "Name of skill on Khan Academy": "Factor with the distributive property (no variables)",
       "Link to skill": "https://www.khanacademy.org/e/distributive_property",
       "Description": "Practice applying the distributive property to factor numerical expressions (no variables).",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.3",
+      "Standard": "6.EE.3",
       "Name of skill on Khan Academy": "Factor with distributive property (variables)",
       "Link to skill": "https://www.khanacademy.org/e/factor-with-distributive-property--variables-",
       "Description": "Practice applying the distributive property to factor algebraic expressions.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.3",
+      "Standard": "6.EE.3",
       "Name of skill on Khan Academy": "Distributive property with variables",
       "Link to skill": "https://www.khanacademy.org/e/distributive-property-with-variables",
       "Description": "Practice applying the distributive property to algebraic expressions.",
       "Area": "zh-v2-grade-5",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.3",
+      "Standard": "6.EE.3",
       "Name of skill on Khan Academy": "Combining like terms with distribution",
       "Link to skill": "https://www.khanacademy.org/e/combining-like-terms-with-distribution",
       "Description": "Practice expanding expressions using the distributive property then combining like terms.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.4",
+      "Standard": "6.EE.4",
       "Name of skill on Khan Academy": "Combining like terms",
       "Link to skill": "https://www.khanacademy.org/e/combining-like-terms-0.5",
       "Description": "Simplify algebraic expressions by combining like terms.",
       "Area": "7th-grade-foundations-engageny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.4",
+      "Standard": "6.EE.4",
       "Name of skill on Khan Academy": "Equivalent expressions",
       "Link to skill": "https://www.khanacademy.org/e/equivalent-forms-of-expressions-1",
       "Description": "Practice determining whether or not two algebraic expressions are equivalent by manipulating the expressions. These problems require you to combine like terms and apply the distributive property.",
       "Area": "algebra-basics",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.4",
+      "Standard": "6.EE.4",
       "Name of skill on Khan Academy": "Combining like terms with distribution",
       "Link to skill": "https://www.khanacademy.org/e/combining-like-terms-with-distribution",
       "Description": "Practice expanding expressions using the distributive property then combining like terms.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.4",
+      "Standard": "6.EE.4",
       "Name of skill on Khan Academy": "Distributive property with variables",
       "Link to skill": "https://www.khanacademy.org/e/distributive-property-with-variables",
       "Description": "Practice applying the distributive property to algebraic expressions.",
       "Area": "zh-v2-grade-5",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.4",
+      "Standard": "6.EE.4",
       "Name of skill on Khan Academy": "Factor with distributive property (variables)",
       "Link to skill": "https://www.khanacademy.org/e/factor-with-distributive-property--variables-",
       "Description": "Practice applying the distributive property to factor algebraic expressions.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.5",
+      "Standard": "6.EE.5",
       "Name of skill on Khan Academy": "Testing solutions to equations",
       "Link to skill": "https://www.khanacademy.org/e/testing-solutions-of-equations-inequalities",
       "Description": "Practice plugging in values to equations and checking to see if the equations hold true.",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.5",
+      "Standard": "6.EE.5",
       "Name of skill on Khan Academy": "Identify and solve equations from visual models",
       "Link to skill": "https://www.khanacademy.org/e/identify-and-solve-equations-from-visual-models",
       "Description": "Identify the equation represented by a tape diagram or hanger diagram. Then, solve for the unknown in the equation.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.5",
+      "Standard": "6.EE.5",
       "Name of skill on Khan Academy": "Solve equations from visual models",
       "Link to skill": "https://www.khanacademy.org/e/visualize-equations",
       "Description": "Use a visual model of an equation to solve for the unknown in the equation.  ",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.5",
+      "Standard": "6.EE.5",
       "Name of skill on Khan Academy": "Testing solutions to inequalities (basic)",
       "Link to skill": "https://www.khanacademy.org/e/testing-solutions-to-inequalities--basic-",
       "Description": "Practice plugging in values to inequalities, like x>5, and checking to see if the inequalities hold true.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.5",
+      "Standard": "6.EE.5",
       "Name of skill on Khan Academy": "Identify equations from visual models",
       "Link to skill": "https://www.khanacademy.org/e/identify-equations-from-visual-models",
       "Description": "Use tape diagrams and hanger diagrams to identify equations.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.5",
+      "Standard": "6.EE.5",
       "Name of skill on Khan Academy": "Testing solutions to inequalities",
       "Link to skill": "https://www.khanacademy.org/e/testing-solutions-of-inequalities",
       "Description": "Practice plugging in values to inequalities, like 2x<14, and checking to see if the inequalities hold true.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.6",
+      "Standard": "6.EE.6",
       "Name of skill on Khan Academy": "Model with one-step equations and solve",
       "Link to skill": "https://www.khanacademy.org/e/model-with-one-step-equations-and-solve",
       "Description": "Practice writing basic equations to model real-world situations. Then solve for the variable.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.6",
+      "Standard": "6.EE.6",
       "Name of skill on Khan Academy": "Model with one-step equations",
       "Link to skill": "https://www.khanacademy.org/e/equations-in-one-variable-1",
       "Description": "Practice writing basic equations to model real-world situations.",
       "Area": "in-eighth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.6",
+      "Standard": "6.EE.6",
       "Name of skill on Khan Academy": "Translate one-step equations and solve",
       "Link to skill": "https://www.khanacademy.org/e/translate-one-step-equations-and-solve--basic-",
       "Description": "Write a statement like, '8 more than y is 17' as an equation. Then, solve for the variable.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Translate one-step equations and solve",
       "Link to skill": "https://www.khanacademy.org/e/translate-one-step-equations-and-solve--basic-",
       "Description": "Write a statement like, '8 more than y is 17' as an equation. Then, solve for the variable.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "One-step addition & subtraction equations: fractions & decimals",
       "Link to skill": "https://www.khanacademy.org/e/one-step-add-sub-equations-2",
       "Description": "Practice solving equations in one step by adding or subtracting a number from both sides. These problems involve decimals and fractions.",
       "Area": "zh-v2-grade-5",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "One-step multiplication & division equations",
       "Link to skill": "https://www.khanacademy.org/e/linear_equations_1",
       "Description": "Practice solving equations in one step by multiplying or dividing a value from both sides.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Solve equations from visual models",
       "Link to skill": "https://www.khanacademy.org/e/visualize-equations",
       "Description": "Use a visual model of an equation to solve for the unknown in the equation.  ",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Identify and solve equations from visual models",
       "Link to skill": "https://www.khanacademy.org/e/identify-and-solve-equations-from-visual-models",
       "Description": "Identify the equation represented by a tape diagram or hanger diagram. Then, solve for the unknown in the equation.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "One-step multiplication & division equations: fractions & decimals",
       "Link to skill": "https://www.khanacademy.org/e/one-step-mult-div-equations-2",
       "Description": "Practice solving equations in one step by multiplying or dividing a number from both sides. These problems involve decimals and fractions.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Find the mistake in one-step equations",
       "Link to skill": "https://www.khanacademy.org/e/find-the-mistake-in-solving-one-step-equations",
       "Description": "Practice spotting the mistake in someone else's work as they attempt to solve one-step equations.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Model with one-step equations and solve",
       "Link to skill": "https://www.khanacademy.org/e/model-with-one-step-equations-and-solve",
       "Description": "Practice writing basic equations to model real-world situations. Then solve for the variable.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Testing solutions to equations",
       "Link to skill": "https://www.khanacademy.org/e/testing-solutions-of-equations-inequalities",
       "Description": "Practice plugging in values to equations and checking to see if the equations hold true.",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Inequalities word problems",
       "Link to skill": "https://www.khanacademy.org/e/inequalities-in-one-variable-1",
       "Description": "Practice writing inequalities with variables to describe real-world situations.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Model with one-step equations",
       "Link to skill": "https://www.khanacademy.org/e/equations-in-one-variable-1",
       "Description": "Practice writing basic equations to model real-world situations.",
       "Area": "in-eighth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "Identify equations from visual models",
       "Link to skill": "https://www.khanacademy.org/e/identify-equations-from-visual-models",
       "Description": "Use tape diagrams and hanger diagrams to identify equations.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.7",
+      "Standard": "6.EE.7",
       "Name of skill on Khan Academy": "One-step addition & subtraction equations",
       "Link to skill": "https://www.khanacademy.org/e/one_step_equations",
       "Description": "Practice solving equations in one step by adding or subtracting the same value from both sides.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.8",
+      "Standard": "6.EE.8",
       "Name of skill on Khan Academy": "Inequalities word problems",
       "Link to skill": "https://www.khanacademy.org/e/inequalities-in-one-variable-1",
       "Description": "Practice writing inequalities with variables to describe real-world situations.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.8",
+      "Standard": "6.EE.8",
       "Name of skill on Khan Academy": "Plotting inequalities",
       "Link to skill": "https://www.khanacademy.org/e/inequalities_on_a_number_line",
       "Description": " Create  number line graphs of inequalities.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.8",
+      "Standard": "6.EE.8",
       "Name of skill on Khan Academy": "Inequality from graph",
       "Link to skill": "https://www.khanacademy.org/e/inequality-from-graph",
       "Description": "Practice writing equations of inequalities graphed on number lines.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.9",
+      "Standard": "6.EE.9",
       "Name of skill on Khan Academy": "Tables from equations with 2 variables",
       "Link to skill": "https://www.khanacademy.org/e/complete-a-table-from-a-two-variable-equation",
       "Description": "Complete a table and identify coordinates when given a two-variable equation, such as y=2x+4.",
       "Area": "6th-engage-ny",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.9",
+      "Standard": "6.EE.9",
       "Name of skill on Khan Academy": "Relationships between quantities in equations and graphs",
       "Link to skill": "https://www.khanacademy.org/e/create-two-variable-equations-from-real-world-contexts",
       "Description": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity in terms of the other quantity. Then, analyze the relationship between the variables using graphs and tables, and relate these to the equation.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.9",
+      "Standard": "6.EE.9",
       "Name of skill on Khan Academy": "Match equations to coordinates on a line",
       "Link to skill": "https://www.khanacademy.org/e/match-equations-to-coordinates-on-a-line",
       "Description": "Identify the coordinates or line that matches a two-variable equation. Also, identify the corresponding equation when given a line and coordinates.",
       "Area": "cc-sixth-grade-math",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "6E.9",
+      "Standard": "6.EE.9",
       "Name of skill on Khan Academy": "Independent versus dependent variables",
       "Link to skill": "https://www.khanacademy.org/e/dependent-and-independent-variables",
       "Description": "Practice figuring out if a variable is dependent or independent.",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "C"
     },
     {
       "Grade": 6,
@@ -10421,162 +10421,162 @@
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.1",
+      "Standard": "7.EE.1",
       "Name of skill on Khan Academy": "Equivalent expressions: negative numbers & distribution",
       "Link to skill": "https://www.khanacademy.org/e/equiv-expressions-w-neg-and-dist",
       "Description": "Practice figuring out which expressions are equivalent by applying your knowledge of negative numbers and the distributive property.",
       "Area": "7th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.1",
+      "Standard": "7.EE.1",
       "Name of skill on Khan Academy": "Distributive property with variables (negative numbers)",
       "Link to skill": "https://www.khanacademy.org/e/factoring_linear_binomials",
       "Description": "Factor and expand expressions like -3x-9 by applying the distributive property.  Expressions include variables and negative numbers.",
       "Area": "eb-3-secundaria",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.1",
+      "Standard": "7.EE.1",
       "Name of skill on Khan Academy": "Combining like terms with negative coefficients",
       "Link to skill": "https://www.khanacademy.org/e/combining_like_terms_1",
       "Description": "Simplify algebraic expressions by combining like terms. Coefficients on some terms are negative.",
       "Area": "algebra-basics",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.1",
+      "Standard": "7.EE.1",
       "Name of skill on Khan Academy": "Combining like terms with rational coefficients",
       "Link to skill": "https://www.khanacademy.org/e/manipulating-linear-expressions-with-rational-coefficients",
       "Description": "Practice combining like terms for expressions that have rational coefficients. This requires adding and subtracting fractions.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.1",
+      "Standard": "7.EE.1",
       "Name of skill on Khan Academy": "Combining like terms with negative coefficients & distribution",
       "Link to skill": "https://www.khanacademy.org/e/combining_like_terms_2",
       "Description": "Practice combining like terms using the distributive property. These problems involve adding and subtracting negative numbers.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.2",
+      "Standard": "7.EE.2",
       "Name of skill on Khan Academy": "Interpreting linear expressions",
       "Link to skill": "https://www.khanacademy.org/e/interpreting-expressions",
       "Description": "Practice interpreting linear expressions",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.3",
+      "Standard": "7.EE.3",
       "Name of skill on Khan Academy": "Adding & subtracting rational numbers",
       "Link to skill": "https://www.khanacademy.org/e/adding_and_subtracting_rational_numbers",
       "Description": "Practice adding and subtracting negative fractions, decimals, and percents.",
       "Area": "7th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.3",
+      "Standard": "7.EE.3",
       "Name of skill on Khan Academy": "Rewriting decimals as fractions challenge",
       "Link to skill": "https://www.khanacademy.org/e/converting_decimals_to_fractions_2",
       "Description": "Practice rewriting decimals as fractions. These problems use decimals with up to four decimal places.",
       "Area": "cc-seventh-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.3",
+      "Standard": "7.EE.3",
       "Name of skill on Khan Academy": "Rational number word problems",
       "Link to skill": "https://www.khanacademy.org/e/multistep-equations-without-variables",
       "Description": "Practice solving multi-step word problems. The numbers in these problems may be fractions, decimals, and percents.",
       "Area": "cc-seventh-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "Two-step inequalities",
       "Link to skill": "https://www.khanacademy.org/e/solving-2-step-inequalities",
       "Description": "Solve inequalities that take two steps to solve. For example, solve 3x + 2 > 5.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "Two-step equations with decimals and fractions",
       "Link to skill": "https://www.khanacademy.org/e/two-step-equations-with-decimals-and-fractions",
       "Description": "Practice solving equations that take two steps to solve. These problems involve arithmetic with fractions and decimals.",
       "Area": "7th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "Two-step equations",
       "Link to skill": "https://www.khanacademy.org/e/linear_equations_2",
       "Description": "Practice solving equations that take two steps to solve. For example, solve  -16 = x/4 + 2.",
       "Area": "in-seventh-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "Two-step equations word problems",
       "Link to skill": "https://www.khanacademy.org/e/linear-equation-world-problems-2",
       "Description": "Practice writing equations to model and solve real-world situations.",
       "Area": "in-in-class-8th-math-cbse",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "Two-step inequality word problems",
       "Link to skill": "https://www.khanacademy.org/e/interpretting-solving-linear-inequalities",
       "Description": "Practice constructing, interpreting, and solving linear inequalities that model real-world situations.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "Find the mistake: two-step equations",
       "Link to skill": "https://www.khanacademy.org/e/find-the-mistake-two-step-equations",
       "Description": "Practice spotting the mistake in someone else's work as they attempt to solve two-step equations.",
       "Area": "7th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "7E.4",
+      "Standard": "7.EE.4",
       "Name of skill on Khan Academy": "One-step inequalities",
       "Link to skill": "https://www.khanacademy.org/e/one_step_inequalities",
       "Description": "Practice solving inequalities in one step.",
       "Area": "algebra-basics",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 7,
@@ -11551,247 +11551,247 @@
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Powers of products & quotients",
       "Link to skill": "https://www.khanacademy.org/e/powers-of-products-and-quotients",
       "Description": "Rewrite powers of products and quotients. For example, (3⁵⋅x³)² can be written as 3¹⁰⋅x⁶.",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Multiply powers",
       "Link to skill": "https://www.khanacademy.org/e/multiply-powers",
       "Description": "Rewrite products of powers with the same base. For example, x²⋅x⁵ can be written as x⁷.",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Powers of powers",
       "Link to skill": "https://www.khanacademy.org/e/powers-of-powers",
       "Description": "Rewrite powers of powers. For example, (x²)⁵ can be written as x¹⁰.",
       "Area": "algebra-basics",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Divide powers",
       "Link to skill": "https://www.khanacademy.org/e/divide-powers",
       "Description": "Rewrite quotients of powers with the same base. For example, (x⁵)/(x²) can be written as x³.",
       "Area": "fr-v2-cycle-4",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Properties of exponents challenge (integer exponents)",
       "Link to skill": "https://www.khanacademy.org/e/properties-of-integer-exponents",
       "Description": "A quiz that cover all exponent properties using integer exponents.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Powers of products & quotients (structured practice)",
       "Link to skill": "https://www.khanacademy.org/e/powers-of-products-and-quotients-sp",
       "Description": "Rewrite expressions that involve powers of products and quotients. Expressions are in ascending difficulty.",
       "Area": "in-in-class-7th-math-cbse",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Multiply & divide powers (integer exponents)",
       "Link to skill": "https://www.khanacademy.org/e/exponent_rules",
       "Description": "Rewrite products or quotients of powers, including negative powers.",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Negative exponents",
       "Link to skill": "https://www.khanacademy.org/e/exponents_2",
       "Description": "Practice computing numbers raised to positive and negative exponents. Bases may be fractions.",
       "Area": "algebra-basics",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.1",
+      "Standard": "8.EE.1",
       "Name of skill on Khan Academy": "Powers of products & quotients (integer exponents)",
       "Link to skill": "https://www.khanacademy.org/e/powers-of-powers-int-exp",
       "Description": "Rewrite powers where the base includes more powers, and the exponents may be negative.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.2",
+      "Standard": "8.EE.2",
       "Name of skill on Khan Academy": "Square roots",
       "Link to skill": "https://www.khanacademy.org/e/square_roots",
       "Description": "Practice finding the square root of a perfect square positive integer.",
       "Area": "pre-algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.2",
+      "Standard": "8.EE.2",
       "Name of skill on Khan Academy": "Roots of decimals & fractions",
       "Link to skill": "https://www.khanacademy.org/e/roots-of-decimals-and-fractions",
       "Description": "Practice taking square roots of decimals and fractions.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.2",
+      "Standard": "8.EE.2",
       "Name of skill on Khan Academy": "Equations with square roots & cube roots",
       "Link to skill": "https://www.khanacademy.org/e/equations-w-square-and-cube-roots",
       "Description": "Practice solving equations by squaring or cubing both sides.",
       "Area": "8th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.2",
+      "Standard": "8.EE.2",
       "Name of skill on Khan Academy": "Cube roots",
       "Link to skill": "https://www.khanacademy.org/e/cube_roots",
       "Description": "Practice finding the cube root of a perfect cube positive integer.",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.2",
+      "Standard": "8.EE.2",
       "Name of skill on Khan Academy": "Square and cube challenge",
       "Link to skill": "https://www.khanacademy.org/e/more-square-and-cube-root-problems",
       "Description": "Practice solving problems using your knowledge of square and cube roots.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.3",
+      "Standard": "8.EE.3",
       "Name of skill on Khan Academy": "Scientific notation",
       "Link to skill": "https://www.khanacademy.org/e/scientific_notation",
       "Description": "Practice expressing numbers in scientific notation.",
       "Area": "in-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.3",
+      "Standard": "8.EE.3",
       "Name of skill on Khan Academy": "Approximating with powers of 10",
       "Link to skill": "https://www.khanacademy.org/e/approximating-with-orders-of-magnitude",
       "Description": "Practice comparing two real-world quantities by approximating them with powers of 10.",
       "Area": "8th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.3",
+      "Standard": "8.EE.3",
       "Name of skill on Khan Academy": "Multiplication and division with powers of ten",
       "Link to skill": "https://www.khanacademy.org/e/orders-of-magnitude",
       "Description": "Practice solving multiplication and division problems that involve powers of ten.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.4",
+      "Standard": "8.EE.4",
       "Name of skill on Khan Academy": "Multiplication and division with powers of ten",
       "Link to skill": "https://www.khanacademy.org/e/orders-of-magnitude",
       "Description": "Practice solving multiplication and division problems that involve powers of ten.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.4",
+      "Standard": "8.EE.4",
       "Name of skill on Khan Academy": "Adding & subtracting in scientific notation",
       "Link to skill": "https://www.khanacademy.org/e/adding-and-subtracting-in-scientific-notation",
       "Description": "Given two numbers in scientific notation, practice adding and subtracting them.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.4",
+      "Standard": "8.EE.4",
       "Name of skill on Khan Academy": "Multiplying & dividing in scientific notation",
       "Link to skill": "https://www.khanacademy.org/e/multiplying_and_dividing_scientific_notation",
       "Description": "Practice expressing products and quotients in scientific notation.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.4",
+      "Standard": "8.EE.4",
       "Name of skill on Khan Academy": "Approximating with powers of 10",
       "Link to skill": "https://www.khanacademy.org/e/approximating-with-orders-of-magnitude",
       "Description": "Practice comparing two real-world quantities by approximating them with powers of 10.",
       "Area": "8th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.4",
+      "Standard": "8.EE.4",
       "Name of skill on Khan Academy": "Scientific notation word problems",
       "Link to skill": "https://www.khanacademy.org/e/computing-in-scientific-notation",
       "Description": "Practice solving addition, subtraction, multiplication, and division problems involving scientific notation.",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.5",
+      "Standard": "8.EE.5",
       "Name of skill on Khan Academy": "Graphing proportional relationships",
       "Link to skill": "https://www.khanacademy.org/e/graphing-proportional-relationships",
       "Description": "",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.5",
+      "Standard": "8.EE.5",
       "Name of skill on Khan Academy": "Rates & proportional relationships",
       "Link to skill": "https://www.khanacademy.org/e/comparing-proportional-relationships",
       "Description": "A variety of questions about rates and proportional relationships involving graphs, tables, and equations.",
       "Area": "8th-engage-ny",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.6",
+      "Standard": "8.EE.6",
       "Name of skill on Khan Academy": "Coming Soon",
       "Link to skill": "",
       "Description": "",
@@ -11801,252 +11801,252 @@
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Slope-intercept from two points",
       "Link to skill": "https://www.khanacademy.org/e/slope-intercept-equation-from-two-points",
       "Description": "Practice finding the equation of a line passing through two points",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equations with variables on both sides: decimals & fractions",
       "Link to skill": "https://www.khanacademy.org/e/variables-on-both-sides-rational",
       "Description": "Solve linear equations where the variable appears on both sides of the equation and the coefficients are decimals or fractions.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Number of solutions to equations challenge",
       "Link to skill": "https://www.khanacademy.org/e/complete-equations-according-to-solutions",
       "Description": "Given a linear equation with missing values, determine appropriate values in order to have one, zero, or infinite solutions. For example, complete the equation -11x + 4 = __x + __ so that it has no solutions.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Number of solutions to equations",
       "Link to skill": "https://www.khanacademy.org/e/solutions-to-linear-equations",
       "Description": "Practice telling whether an equation has one, zero, or infinite solutions. For example, how many solutions does the equation 8(3x+10)=28x-14-4x have?",
       "Area": "engageny-alg-1",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equation practice with midpoints",
       "Link to skill": "https://www.khanacademy.org/e/midpoint_of_a_segment",
       "Description": "Given information about the distance of a segment's midpoint from its endpoints, form and solve an equation in order to find the length of the segment.",
       "Area": "in-seventh-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equations with parentheses: decimals & fractions",
       "Link to skill": "https://www.khanacademy.org/e/multi-step-equations-rational",
       "Description": "Solve linear equations that contain expressions with parentheses and the coefficients are rational numbers.",
       "Area": "math1",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equations with parentheses",
       "Link to skill": "https://www.khanacademy.org/e/multistep_equations_with_distribution",
       "Description": "Practice solving equations with parentheses using the distributive property.",
       "Area": "in-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Sums of consecutive integers",
       "Link to skill": "https://www.khanacademy.org/e/integer_sums",
       "Description": "Practice finding the nth number in a sequence of consecutive numbers based on the sum.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equations with variables on both sides",
       "Link to skill": "https://www.khanacademy.org/e/linear_equations_3",
       "Description": "Practice solving one-variable equations like 20 - 7x = 6x - 6, where the variable appears on both sides of the equals sign.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equation practice with angle addition",
       "Link to skill": "https://www.khanacademy.org/e/angle_addition_postulate",
       "Description": "Given the sum of a pair of angles and the algebraic expressions that represent them, form and solve an equation.",
       "Area": "geometry",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Graph from linear standard form",
       "Link to skill": "https://www.khanacademy.org/e/graph-from-standard-form-equation",
       "Description": "Find the graph of a linear equation given in standard form.",
       "Area": "in-in-grade-11-ncert",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Intercepts from an equation",
       "Link to skill": "https://www.khanacademy.org/e/solving_for_the_x-intercept",
       "Description": "Solve linear equations for the x-intercept and y-intercept",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equation practice with vertical angles",
       "Link to skill": "https://www.khanacademy.org/e/vertical_angles_2",
       "Description": "Given algebraic expressions that represent a pair of two vertical angles, form and solve an equation.",
       "Area": "eb-2-secundaria",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.7",
+      "Standard": "8.EE.7",
       "Name of skill on Khan Academy": "Equation practice with segment addition",
       "Link to skill": "https://www.khanacademy.org/e/segment_addition",
       "Description": "Given an information about the lengths of line segments, form and solve an equation in order to find the lengths of the segments.",
       "Area": "cc-eighth-grade-math",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Systems of equations word problems",
       "Link to skill": "https://www.khanacademy.org/e/understanding-systems-of-equations-word-problems",
       "Description": "Solve word problems by modeling them into a system of equations and solving it.",
       "Area": "engageny-alg-1",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Systems of equations with elimination",
       "Link to skill": "https://www.khanacademy.org/e/systems_of_equations_with_elimination_0.5",
       "Description": "Solve systems of equation with one-step elimination (e.g., x-values or y-values cancel each other out).",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Systems of equations with graphing",
       "Link to skill": "https://www.khanacademy.org/e/graphing_systems_of_equations",
       "Description": "Graph a system of equations in slope-intercept or standard form, and find their solution using the graphs.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Systems of equations with substitution",
       "Link to skill": "https://www.khanacademy.org/e/systems_of_equations_with_substitution",
       "Description": "Solve systems of equations where one of the equations is solved for one of the variables.",
       "Area": "math1",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Age word problems",
       "Link to skill": "https://www.khanacademy.org/e/age_word_problems",
       "Description": "Solve age word problems with a system of equations.",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Number of solutions to a system of equations graphically",
       "Link to skill": "https://www.khanacademy.org/e/graphical-solutions-to-systems",
       "Description": "Determine the number of solutions of a given system of equations by considering its graph.",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Equivalent systems of equations",
       "Link to skill": "https://www.khanacademy.org/e/understanding-solution-methods-to-systems-of-equations",
       "Description": "Determine whether a couple of given systems of equations are equivalent or not to a third given system.",
       "Area": "algebra-home",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Number of solutions to a system of equations algebraically",
       "Link to skill": "https://www.khanacademy.org/e/constructing-consistent-and-inconsistent-system",
       "Description": "Determine the number of solutions of a given system of equations by considering its algebraic solution process.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Linear systems of equations capstone",
       "Link to skill": "https://www.khanacademy.org/e/systems_of_equations",
       "Description": "Solve systems of equations with any number of solutions using any solution method.",
       "Area": "algebra",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Solutions of systems of equations",
       "Link to skill": "https://www.khanacademy.org/e/verifying-solutions-to-systems-of-equations",
       "Description": "Verify whether a given pair of values is a solution to a system of equations.",
       "Area": "mappers",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
       "Common Core Area": "Expressions and Equations",
-      "Standard": "8E.8",
+      "Standard": "8.EE.8",
       "Name of skill on Khan Academy": "Systems of equations with elimination challenge",
       "Link to skill": "https://www.khanacademy.org/e/systems_of_equations_with_elimination",
       "Description": "Solve systems of equation with multi-step elimination (e.g., a manipulation is needed in order for x-values or y-values to cancel each other out).",
       "Area": "engageny-alg-1",
-      "Level": ""
+      "Level": "D"
     },
     {
       "Grade": 8,
