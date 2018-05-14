@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body class="mdc-typography" style="background-color:rgba(0, 0, 0, 0.05);">
+
+    <main aria-label="Content">
+      <div class="mdc-layout-grid" aria-label="Content">
+        <div class="mdc-layout-grid__inner">
+          <div class="mdc-layout-grid__cell--span-9">
+            <div class="mdc-card">
+              {%- include topic/header.html -%}
+              {%- include topic/lab-assignments.html -%}
+            </div>
+          </div>
+          <div class="mdc-layout-grid__cell--span-4-phone
+                      mdc-layout-grid__cell--span-2-tablet
+                      mdc-layout-grid__cell--span-3-desktop">
+            {%- include topic/aside.html -%}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {%- include topic/footer.html -%}
+
+  </body>
+
+</html>

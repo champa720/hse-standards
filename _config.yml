@@ -39,9 +39,16 @@ minima:
 #header_pages:
 # - about.html
 collections:
+  arithmetic:
+    output: true
   mathematics:
     output: false
 defaults:
+  - scope:
+      path: ""
+      type: "arithmetic"
+    values:
+      layout: default-2
   - scope:
       path: ""
       type: "mathematics"

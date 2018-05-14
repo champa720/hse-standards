@@ -1,0 +1,31 @@
+
+<aside id="toc">
+  <div class="mdc-list-group">
+    <!-- contents in topic -->
+    <p class="mdc-list-group__subheader">Lab assignments</p>
+    <div class="mdc-list">
+      {%- for collection in site.arithmetic -%}
+      <a href="{{ collection.url }}" class="mdc-list-item mdc-ripple-surface" role="listitem" data-mdc-auto-init="MDCRipple">
+        <span class="mdc-list-item__text">{{ collection.title | capitalize }}</span>
+      </a>
+      {%- endfor -%}
+    </div>
+  </div>
+</aside>
+<aside id="topicStandards" sticky>
+  <div class="mdc-list-group">
+    <hr class="mdc-list-divider mdc-list-divider" role="seperator">
+    <p class="mdc-list-group__subheader">Topic CCRStandards</p>
+    <div class="mdc-list">
+      {%- for pCCRS in page.ccrs -%}
+      {%- for mData in MATH -%}
+      {%- if mData.["Standard"] == pCCRS -%}
+      <a href="#{{ pCCRS }}" class="mdc-list-item mdc-ripple-surface" role="listitem" data-mdc-auto-init="MDCRipple">
+        <span class="mdc-list-item__text">{{ pCCRS }}</span>
+      </a>
+      {%- endif -%}
+      {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</aside>

@@ -1,0 +1,15 @@
+{%- assign kData = site.data.KhanAcademyAPI[page.collection] | where_exp: "item", "item.Title == page.title" -%}
+{%- for kDataTopic in kData -%}
+<header class="mdc-layout-grid">
+  <div class="mdc-layout-grid__inner">
+    <div class="mdc-layout-grid__cell--span-4"
+         style="background:url({{ kDataTopic.["Icon"] }}) center no-repeat"
+         aria-hidden="true">
+    </div>
+    <div class="mdc-layout-grid__cell--span-8">
+      <h1 class="mdc-typography--headline3">{{ kDataTopic.["Title"] }}</h1>
+      <p class="mdc-typography--subtitle1">{{ kDataTopic.["Description"] }}</p>
+    </div>
+  </div>
+</header>
+{%- endfor -%}

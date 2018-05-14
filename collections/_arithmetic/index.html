@@ -1,0 +1,92 @@
+---
+layout: none
+# frontmatter
+# just a summary test page
+---
+{%- assign MATH = site.data.CCRStandardsAdultEd["Mathematics"] | uniq -%}
+{%- assign MATHLEVEL = site.data.CCRStandardsAdultEd["Mathematics"] | uniq | group_by: "Level" -%}
+
+{%- assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] | uniq | sort: "Area" | group_by: "Area" -%}
+{%- assign KHANAPI = site.data.KhanAcademyAPI["Copy of arithmetic"] -%}
+
+
+{%- include topic/aside.html -%}
+
+<ul>
+  {%- assign total = "0" -%}
+  {%- for mData in MATHLEVEL -%}
+  <li>Level {{ mData.name }} = {%- assign count = "0" -%}
+
+    {%- for mDataItem in mData.items -%}
+
+    {%- capture count -%} {{ count | plus: 1 }} {%- endcapture -%}
+    {%- capture total -%} {{ total | plus: 1 }} {%- endcapture -%}
+
+    {%- endfor -%}
+    <b> {{ count }}</b>
+  </li>
+
+  {%- endfor -%}
+</ul>
+<b>TOTAL = {{ total }}</b>
+
+<hr>
+
+
+<ul>
+  {%- assign total = "0" -%}
+
+  {%- for mData in MATHLEVEL -%}
+  <b>Level {{ mData.name }}</b>
+  {%- assign mDataItem = mData.items | group_by: "Domain" -%}
+
+  {%- for mData in mDataItem -%}
+  <li>{{ mData.name }} = {%- assign count = "0" -%}
+
+    {%- for mDataItem in mData.items -%}
+
+    {%- capture count -%} {{ count | plus: 1 }} {%- endcapture -%}
+    {%- capture total -%} {{ total | plus: 1 }} {%- endcapture -%}
+
+    {%- endfor -%}
+    <b> {{ count }}</b>
+  </li>
+
+  {%- endfor -%}
+  {%- endfor -%}
+</ul>
+<b>TOTAL = {{ total }}</b>
+
+<hr>
+
+
+<ul>
+  {%- assign total = "0" -%}
+  {%- for kDataArea in KHAN -%}
+  <li>{{ kDataArea.name }} : {%- assign count = "0" -%}
+
+    {%- for mData in MATH -%}
+    {%- for kDataAreaItem in kDataArea.items -%}
+    {%- if kDataAreaItem.Standard == mData.Standard -%}
+
+    {%- capture count -%} {{ count | plus: 1 }} {%- endcapture -%}
+    {%- capture total -%} {{ total | plus: 1 }} {%- endcapture -%}
+
+    {%- endif -%}
+    {%- endfor -%}
+    {%- endfor -%}
+
+    <b> = {{ count }}</b>
+  </li>
+
+  {%- endfor -%}
+</ul>
+<b>TOTAL = {{ total }}</b>
+
+<hr>
+
+<ul>
+  {%- for kDataAPI in KHANAPI -%}
+  <li>{{ kDataAPI.Title }}</li>
+  {%- endfor -%}
+</ul>
