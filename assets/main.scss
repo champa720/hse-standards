@@ -25,7 +25,7 @@ body {
     overflow: auto;
   }
 }
-#toc {
+#toc[sticky] {
   padding-top: 120px;
   position: sticky;
   top: 0px;
@@ -40,7 +40,7 @@ body {
     top: 0;
     z-index: 2;
     padding-top: 120px;
-    background-color: var(--mdc-theme-surface)
+    background-color: var(--mdc-theme-surface);
   }
   & h2 {
     overflow: hidden;
@@ -102,7 +102,12 @@ body {
 
 
 
-
+#topicStandards[sticky] {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  //background-color: var(--mdc-theme-surface);
+}
 
 
 // Begin list
