@@ -1,0 +1,24 @@
+$mdc-theme-primary: #e91e63; // baseline pink, 500 tone
+$mdc-theme-secondary: #311b92; // baseline deep-purple, 900 tone
+$mdc-theme-background: rgba(0,0,0,0.87);
+$mdc-theme-surface: rgba(0,0,0,0.87);
+
+$mdc-layout-grid-max-width: 1280px;
+$mdc-layout-grid-default-column-span: 12;
+
+$mdc-typography-font-family: unquote("-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol");
+$mdc-typography-styles-body1: (
+  line-height: 1.67rem,
+);
+$mdc-typography-styles-overline: (
+  line-height: 1rem,
+);
+
+$mdc-drawer-width: 320px; // default 256px
+
+@charset "UTF-8";
+@import "material-web-components";
+
+@import "default";
+@import "mdc-card";
+@import "mdc-layout-grid";

@@ -1,44 +1,114 @@
-{%- assign MATH = site.data.CCRStandardsAdultEd["Mathematics"] | where_exp: "item", "item.Level == page.level" | group_by: "Domain" -%}
-{%- assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] | uniq | group_by: "Standard" -%}
-{%- assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] | group_by: "Standard" -%}
-
-
-
 <div class="mdc-layout-grid" aria-label="Content">
-  <div class="mdc-layout-grid__inner">
 
-    <div class="mdc-layout-grid__cell--span-4-phone
-                mdc-layout-grid__cell--span-2-tablet
-                mdc-layout-grid__cell--span-3-desktop">
-      <aside id="toc" sticky>
-        <div class="mdc-list-group">
-          <p class="mdc-list-group__subheader">Contents</p>
-          <div class="mdc-list">
-            {%- for mDataDomain in MATH -%}
-            <a href="#level-{{ page.level }}-{{ mDataDomain.name | slugify }}" class="mdc-list-item mdc-ripple-surface" role="listitem" data-mdc-auto-init="MDCRipple">
-              <span class="mdc-list-item__text">{{ mDataDomain.name }}</span>
-            </a>
-            {%- endfor -%}
-          </div>
-        </div>
-      </aside>
-    </div>
-
-    <div class="mdc-layout-grid__cell--span-4-phone
+  <div class="mdc-layout-grid__cell--span-4-phone
                 mdc-layout-grid__cell--span-6-tablet
                 mdc-layout-grid__cell--span-6-desktop">
 
-      {%- for mDataDomain in MATH -%}
-      <article id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}" class="bookmark">
-        <div class="bookmark__sticky">
-          <div class="mdc-card mdc-card--outlined">
-            <div class="mdc-card__content--primary">
-              <h2 class="mdc-typography--headline4">{{ mDataDomain.name }}</h2>
-            </div>
+    {%- for mDataDomain in MATH -%}
+    <article id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}" class="bookmark">
+      <div class="bookmark__sticky">
+        <div class="mdc-card mdc-card--outlined">
+          <div class="mdc-card__content--primary">
+            <h2 class="mdc-typography--headline4">{{ mDataDomain.name }}</h2>
           </div>
         </div>
+      </div>
+
+      {%- for mDataItem in mDataDomain.items -%}
+      <div class="mdc-card mdc-card--outlined">
+        <div class="mdc-card__content--sticky">
+          <div class="mdc-card__content--primary">
+            <span class="mdc-card__content">
+              <h3 class="mdc-card__title mdc-typography--headline6">{{ mDataItem.["Standard statement"] }}</h3>
+              <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
+            </span>
+            <!-- title="khanacademy standard exercises" -->
+            <i id="dialog-{{ mDataItem.Standard | slugify }}-activation" class="mdc-icon-toggle mdc-card__overflow material-icons" role="button" title="khanacademy standard exercises">more_vert</i>
+          </div>
+          <div class="mdc-card__content--secondary">
+            <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
+          </div>
+          <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
+        </div>
+
+
+        {%- for tDataStandard in TEXT -%}
+        {%- if tDataStandard.name == mDataItem.Standard -%}
+        {%- capture dataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
+        {%- assign tDataSourceGroup = tDataStandard.items | group_by: "Source" -%}
+        <!-- begin text correlations -->
+        <div class="mdc-list-group">
+          {%- for tDataSource in tDataSourceGroup -%}
+          <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
+            {%- unless forloop.first -%}
+            <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
+            {%- endunless -%}
+            <li class="mdc-list-item" role="listitem">
+              <span class="mdc-list-item__graphic material-icons" aria-hidden="true">book</span>
+              <span class="mdc-list-item__text">{{ tDataSource.name }}</span>
+            </li>
+          </ul>
+          <ul class="mdc-list mdc-list--two-line mdc-list--dense">
+            {%- for tDataItem in tDataSource.items -%}
+            <li class="mdc-list-item" role="listitem">
+              <span class="mdc-list-item__graphic"></span>
+              <span class="mdc-list-item__text">{{ tDataItem.["Lesson"] }}
+                <span class="mdc-list-item__secondary-text">{{ tDataItem.["Page"] }}</span>
+              </span>
+              <span class="mdc-list-item__meta">{{ tDataItem.["Standard"] }}</span>
+            </li>
+            {%- endfor -%}
+          </ul>
+          {%- endfor -%}
+        </div>
+        {%- endif -%}
+        {%- endfor -%}
+
+
+        {%- if dataMatch != mDataItem.Standard -%}
+        <!-- no text corrlelation warning -->
+        <div class="mdc-list-group">
+          <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
+            <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
+            <li class="mdc-list-item" role="listitem">
+              <span class="mdc-list-item__graphic material-icons" aria-hidden="true">clear</span>
+              <span class="mdc-list-item__text">No text available</span>
+            </li>
+          </ul>
+        </div>
+        {%endif%}
+
+
+      </div>
+      {%- endfor -%}
+
+    </article>
+    {%- endfor -%}
+
+  </div>
+
+  <!-- khanacademy move to dialog test --> {%- comment -%}
+  <div class="mdc-layout-grid__cell--span-4-phone
+                mdc-layout-grid__cell--span-6-tablet
+                mdc-layout-grid__cell--span-3-desktop">
+
+    <article id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}-khanacademy" class="bookmark">
+      <div class="bookmark__sticky">
+        <div class="mdc-card mdc-card--outlined">
+          <div class="mdc-card__content--primary">
+            <h2 class="mdc-typography--headline4">Khan Academy</h2>
+          </div>
+        </div>
+      </div>
+      {%- for mDataDomain in MATH -%}
+      <div class="mdc-list-group" khanacademy>
+        <p class="mdc-list-group__subheader">{{ mDataDomain.name }}</p>
 
         {%- for mDataItem in mDataDomain.items -%}
+        <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
+        <p class="mdc-list-group__subheader">{{ mDataItem.Standard }}</p>
+
+        {%- comment -%}
         <div class="mdc-card mdc-card--outlined">
           <div class="mdc-card__content--sticky">
             <div class="mdc-card__content--primary">
@@ -47,151 +117,56 @@
                 <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
               </span>
               <!-- title="khanacademy standard exercises" -->
-              <i id="dialog-{{ mDataItem.Standard | slugify }}-activation" class="mdc-icon-toggle mdc-card__overflow material-icons" role="button" title="khanacademy standard exercises">more_vert</i>
+
             </div>
             <div class="mdc-card__content--secondary">
               <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
             </div>
             <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
           </div>
-
-
-          {%- for tDataStandard in TEXT -%}
-          {%- if tDataStandard.name == mDataItem.Standard -%}
-          {%- capture dataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
-          {%- assign tDataSourceGroup = tDataStandard.items | group_by: "Source" -%}
-          <!-- begin text correlations -->
-          <div class="mdc-list-group">
-            {%- for tDataSource in tDataSourceGroup -%}
-            <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
-              {%- unless forloop.first -%}
-              <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
-              {%- endunless -%}
-              <li class="mdc-list-item" role="listitem">
-                <span class="mdc-list-item__graphic material-icons" aria-hidden="true">book</span>
-                <span class="mdc-list-item__text">{{ tDataSource.name }}</span>
-              </li>
-            </ul>
-            <ul class="mdc-list mdc-list--two-line mdc-list--dense">
-              {%- for tDataItem in tDataSource.items -%}
-              <li class="mdc-list-item" role="listitem">
-                <span class="mdc-list-item__graphic"></span>
-                <span class="mdc-list-item__text">{{ tDataItem.["Lesson"] }}
-                  <span class="mdc-list-item__secondary-text">{{ tDataItem.["Page"] }}</span>
-                </span>
-                <span class="mdc-list-item__meta">{{ tDataItem.["Standard"] }}</span>
-              </li>
-              {%- endfor -%}
-            </ul>
-            {%- endfor -%}
-          </div>
-          {%- endif -%}
-          {%- endfor -%}
-
-
-          {%- if dataMatch != mDataItem.Standard -%}
-          <!-- no text corrlelation warning -->
-          <div class="mdc-list-group">
-            <ul class="mdc-list mdc-list--avatar-list mdc-list--non-interactive">
-              <li class="mdc-list-divider mdc-list-divider--inset" role="seperator"></li>
-              <li class="mdc-list-item" role="listitem">
-                <span class="mdc-list-item__graphic material-icons" aria-hidden="true">clear</span>
-                <span class="mdc-list-item__text">No text available</span>
-              </li>
-            </ul>
-          </div>
-          {%endif%}
-
-
         </div>
+        {%- endcomment -%}
+
+
+        {%- for kDataStandard in KHAN -%}
+        {%- if kDataStandard.name == mDataItem.Standard -%}
+        {%- capture kDataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
+        {%- assign kDataItem = kDataStandard.items -%}
+        <!-- begin khanacademy correlations -->
+        <nav class="mdc-list mdc-list--two-line mdc-list--dense">
+          {%- for kData in kDataItem -%}
+          <a class="mdc-list-item mdc-ripple-surface" href="{{ kData.['Link to skill'] }}" target="_blank" role="listitem" data-mdc-auto-init="MDCRipple">
+            <span class="mdc-list-item__text">{{ kData.["Name of skill on Khan Academy"] }}
+              <span class="mdc-list-item__secondary-text">{{ kData.["Description"] }}</span>
+            </span>
+            <span class="mdc-list-item__meta">{{ kData.["Standard"] }}</span>
+          </a>
+          {%- endfor -%}
+        </nav>
+        {%- endif -%}
         {%- endfor -%}
 
-      </article>
+
+        {%- if kDataMatch != mDataItem.Standard -%}
+        <!-- no text corrlelation warning -->
+        <ul class="mdc-list mdc-list--non-interactive">
+          <li class="mdc-list-item" role="listitem">
+            <span class="mdc-list-item__text">No available content</span>
+            <span class="mdc-list-item__meta material-icons">clear</span>
+          </li>
+        </ul>
+        {%- endif -%}
+
+
+        {%- endfor -%}
+      </div>
+
       {%- endfor -%}
-
-    </div>
-
-    <!-- khanacademy move to dialog test --> {%- comment -%}
-    <div class="mdc-layout-grid__cell--span-4-phone
-                mdc-layout-grid__cell--span-6-tablet
-                mdc-layout-grid__cell--span-3-desktop">
-
-      <article id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}-khanacademy" class="bookmark">
-        <div class="bookmark__sticky">
-          <div class="mdc-card mdc-card--outlined">
-            <div class="mdc-card__content--primary">
-              <h2 class="mdc-typography--headline4">Khan Academy</h2>
-            </div>
-          </div>
-        </div>
-        {%- for mDataDomain in MATH -%}
-        <div class="mdc-list-group" khanacademy>
-          <p class="mdc-list-group__subheader">{{ mDataDomain.name }}</p>
-
-          {%- for mDataItem in mDataDomain.items -%}
-          <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
-          <p class="mdc-list-group__subheader">{{ mDataItem.Standard }}</p>
-
-          {%- comment -%}
-          <div class="mdc-card mdc-card--outlined">
-            <div class="mdc-card__content--sticky">
-              <div class="mdc-card__content--primary">
-                <span class="mdc-card__content">
-                  <h3 class="mdc-card__title mdc-typography--headline6">{{ mDataItem.["Standard statement"] }}</h3>
-                  <h4 class="mdc-card__subtitle mdc-typography--subtitle2">{{ mDataItem.Standard }}</h4>
-                </span>
-                <!-- title="khanacademy standard exercises" -->
-
-              </div>
-              <div class="mdc-card__content--secondary">
-                <span class="mdc-typography--body1">{{ mDataItem.["Standard description"] }}</span>
-              </div>
-              <hr class="mdc-list-divider mdc-list-divider--inset" role="seperator">
-            </div>
-          </div>
-          {%- endcomment -%}
-
-
-          {%- for kDataStandard in KHAN -%}
-          {%- if kDataStandard.name == mDataItem.Standard -%}
-          {%- capture kDataMatch -%} {{ mDataItem.Standard }} {%- endcapture -%}
-          {%- assign kDataItem = kDataStandard.items -%}
-          <!-- begin khanacademy correlations -->
-          <nav class="mdc-list mdc-list--two-line mdc-list--dense">
-            {%- for kData in kDataItem -%}
-            <a class="mdc-list-item mdc-ripple-surface" href="{{ kData.['Link to skill'] }}" target="_blank" role="listitem" data-mdc-auto-init="MDCRipple">
-              <span class="mdc-list-item__text">{{ kData.["Name of skill on Khan Academy"] }}
-                <span class="mdc-list-item__secondary-text">{{ kData.["Description"] }}</span>
-              </span>
-              <span class="mdc-list-item__meta">{{ kData.["Standard"] }}</span>
-            </a>
-            {%- endfor -%}
-          </nav>
-          {%- endif -%}
-          {%- endfor -%}
-
-
-          {%- if kDataMatch != mDataItem.Standard -%}
-          <!-- no text corrlelation warning -->
-          <ul class="mdc-list mdc-list--non-interactive">
-            <li class="mdc-list-item" role="listitem">
-              <span class="mdc-list-item__text">No available content</span>
-              <span class="mdc-list-item__meta material-icons">clear</span>
-            </li>
-          </ul>
-          {%- endif -%}
-
-
-          {%- endfor -%}
-        </div>
-
-        {%- endfor -%}
-      </article>
-    </div> {%- endcomment -%}
-  </div>
+    </article>
+  </div> {%- endcomment -%}
 </div>
 
-
+{%- comment -%}
 <!--
 //
 //
@@ -205,11 +180,7 @@
 
 {%- for mDataDomain in MATH -%}
 {%- for mDataItem in mDataDomain.items -%}
-<aside id="dialog-{{ mDataItem.["Standard"] | slugify }}"
-  class="mdc-dialog"
-  role="dialog"
-  aria-labelledby="dialog-{{ mDataItem.["Standard"] | slugify }}-label"
-  aria-describedby="dialog-{{ mDataItem.["Standard"] | slugify }}-description">
+<aside id="dialog-{{ mDataItem.["Standard"] | slugify }}" class="mdc-dialog" role="dialog" aria-labelledby="dialog-{{ mDataItem.["Standard"] | slugify }}-label" aria-describedby="dialog-{{ mDataItem.["Standard"] | slugify }}-description">
   <div class="mdc-dialog__surface">
     <header class="mdc-dialog__header">
       <h2 id="mdc-dialog-with-list-label" class="mdc-dialog__header__title">
@@ -255,3 +226,5 @@
 </aside>
 {%- endfor -%}
 {%- endfor -%}
+
+{%- endcomment -%}

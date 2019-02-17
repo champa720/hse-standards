@@ -1,0 +1,103 @@
+// 1440  **screen**  12 columns and up
+@media (min-width: 1440px) {
+  .mdc-layout-grid {
+    max-width: 1440px / 1920px * 100%;
+
+    & .mdc-layout-grid__cell {
+      grid-column-end: span 9;
+    }
+  }
+
+  .mdc-image-list {
+    @include mdc-image-list-standard-columns(4,24px);
+    @include mdc-image-list-shape-radius(8px, false);
+    // @include mdc-image-list-aspect(0.7727);
+    & .mdc-image-list__image {
+      height: 100%
+    }
+  }
+}
+
+// 1024 - 1439 **tablet** medium 12 columns
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .mdc-layout-grid {
+    max-width: 1024px / 1439px * 100%;
+  }
+
+  .mdc-image-list {
+    @include mdc-image-list-standard-columns(4,16px);
+    @include mdc-image-list-shape-radius(8px, false);
+    // @include mdc-image-list-aspect(0.7727);
+    & .mdc-image-list__image {
+      height: 100%
+    }
+  }
+}
+
+// 840 - 1023 **tablet** small 12 columns
+@media (min-width: 840px) and (max-width: 1023px) {
+  .mdc-layout-grid {
+    max-width: 840px / 1023px * 100%;
+  }
+
+  .mdc-image-list {
+    @include mdc-image-list-standard-columns(3,24px);
+    @include mdc-image-list-shape-radius(8px, false);
+    // @include mdc-image-list-aspect(0.7727);
+    & .mdc-image-list__image {
+      height: 100%
+    }
+  }
+}
+
+// 720 - 839 **tablet** small 8 columns
+@media (min-width: 720px) and (max-width: 839px) {
+  .mdc-layout-grid {
+    max-width: 720px / 839px * 100%;
+  }
+
+  .mdc-image-list {
+    @include mdc-image-list-standard-columns(3,16px);
+    @include mdc-image-list-shape-radius(8px, false);
+    // @include mdc-image-list-aspect(0.7727);
+    & .mdc-image-list__image {
+      height: 100%
+    }
+  }
+}
+
+// 600 – 719 **tablet** small 8 columns
+@media (min-width: 600px) and (max-width: 719px) {
+  .mdc-layout-grid {
+    max-width: 600px / 719px * 100%;
+  }
+
+  .mdc-image-list {
+    @include mdc-image-list-standard-columns(2,16px);
+    @include mdc-image-list-shape-radius(8px, false);
+    // @include mdc-image-list-aspect(0.7727);
+    & .mdc-image-list__image {
+      height: 100%
+    }
+  }
+}
+
+// 480 – 599 **handset** xsmall 4 columns and up
+@media (min-width: 600px) {
+  body {
+    // margin-left: 56px;
+  }
+
+  main ul.mdc-list:not(.mdc-list--non-interactive) {
+    display: none;
+  }
+}
+
+// 480 – 599 **handset** xsmall 4 columns and down
+@media (max-width: 599px) {
+  .mdc-drawer,
+  .mdc-image-list,
+  .mdc-card__action-buttons > .mdc-card__action--button:not(:first-child) {
+    display: none;
+  }
+}

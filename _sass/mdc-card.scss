@@ -1,0 +1,31 @@
+.mdc-card {
+  margin-bottom: 16px;
+  @include mdc-card-fill-color(transparent);
+  @include mdc-card-outline(primary, 1px);
+  border-color: var(--mdc-theme-primary);
+  & dt, dd {
+    margin: 0;
+    padding: 0 8px;
+  }
+}
+
+.mdc-card__primary {
+  box-sizing: border-box;
+  min-height: 52px;
+  margin: 0;
+  padding: 8px;
+  & dt {
+    @include mdc-typography(headline6);
+    @include mdc-theme-prop(color, text-primary-on-background, true, false);
+  }
+  & dd {
+    @include mdc-typography(overline);
+    @include mdc-theme-prop(color, text-secondary-on-background, true, false);
+
+    & + dd {
+      @include mdc-typography(body1);
+      @include mdc-theme-prop(color, text-primary-on-background, true, false);
+      padding-top: 16px;
+    }
+  }
+}
