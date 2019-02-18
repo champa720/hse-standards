@@ -39,8 +39,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - mathematics.html
+ - reading.html
 
 # Build settings
 # theme: minima
@@ -57,18 +58,18 @@ plugins:
 collections_dir: collections
 
 collections:
-  arithmetic:
-    output: true
   mathematics:
+    output: true
+  reading:
     output: true
 defaults:
   - scope:
       path: ""
-      type: "arithmetic"
+      type: "mathematics"
     values:
       layout: default
   - scope:
       path: ""
-      type: "mathematics"
+      type: "reading"
     values:
       layout: default

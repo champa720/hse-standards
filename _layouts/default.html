@@ -5,14 +5,26 @@
 
 <body class="mdc-typography">
 
-  {% assign MATH = site.data.CCRStandardsAdultEd["Mathematics"] |
+  {%- if page.collection == "mathematics" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Mathematics"] |
   where_exp: "item", "item.Level == page.level" |
   group_by: "Domain" -%}
-  {% assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] |
-  uniq |
-  group_by: "Standard" -%}
+
   {% assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] |
   group_by: "Standard" -%}
+
+  {% assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] |
+  group_by: "Standard" -%}
+
+  {%- elsif page.collection == "reading" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Reading"] |
+  where_exp: "item", "item.Level == page.level" |
+  group_by: "Domain" -%}
+
+  {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  group_by: "Standard" -%}
+
+  {%- endif -%}
 
   <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
     <div class="mdc-drawer__header">
@@ -38,11 +50,11 @@
     <div class="mdc-drawer__content">
       <nav class="mdc-list mdc-list--two-line" role="listbox" aria-labelledby="nav2">
         <h3 id="nav2" class="mdc-list-group__subheader">Standard Domains</h3>
-        {%- for mDataDomain in MATH -%}
+        {%- for sDataDomain in CCRStandard -%}
         <a class="mdc-list-item" href="#level-{{ page.level }}-{{ mDataDomain.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
           <i class="material-icons mdc-list-item__graphic" aria-hidden="true">send</i>
           <span class="mdc-list-item__text">
-            <span class="mdc-list-item__primary-text">{{ mDataDomain.name }}</span>
+            <span class="mdc-list-item__primary-text">{{ sDataDomain.name }}</span>
             <span class="mdc-list-item__secondary-text">Grades {{ page.grade }}</span>
           </span>
         </a>
@@ -52,11 +64,11 @@
   </aside>
 
   <div class="mdc-drawer-app-content">
-    <header class="mdc-layout-grid">
+    <header class="mdc-layout-grid mdc-typography--body1">
       <div class="mdc-layout-grid__inner">
         <div class="mdc-layout-grid__cell">
           <h1 class="mdc-typography--headline3">{{ page.title }}</h1>
-          <p class="mdc-typography--body1">{{ content | remove: "<p>" | remove: "</p>" }}</p>
+          {{ content }}
         </div>
       </div>
     </header>
@@ -65,24 +77,21 @@
       <div class="mdc-layout-grid__inner">
         <div class="mdc-layout-grid__cell">
 
-          {%- for mDataDomain in MATH -%}
+          {%- for sDataDomain in CCRStandard -%}
           <section id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}">
             <h2 class="mdc-typography--headline4">{{ mDataDomain.name }}</h2>
 
-            {%- for mDataItem in mDataDomain.items -%}
+            {%- for sDataItem in sDataDomain.items -%}
             <article class="mdc-card mdc-card--outlined">
               <dl class="mdc-card__primary">
-                <dt>{{ mDataItem["Standard"] }}</dt>
-                <dd>{{ mDataItem["Standard statement"] }}</dd>
-                <dd>{{ mDataItem["Standard description"] }}</dd>
+                <dt>{{ sDataItem["Standard"] }}</dt>
+                <dd>{{ sDataItem["Standard statement"] }}</dd>
+                <dd>{{ sDataItem["Standard description"] }}</dd>
               </dl>
               <div class="mdc-card__actions">
                 <div class="mdc-card__action-buttons">
                   <button class="mdc-button mdc-card__action mdc-card__action--button">
                     <span class="mdc-button__label">Resources</span>
-                  </button>
-                  <button class="mdc-button mdc-card__action mdc-card__action--button">
-                    <span class="mdc-button__label">Khan</span>
                   </button>
                 </div>
                 <div class="mdc-card__action-icons">
