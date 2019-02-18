@@ -4,6 +4,14 @@ body {
   height: 100vh;
   @include mdc-theme-prop(background-color, background, true, false);
   @include mdc-theme-prop(color, text-primary-on-background, true, false);
+
+  &#index {
+    align-items: center;
+  }
+}
+
+main {
+  flex: auto;
 }
 
 .mdc-drawer-app-content {
