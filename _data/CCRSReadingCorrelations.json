@@ -1,0 +1,5947 @@
+{
+  "Reading Text": [
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Memos and Forms",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Memos and Forms",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Memos and Forms",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Memos and Forms",
+      "Page": "Lesson 1.1",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Memos and Forms",
+      "Page": "Lesson 1.1",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Memos and Forms",
+      "Page": "Lesson 1.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "How-To and Instructions",
+      "Page": "Lesson 1.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "How-To and Instructions",
+      "Page": "Lesson 1.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "How-To and Instructions",
+      "Page": "Lesson 1.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "How-To and Instructions",
+      "Page": "Lesson 1.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "How-To and Instructions",
+      "Page": "Lesson 1.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Websites",
+      "Page": "Lesson 1.3",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Websites",
+      "Page": "Lesson 1.3",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Websites",
+      "Page": "Lesson 1.3",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Workplace Documents",
+      "Page": "Lesson 1.4",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Workplace Documents",
+      "Page": "Lesson 1.4",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Workplace Documents",
+      "Page": "Lesson 1.4",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Workplace Documents",
+      "Page": "Lesson 1.4",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Workplace Documents",
+      "Page": "Lesson 1.4",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Graphic Documents",
+      "Page": "Lesson 1.5",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Graphic Documents",
+      "Page": "Lesson 1.5",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Graphic Documents",
+      "Page": "Lesson 1.5",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Graphic Documents",
+      "Page": "Lesson 1.5",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Reference Texts",
+      "Page": "Lesson 1.6",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Reference Texts",
+      "Page": "Lesson 1.6",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Reference Texts",
+      "Page": "Lesson 1.6",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Reference Texts",
+      "Page": "Lesson 1.6",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Functional Texts",
+      "Lesson": "Comparing Texts in Different Media",
+      "Page": "Lesson 1.7",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Textbooks and Other Educational Materials",
+      "Page": "Lesson 2.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Textbooks and Other Educational Materials",
+      "Page": "Lesson 2.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Magazine and Newspaper Articles",
+      "Page": "Lesson 2.2",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Magazine and Newspaper Articles",
+      "Page": "Lesson 2.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Magazine and Newspaper Articles",
+      "Page": "Lesson 2.2",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Magazine and Newspaper Articles",
+      "Page": "Lesson 2.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Technical Texts",
+      "Page": "Lesson 2.3",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Technical Texts",
+      "Page": "Lesson 2.3",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Technical Texts",
+      "Page": "Lesson 2.3",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Expository Texts",
+      "Lesson": "Technical Texts",
+      "Page": "Lesson 2.3",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Ads",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Ads",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Ads",
+      "Page": "Lesson 3.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Editorials 1",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Editorials 1",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Blogs",
+      "Page": "Lesson 3.3",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Blogs",
+      "Page": "Lesson 3.3",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Blogs",
+      "Page": "Lesson 3.3",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Persuasive Texts",
+      "Lesson": "Persuasive Texts",
+      "Page": "Lesson 3.4",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Nonfiction Prose 1",
+      "Page": "Lesson 4.1",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Nonfiction Prose 1",
+      "Page": "Lesson 4.1",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Nonfiction Prose 1",
+      "Page": "Lesson 4.1",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Biography",
+      "Page": "Lesson 4.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Biography",
+      "Page": "Lesson 4.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Biography",
+      "Page": "Lesson 4.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Biography",
+      "Page": "Lesson 4.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Biography",
+      "Page": "Lesson 4.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Autobiography",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Autobiography",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Autobiography",
+      "Page": "Lesson 4.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Autobiography",
+      "Page": "Lesson 4.3",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Literary Nonfiction",
+      "Lesson": "Autobiography",
+      "Page": "Lesson 4.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Plot and Setting",
+      "Page": "Lesson 5.1",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Plot and Setting",
+      "Page": "Lesson 5.1",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Plot and Setting",
+      "Page": "Lesson 5.1",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Character",
+      "Page": "Lesson 5.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Point of View",
+      "Page": "Lesson 5.3",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Point of View",
+      "Page": "Lesson 5.3",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Point of View",
+      "Page": "Lesson 5.3",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Point of View",
+      "Page": "Lesson 5.3",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Point of View",
+      "Page": "Lesson 5.3",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Literal and Figurative Language",
+      "Page": "Lesson 5.4",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Literal and Figurative Language",
+      "Page": "Lesson 5.4",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Literal and Figurative Language",
+      "Page": "Lesson 5.4",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Literal and Figurative Language",
+      "Page": "Lesson 5.4",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Theme",
+      "Page": "Lesson 5.5",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Theme",
+      "Page": "Lesson 5.5",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Theme",
+      "Page": "Lesson 5.5",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Theme",
+      "Page": "Lesson 5.5",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Text Structure",
+      "Page": "Lesson 5.6",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Text Structure",
+      "Page": "Lesson 5.6",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Text Structure",
+      "Page": "Lesson 5.6",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Reading",
+      "Chapter": "Fiction",
+      "Lesson": "Text Structure",
+      "Page": "Lesson 5.6",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Skeletal and Muscular Systems",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Skeletal and Muscular Systems",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Skeletal and Muscular Systems",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Skeletal and Muscular Systems",
+      "Page": "Lesson 1.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Digestive, Respiratory, Excretory, and Circulatory Systems",
+      "Page": "Lesson 1.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Digestive, Respiratory, Excretory, and Circulatory Systems",
+      "Page": "Lesson 1.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nervous, Endocrine, and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Health and Disease",
+      "Page": "Lesson 1.4",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Health and Disease",
+      "Page": "Lesson 1.4",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Health and Disease",
+      "Page": "Lesson 1.4",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Health and Disease",
+      "Page": "Lesson 1.4",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Health and Disease",
+      "Page": "Lesson 1.4",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Cycles of Matter",
+      "Page": "Lesson 10.1",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Cycles of Matter",
+      "Page": "Lesson 10.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Cycles of Matter",
+      "Page": "Lesson 10.1",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Cycles of Matter",
+      "Page": "Lesson 10.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Cycles of Matter",
+      "Page": "Lesson 10.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Cycles of Matter",
+      "Page": "Lesson 10.1",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Fossil Fuels",
+      "Page": "Lesson 10.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Fossil Fuels",
+      "Page": "Lesson 10.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Fossil Fuels",
+      "Page": "Lesson 10.2",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Fossil Fuels",
+      "Page": "Lesson 10.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth and Living Things",
+      "Lesson": "Fossil Fuels",
+      "Page": "Lesson 10.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Geology",
+      "Page": "Lesson 11.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Geology",
+      "Page": "Lesson 11.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Oceanography",
+      "Page": "Lesson 11.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Oceanography",
+      "Page": "Lesson 11.2",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Oceanography",
+      "Page": "Lesson 11.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Oceanography",
+      "Page": "Lesson 11.2",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Oceanography",
+      "Page": "Lesson 11.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Meteorology",
+      "Page": "Lesson 11.3",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Meteorology",
+      "Page": "Lesson 11.3",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Earth",
+      "Lesson": "Meteorology",
+      "Page": "Lesson 11.3",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth’s Origins",
+      "Page": "Lesson 12.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth’s Origins",
+      "Page": "Lesson 12.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth’s Origins",
+      "Page": "Lesson 12.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth’s Origins",
+      "Page": "Lesson 12.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth’s Origins",
+      "Page": "Lesson 12.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Origins of the Universe",
+      "Page": "Lesson 12.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Origins of the Universe",
+      "Page": "Lesson 12.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Origins of the Universe",
+      "Page": "Lesson 12.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Origins of the Universe",
+      "Page": "Lesson 12.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Origins of the Universe",
+      "Page": "Lesson 12.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "The Milky Way and the Solar System",
+      "Page": "Lesson 12.3",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "The Milky Way and the Solar System",
+      "Page": "Lesson 12.3",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "The Milky Way and the Solar System",
+      "Page": "Lesson 12.3",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth and the Moon",
+      "Page": "Lesson 12.4",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth and the Moon",
+      "Page": "Lesson 12.4",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth and the Moon",
+      "Page": "Lesson 12.4",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth and the Moon",
+      "Page": "Lesson 12.4",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth and the Moon",
+      "Page": "Lesson 12.4",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Earth and the Moon",
+      "Page": "Lesson 12.4",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Flowering Plants",
+      "Page": "Lesson 2.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Flowering Plants",
+      "Page": "Lesson 2.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Respiration",
+      "Page": "Lesson 2.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Respiration",
+      "Page": "Lesson 2.2",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Respiration",
+      "Page": "Lesson 2.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Respiration",
+      "Page": "Lesson 2.2",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Respiration",
+      "Page": "Lesson 2.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Fermentation",
+      "Page": "Lesson 2.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Fermentation",
+      "Page": "Lesson 2.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Fermentation",
+      "Page": "Lesson 2.3",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Life Functions and Energy Intake",
+      "Lesson": "Fermentation",
+      "Page": "Lesson 2.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Ecosystems",
+      "Page": "Lesson 3.1",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Ecosystems",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Ecosystems",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Ecosystems",
+      "Page": "Lesson 3.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Carrying Capacity",
+      "Page": "Lesson 3.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Carrying Capacity",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Carrying Capacity",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Carrying Capacity",
+      "Page": "Lesson 3.2",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Carrying Capacity",
+      "Page": "Lesson 3.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Carrying Capacity",
+      "Page": "Lesson 3.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Symbiosis",
+      "Page": "Lesson 3.3",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Symbiosis",
+      "Page": "Lesson 3.3",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Symbiosis",
+      "Page": "Lesson 3.3",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruption",
+      "Page": "Lesson 3.4",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruption",
+      "Page": "Lesson 3.4",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruption",
+      "Page": "Lesson 3.4",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruption",
+      "Page": "Lesson 3.4",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruption",
+      "Page": "Lesson 3.4",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruption",
+      "Page": "Lesson 3.4",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Environmental Issues",
+      "Page": "Lesson 3.5",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Environmental Issues",
+      "Page": "Lesson 3.5",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Environmental Issues",
+      "Page": "Lesson 3.5",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Environmental Issues",
+      "Page": "Lesson 3.5",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Environmental Issues",
+      "Page": "Lesson 3.5",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "The Cell",
+      "Page": "Lesson 4.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Simple Organisms",
+      "Page": "Lesson 4.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Simple Organisms",
+      "Page": "Lesson 4.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Simple Organisms",
+      "Page": "Lesson 4.2",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Simple Organisms",
+      "Page": "Lesson 4.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Simple Organisms",
+      "Page": "Lesson 4.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Invertebrates",
+      "Page": "Lesson 4.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Vertebrates",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Vertebrates",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Vertebrates",
+      "Page": "Lesson 4.4",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Vertebrates",
+      "Page": "Lesson 4.4",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Foundations of Life",
+      "Lesson": "Vertebrates",
+      "Page": "Lesson 4.4",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genetics",
+      "Page": "Lesson 5.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genotypes and Phenotypes",
+      "Page": "Lesson 5.2",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genotypes and Phenotypes",
+      "Page": "Lesson 5.2",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Heredity",
+      "Lesson": "Genotypes and Phenotypes",
+      "Page": "Lesson 5.2",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Biological Evolution",
+      "Page": "Lesson 6.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Common Ancestry and Cladograms",
+      "Page": "Lesson 6.2",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Common Ancestry and Cladograms",
+      "Page": "Lesson 6.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Common Ancestry and Cladograms",
+      "Page": "Lesson 6.2",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Common Ancestry and Cladograms",
+      "Page": "Lesson 6.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Speciation",
+      "Page": "Lesson 6.3",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Speciation",
+      "Page": "Lesson 6.3",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Speciation",
+      "Page": "Lesson 6.3",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Speciation",
+      "Page": "Lesson 6.3",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Evolution",
+      "Lesson": "Speciation",
+      "Page": "Lesson 6.3",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Energy",
+      "Page": "Lesson 7.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Energy",
+      "Page": "Lesson 7.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Energy",
+      "Page": "Lesson 7.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Energy",
+      "Page": "Lesson 7.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Energy",
+      "Page": "Lesson 7.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 7.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Electricity and Magnetism",
+      "Page": "Lesson 7.3",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Electricity and Magnetism",
+      "Page": "Lesson 7.3",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Electricity and Magnetism",
+      "Page": "Lesson 7.3",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Electricity and Magnetism",
+      "Page": "Lesson 7.3",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Electricity and Magnetism",
+      "Page": "Lesson 7.3",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Sources of Energy",
+      "Page": "Lesson 7.4",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Sources of Energy",
+      "Page": "Lesson 7.4",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Sources of Energy",
+      "Page": "Lesson 7.4",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Sources of Energy",
+      "Page": "Lesson 7.4",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Energy",
+      "Lesson": "Endothermic and Exothermic Reactions",
+      "Page": "Lesson 7.5",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Newton’s Laws of Motion",
+      "Page": "Lesson 8.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Newton’s Laws of Motion",
+      "Page": "Lesson 8.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Newton’s Laws of Motion",
+      "Page": "Lesson 8.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Newton’s Laws of Motion",
+      "Page": "Lesson 8.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Newton’s Laws of Motion",
+      "Page": "Lesson 8.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Machines",
+      "Page": "Lesson 8.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Machines",
+      "Page": "Lesson 8.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Machines",
+      "Page": "Lesson 8.2",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Machines",
+      "Page": "Lesson 8.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Matter",
+      "Page": "Lesson 9.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Matter",
+      "Page": "Lesson 9.1",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Matter",
+      "Page": "Lesson 9.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Matter",
+      "Page": "Lesson 9.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Atom",
+      "Page": "Lesson 9.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Atom",
+      "Page": "Lesson 9.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Atom",
+      "Page": "Lesson 9.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Atom",
+      "Page": "Lesson 9.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Atom",
+      "Page": "Lesson 9.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Atom",
+      "Page": "Lesson 9.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Compounds and Molecules",
+      "Page": "Lesson 9.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Compounds and Molecules",
+      "Page": "Lesson 9.3",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Compounds and Molecules",
+      "Page": "Lesson 9.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Compounds and Molecules",
+      "Page": "Lesson 9.3",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Compounds and Molecules",
+      "Page": "Lesson 9.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Reactions and Solutions",
+      "Page": "Lesson 9.4",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Reactions and Solutions",
+      "Page": "Lesson 9.4",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Reactions and Solutions",
+      "Page": "Lesson 9.4",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Reactions and Solutions",
+      "Page": "Lesson 9.4",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Reactions and Solutions",
+      "Page": "Lesson 9.4",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Chemistry of Life",
+      "Page": "Lesson 9.5",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Chemistry of Life",
+      "Page": "Lesson 9.5",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Chemistry of Life",
+      "Page": "Lesson 9.5",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "The Chemistry of Life",
+      "Page": "Lesson 9.5",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Equations",
+      "Page": "Lesson 9.6",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Equations",
+      "Page": "Lesson 9.6",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Equations",
+      "Page": "Lesson 9.6",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Equations",
+      "Page": "Lesson 9.6",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Science",
+      "Chapter": "Chemical Properties",
+      "Lesson": "Chemical Equations",
+      "Page": "Lesson 9.6",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Constitution",
+      "Page": "Lesson 1.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Constitution",
+      "Page": "Lesson 1.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Constitution",
+      "Page": "Lesson 1.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Constitution",
+      "Page": "Lesson 1.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Constitution",
+      "Page": "Lesson 1.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The Executive, Legislative, and Judicial Branches of Government",
+      "Page": "Lesson 1.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The Executive, Legislative, and Judicial Branches of Government",
+      "Page": "Lesson 1.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The Executive, Legislative, and Judicial Branches of Government",
+      "Page": "Lesson 1.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "State and Local Government",
+      "Page": "Lesson 1.4",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "State and Local Government",
+      "Page": "Lesson 1.4",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "State and Local Government",
+      "Page": "Lesson 1.4",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "State and Local Government",
+      "Page": "Lesson 1.4",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Political Parties and Interest Groups",
+      "Page": "Lesson 1.5",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Civil Liberties and Civil Rights",
+      "Page": "Lesson 1.6",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Civil Liberties and Civil Rights",
+      "Page": "Lesson 1.6",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Civil Liberties and Civil Rights",
+      "Page": "Lesson 1.6",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Civil Liberties and Civil Rights",
+      "Page": "Lesson 1.6",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Civil Liberties and Civil Rights",
+      "Page": "Lesson 1.6",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Role in Global Society",
+      "Page": "Lesson 1.7",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Role in Global Society",
+      "Page": "Lesson 1.7",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Role in Global Society",
+      "Page": "Lesson 1.7",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Role in Global Society",
+      "Page": "Lesson 1.7",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Role in Global Society",
+      "Page": "Lesson 1.7",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "The US Role in Global Society",
+      "Page": "Lesson 1.7",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 1.8",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 1.8",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 1.8",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US Government and Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 1.8",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Early Democratic Traditions",
+      "Page": "Lesson 2.1",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Early Democratic Traditions",
+      "Page": "Lesson 2.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Early Democratic Traditions",
+      "Page": "Lesson 2.1",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Early Democratic Traditions",
+      "Page": "Lesson 2.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Early Democratic Traditions",
+      "Page": "Lesson 2.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Early Democratic Traditions",
+      "Page": "Lesson 2.1",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Revolution and a New Nation",
+      "Page": "Lesson 2.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Revolution and a New Nation",
+      "Page": "Lesson 2.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "Revolution and a New Nation",
+      "Page": "Lesson 2.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "The Civil War and Reconstruction",
+      "Page": "Lesson 2.3",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "The Civil War and Reconstruction",
+      "Page": "Lesson 2.3",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "The Progressive Era, World War I, and the Depression",
+      "Page": "Lesson 2.4",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: Revolutionary War through the Depression",
+      "Lesson": "The Progressive Era, World War I, and the Depression",
+      "Page": "Lesson 2.4",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "World War II, the Cold War, and the 1950s",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "World War II, the Cold War, and the 1950s",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "World War II, the Cold War, and the 1950s",
+      "Page": "Lesson 3.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "World War II, the Cold War, and the 1950s",
+      "Page": "Lesson 3.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "World War II, the Cold War, and the 1950s",
+      "Page": "Lesson 3.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Protest and Politics",
+      "Page": "Lesson 3.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Protest and Politics",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Protest and Politics",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Protest and Politics",
+      "Page": "Lesson 3.2",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Protest and Politics",
+      "Page": "Lesson 3.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "US Foreign Policy in the Modern Era",
+      "Page": "Lesson 3.3",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "US Foreign Policy in the Modern Era",
+      "Page": "Lesson 3.3",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 3.4",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 3.4",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "The United States in the Twenty-First Century",
+      "Page": "Lesson 3.5",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "US History: World War II through Modern Times",
+      "Lesson": "The United States in the Twenty-First Century",
+      "Page": "Lesson 3.5",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "Political Theories and Systems in World History",
+      "Page": "Lesson 4.1",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "Political Theories and Systems in World History",
+      "Page": "Lesson 4.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "Political Theories and Systems in World History",
+      "Page": "Lesson 4.1",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "Political Theories and Systems in World History",
+      "Page": "Lesson 4.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "Political Theories and Systems in World History",
+      "Page": "Lesson 4.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "International Organizations",
+      "Page": "Lesson 4.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "International Organizations",
+      "Page": "Lesson 4.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "International Organizations",
+      "Page": "Lesson 4.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "International Relations",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "International Relations",
+      "Page": "Lesson 4.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "International Relations",
+      "Page": "Lesson 4.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "The World in the Twenty-First Century",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "The World in the Twenty-First Century",
+      "Page": "Lesson 4.4",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "The World in the Twenty-First Century",
+      "Page": "Lesson 4.4",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "The World in the Twenty-First Century",
+      "Page": "Lesson 4.4",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "World History and Political Systems",
+      "Lesson": "The World in the Twenty-First Century",
+      "Page": "Lesson 4.4",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Basic Economic Concepts",
+      "Page": "Lesson 5.1",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Basic Economic Concepts",
+      "Page": "Lesson 5.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Basic Economic Concepts",
+      "Page": "Lesson 5.1",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Basic Economic Concepts",
+      "Page": "Lesson 5.1",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Basic Economic Concepts",
+      "Page": "Lesson 5.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of the Market",
+      "Page": "Lesson 5.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of Government",
+      "Page": "Lesson 5.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of Government",
+      "Page": "Lesson 5.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of Government",
+      "Page": "Lesson 5.3",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "The Role of Government",
+      "Page": "Lesson 5.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Money and Financial Institutions",
+      "Page": "Lesson 5.4",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Monopoly and Competition",
+      "Page": "Lesson 5.5",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Monopoly and Competition",
+      "Page": "Lesson 5.5",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Monopoly and Competition",
+      "Page": "Lesson 5.5",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Profit",
+      "Page": "Lesson 5.6",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Profit",
+      "Page": "Lesson 5.6",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Profit",
+      "Page": "Lesson 5.6",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Profit",
+      "Page": "Lesson 5.6",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Profit",
+      "Page": "Lesson 5.6",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Productivity and Interdependence",
+      "Page": "Lesson 5.7",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Productivity and Interdependence",
+      "Page": "Lesson 5.7",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Fiscal and Monetary Policy",
+      "Page": "Lesson 5.8",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Fiscal and Monetary Policy",
+      "Page": "Lesson 5.8",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Fiscal and Monetary Policy",
+      "Page": "Lesson 5.8",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Credit, Savings, and Banking",
+      "Page": "Lesson 5.9",
+      "Standard": "RI.6.5"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Credit, Savings, and Banking",
+      "Page": "Lesson 5.9",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Credit, Savings, and Banking",
+      "Page": "Lesson 5.9",
+      "Standard": "RI.7.5"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Foundations",
+      "Lesson": "Credit, Savings, and Banking",
+      "Page": "Lesson 5.9",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 6.1",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 6.1",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 6.1",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 6.1",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 6.1",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Industrialization and Imperialism",
+      "Page": "Lesson 6.2",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Industrialization and Imperialism",
+      "Page": "Lesson 6.2",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Industrialization and Imperialism",
+      "Page": "Lesson 6.2",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Industrialization and Imperialism",
+      "Page": "Lesson 6.2",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Industrialization and Imperialism",
+      "Page": "Lesson 6.2",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Industrialization and Imperialism",
+      "Page": "Lesson 6.2",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Scientific and Industrial Revolutions",
+      "Page": "Lesson 6.3",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Scientific and Industrial Revolutions",
+      "Page": "Lesson 6.3",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economic Events in History",
+      "Lesson": "Scientific and Industrial Revolutions",
+      "Page": "Lesson 6.3",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "National Economic Performance",
+      "Page": "Lesson 7.1",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "National Economic Performance",
+      "Page": "Lesson 7.1",
+      "Standard": "RI.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "National Economic Performance",
+      "Page": "Lesson 7.1",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "National Economic Performance",
+      "Page": "Lesson 7.1",
+      "Standard": "RL.6.4"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "National Economic Performance",
+      "Page": "Lesson 7.1",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "Global Markets",
+      "Page": "Lesson 7.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "Global Markets",
+      "Page": "Lesson 7.2",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Economics in the Twenty-First Century",
+      "Lesson": "Global Markets",
+      "Page": "Lesson 7.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Physical and Cultural Landscapes",
+      "Page": "Lesson 8.1",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Physical and Cultural Landscapes",
+      "Page": "Lesson 8.1",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Physical Systems",
+      "Page": "Lesson 8.2",
+      "Standard": "RI.6.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Physical Systems",
+      "Page": "Lesson 8.2",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Physical Systems",
+      "Page": "Lesson 8.2",
+      "Standard": "RST.6-8.7"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Human Systems",
+      "Page": "Lesson 8.3",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Human Systems",
+      "Page": "Lesson 8.3",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Human Systems",
+      "Page": "Lesson 8.3",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 8.4",
+      "Standard": "RH.6-8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 8.4",
+      "Standard": "RI.8.6"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 8.4",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RH.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RI.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RI.8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RL.6.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RST.6-8.2"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Sustainability",
+      "Page": "Lesson 8.5",
+      "Standard": "RST.6-8.3"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 8.6",
+      "Standard": "RH.6-8.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 8.6",
+      "Standard": "RI.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 8.6",
+      "Standard": "RI.8.8"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 8.6",
+      "Standard": "RL.7.1"
+    },
+    {
+      "Source": "Common Core Basics: Social Studies",
+      "Chapter": "Geography and People",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 8.6",
+      "Standard": "RST.6-8.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Determine the Main Idea",
+      "Page": "Lessons 1.1",
+      "Standard": "RI.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Determine the Main Idea",
+      "Page": "Lessons 1.1",
+      "Standard": "RL.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Supporting Details",
+      "Page": "Lessons 1.2",
+      "Standard": "RI.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "RL.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "RL.8.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "RL.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "RL.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "W.11-12.9a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify Direct and Implied Main Ideas",
+      "Page": "Lessons 1.3",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Summarize Details",
+      "Page": "Lessons 1.4",
+      "Standard": "RI.8.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Summarize Details",
+      "Page": "Lessons 1.4",
+      "Standard": "RI.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Summarize Details",
+      "Page": "Lessons 1.4",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Summarize Details",
+      "Page": "Lessons 1.4",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify a Theme",
+      "Page": "Lessons 1.5",
+      "Standard": "RL.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify a Theme",
+      "Page": "Lessons 1.5",
+      "Standard": "W.11-12.9a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Identify a Theme",
+      "Page": "Lessons 1.5",
+      "Standard": "W.9-10.9a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Sequence Events",
+      "Page": "Lessons 2.1",
+      "Standard": "RI.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Infer Relationships between Events, People, and Ideas",
+      "Page": "Lessons 2.2",
+      "Standard": "11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Infer Relationships between Events, People, and Ideas",
+      "Page": "Lessons 2.2",
+      "Standard": "RI.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Infer Relationships between Events, People, and Ideas",
+      "Page": "Lessons 2.2",
+      "Standard": "RI.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Infer Relationships between Events, People, and Ideas",
+      "Page": "Lessons 2.2",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Infer Relationships between Events, People, and Ideas",
+      "Page": "Lessons 2.2",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze Relationships between Ideas",
+      "Page": "Lessons 2.3",
+      "Standard": "RL.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze Relationships between Ideas",
+      "Page": "Lessons 2.3",
+      "Standard": "RL.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze Relationships between Ideas",
+      "Page": "Lessons 2.3",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze Relationships between Ideas",
+      "Page": "Lessons 2.3",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Determine Implicit Relationships between Ideas",
+      "Page": "Lessons 2.4",
+      "Standard": "RI.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Determine Implicit Relationships between Ideas",
+      "Page": "Lessons 2.4",
+      "Standard": "W.11-12"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Determine Implicit Relationships between Ideas",
+      "Page": "Lessons 2.4",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze the Role of Details in Complex Texts",
+      "Page": "Lessons 2.5",
+      "Standard": "RI.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze the Role of Details in Complex Texts",
+      "Page": "Lessons 2.5",
+      "Standard": "RI.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze the Role of Details in Complex Texts",
+      "Page": "Lessons 2.5",
+      "Standard": "RI.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze the Role of Details in Complex Texts",
+      "Page": "Lessons 2.5",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Analyze the Role of Details in Complex Texts",
+      "Page": "Lessons 2.5",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Determine Connotative and Figurative Meanings",
+      "Page": "Lessons 3.1",
+      "Standard": "RI.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Determine Connotative and Figurative Meanings",
+      "Page": "Lessons 3.1",
+      "Standard": "RI.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Determine Connotative and Figurative Meanings",
+      "Page": "Lessons 3.1",
+      "Standard": "RL.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Determine Connotative and Figurative Meanings",
+      "Page": "Lessons 3.1",
+      "Standard": "RL.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Determine Connotative and Figurative Meanings",
+      "Page": "Lessons 3.1",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Determine Connotative and Figurative Meanings",
+      "Page": "Lessons 3.1",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "L.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "L.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "RI.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "RL.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "RL.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "RL.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "W.11-12.9a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "W.11-12.9b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "W.9-10.9a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Tone",
+      "Page": "Lessons 3.2",
+      "Standard": "W.9-10.9b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Word Choice",
+      "Page": "Lessons 3.3",
+      "Standard": "L.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Word Choice",
+      "Page": "Lessons 3.3",
+      "Standard": "L.11-12.5a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Word Choice",
+      "Page": "Lessons 3.3",
+      "Standard": "L.9-10.5a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Word Choice",
+      "Page": "Lessons 3.3",
+      "Standard": "RI.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Analyze Word Choice",
+      "Page": "Lessons 3.3",
+      "Standard": "RL.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Development of Ideas",
+      "Page": "Lessons 4.1",
+      "Standard": "L.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Development of Ideas",
+      "Page": "Lessons 4.1",
+      "Standard": "RI.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Development of Ideas",
+      "Page": "Lessons 4.1",
+      "Standard": "RL.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Development of Ideas",
+      "Page": "Lessons 4.1",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Development of Ideas",
+      "Page": "Lessons 4.1",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "L.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "RI.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "RI.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "RL.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "RL.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze How Structure Impacts Key Ideas",
+      "Page": "Lessons 4.2",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Effects of Transitions and Signal Words",
+      "Page": "Lessons 4.3",
+      "Standard": "L.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Effects of Transitions and Signal Words",
+      "Page": "Lessons 4.3",
+      "Standard": "RI.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Effects of Transitions and Signal Words",
+      "Page": "Lessons 4.3",
+      "Standard": "RI.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Effects of Transitions and Signal Words",
+      "Page": "Lessons 4.3",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Analyze the Effects of Transitions and Signal Words",
+      "Page": "Lessons 4.3",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Determine Author’s Purpose and Point of View",
+      "Page": "Lessons 5.1",
+      "Standard": "RI.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Determine Author’s Purpose and Point of View",
+      "Page": "Lessons 5.1",
+      "Standard": "RI.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Determine Author’s Purpose and Point of View",
+      "Page": "Lessons 5.1",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Determine Author’s Purpose and Point of View",
+      "Page": "Lessons 5.1",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Author’s Purpose Determines Structure",
+      "Page": "Lessons 5.2",
+      "Standard": "RI.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Author’s Purpose Determines Structure",
+      "Page": "Lessons 5.2",
+      "Standard": "RL.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Author’s Purpose Determines Structure",
+      "Page": "Lessons 5.2",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Author’s Purpose Determines Structure",
+      "Page": "Lessons 5.2",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Infer Author’s Purpose",
+      "Page": "Lessons 5.3",
+      "Standard": "RI.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Infer Author’s Purpose",
+      "Page": "Lessons 5.3",
+      "Standard": "RI.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Infer Author’s Purpose",
+      "Page": "Lessons 5.3",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Infer Author’s Purpose",
+      "Page": "Lessons 5.3",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Authors Differentiate Their Positions",
+      "Page": "Lessons 5.4",
+      "Standard": "RI.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Authors Differentiate Their Positions",
+      "Page": "Lessons 5.4",
+      "Standard": "RI.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Authors Differentiate Their Positions",
+      "Page": "Lessons 5.4",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze How Authors Differentiate Their Positions",
+      "Page": "Lessons 5.4",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze Author’s Intention and Effect",
+      "Page": "Lessons 5.5",
+      "Standard": "L.11-12.5b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze Author’s Intention and Effect",
+      "Page": "Lessons 5.5",
+      "Standard": "L.9-10.5b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze Author’s Intention and Effect",
+      "Page": "Lessons 5.5",
+      "Standard": "RI.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze Author’s Intention and Effect",
+      "Page": "Lessons 5.5",
+      "Standard": "RI.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze Author’s Intention and Effect",
+      "Page": "Lessons 5.5",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Analyze Author’s Intention and Effect",
+      "Page": "Lessons 5.5",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Identify Argument Development",
+      "Page": "Lessons 6.1",
+      "Standard": "RI.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Identify Argument Development",
+      "Page": "Lessons 6.1",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Identify Argument Development",
+      "Page": "Lessons 6.1",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Identify Supporting Evidence",
+      "Page": "Lessons 6.2",
+      "Standard": "RI.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Identify Supporting Evidence",
+      "Page": "Lessons 6.2",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Identify Supporting Evidence",
+      "Page": "Lessons 6.2",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Relevance and Sufficiency",
+      "Page": "Lessons 6.3",
+      "Standard": "RI.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Relevance and Sufficiency",
+      "Page": "Lessons 6.3",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Relevance and Sufficiency",
+      "Page": "Lessons 6.3",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Validity and Reasoning",
+      "Page": "Lessons 6.4",
+      "Standard": "RI.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Validity and Reasoning",
+      "Page": "Lessons 6.4",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Validity and Reasoning",
+      "Page": "Lessons 6.4",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Logic and Identify Hidden Assumptions",
+      "Page": "Lessons 6.5",
+      "Standard": "L.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Logic and Identify Hidden Assumptions",
+      "Page": "Lessons 6.5",
+      "Standard": "RI.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Logic and Identify Hidden Assumptions",
+      "Page": "Lessons 6.5",
+      "Standard": "RI.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Logic and Identify Hidden Assumptions",
+      "Page": "Lessons 6.5",
+      "Standard": "RI.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Logic and Identify Hidden Assumptions",
+      "Page": "Lessons 6.5",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Evaluate Logic and Identify Hidden Assumptions",
+      "Page": "Lessons 6.5",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Topics in Different Formats",
+      "Page": "Lessons 7.1",
+      "Standard": "RI.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Topics in Different Formats",
+      "Page": "Lessons 7.1",
+      "Standard": "RI.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Topics in Different Formats",
+      "Page": "Lessons 7.1",
+      "Standard": "RL.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Topics in Different Formats",
+      "Page": "Lessons 7.1",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Topics in Different Formats",
+      "Page": "Lessons 7.1",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "RL.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "RL.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "RL.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "RL.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "W.11-12.9a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Compare Similar Genres",
+      "Page": "Lessons 7.2",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "RI.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "RI.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "RI.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "RI.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "W.11-12.9b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Analyze Two Arguments",
+      "Page": "Lessons 7.3",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "RI.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "RI.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "RI.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "RL.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "RL.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Evaluate the Impact of Genre and Format",
+      "Page": "Lessons 7.4",
+      "Standard": "W.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 1",
+      "Standard": "RL.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Identify Main Ideas and Details",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 1",
+      "Standard": "W.11-12.2b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "L.8.2a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "RI.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.11-12.2a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.11-12.2b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.11-12.2c"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.11-12.2e"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.11-12.2f"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Relationships within Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 2",
+      "Standard": "W.9-10.2f"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "L.11-12.5a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "L.11-12.5b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "L.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "L.8.1c"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "L.8.1d"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "L.8.3a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "RI.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "RI.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "W.11-12.2d"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "W.11-12.9b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Interpret Words in Context",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 3",
+      "Standard": "W.9-10.3e"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 4",
+      "Standard": "RI.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 4",
+      "Standard": "W.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 4",
+      "Standard": "W.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Examine Text Structure",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 4",
+      "Standard": "W.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 5",
+      "Standard": "L.6.1c"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 5",
+      "Standard": "L.6.1d"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 5",
+      "Standard": "RI.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Assess How Point of View Shapes Informational Text",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 5",
+      "Standard": "W.11-12.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 6",
+      "Standard": "RI.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 6",
+      "Standard": "RI.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 6",
+      "Standard": "RI.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 6",
+      "Standard": "W.11-12.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Evaluate Textual Evidence",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 6",
+      "Standard": "W.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "L.11-12.2b"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "L.9-10.2a"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "RI.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "RI.8.9"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "RI.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "RL.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "W.11-12.2"
+    },
+    {
+      "Source": "Common Core Achieve: Reading & Writing",
+      "Chapter": "Analyze Structure Across Texts",
+      "Lesson": "Writer’s Workshop",
+      "Page": "Chapter 7",
+      "Standard": "W.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Skeletal, Muscular, and Nervous Systems",
+      "Page": "Lesson 1.1",
+      "Standard": "RST.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Digestive, Excretory, Respiratory, and Circulatory Systems",
+      "Page": "Lesson 1.2",
+      "Standard": "RST.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Endocrine and Reproductive Systems",
+      "Page": "Lesson 1.3",
+      "Standard": "RST.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Homeostasis",
+      "Page": "Lesson 1.4",
+      "Standard": "RST.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Homeostasis",
+      "Page": "Lesson 1.4",
+      "Standard": "RST.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nutrition",
+      "Page": "Lesson 1.5",
+      "Standard": "RST.9-10.6"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Nutrition",
+      "Page": "Lesson 1.5",
+      "Standard": "A-CED.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Disease Prevention",
+      "Page": "Lesson 1.6",
+      "Standard": "RST.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Human Body and Health",
+      "Lesson": "Disease Prevention",
+      "Page": "Lesson 1.6",
+      "Standard": "7.RP.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Living Things and Their Environment",
+      "Page": "Lesson 2.1",
+      "Standard": "RST.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Movement of Energy and Matter",
+      "Page": "Lesson 2.2",
+      "Standard": "RST.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Movement of Energy and Matter",
+      "Page": "Lesson 2.2",
+      "Standard": "RST.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Interactions Among Populations",
+      "Page": "Lesson 2.3",
+      "Standard": "RST.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Interactions Among Populations",
+      "Page": "Lesson 2.3",
+      "Standard": "6.SP.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Interactions Among Populations",
+      "Page": "Lesson 2.3",
+      "Standard": "6.SP.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Ecosystems",
+      "Lesson": "Disruptions to Ecosystems",
+      "Page": "Lesson 2.4",
+      "Standard": "RST.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Structure and Function of Life",
+      "Lesson": "Cells: Basic Units of Life",
+      "Page": "Lesson 3.1",
+      "Standard": "RST.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Structure and Function of Life",
+      "Lesson": "Cell Structure and Function",
+      "Page": "Lesson 3.2",
+      "Standard": "RST.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Structure and Function of Life",
+      "Lesson": "Plant Structure and Function",
+      "Page": "Lesson 3.3",
+      "Standard": "RST.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Structure and Function of Life",
+      "Lesson": "Energy and Cells",
+      "Page": "Lesson 3.4",
+      "Standard": "RST.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Structure and Function of Life",
+      "Lesson": "Mitosis and Meiosis",
+      "Page": "Lesson 3.5",
+      "Standard": "RST.11-12.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Basic Principles of Genetics",
+      "Page": "Lesson 4.1",
+      "Standard": "RST.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Basic Principles of Genetics",
+      "Page": "Lesson 4.1",
+      "Standard": "7.RP.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Probability of Traits",
+      "Page": "Lesson 4.2",
+      "Standard": "RST.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Probability of Traits",
+      "Page": "Lesson 4.2",
+      "Standard": "7.SP.8"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Common Ancestry",
+      "Page": "Lesson 4.3",
+      "Standard": "RST.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Heredity: Genetic Variations and Expression",
+      "Page": "Lesson 4.4",
+      "Standard": "RST.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Heredity and Evolution",
+      "Lesson": "Selection and Adaptation",
+      "Page": "Lesson 4.5",
+      "Standard": "RST.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Motion",
+      "Page": "Lesson 5.1",
+      "Standard": "RST.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Motion",
+      "Page": "Lesson 5.1",
+      "Standard": "8.F.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Newton’s Laws of Motion",
+      "Page": "Lesson 5.2",
+      "Standard": "RST.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Newton’s Laws of Motion",
+      "Page": "Lesson 5.2",
+      "Standard": "A-CED.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Forces and Newton’s Laws of Motion",
+      "Page": "Lesson 5.2",
+      "Standard": "6.EE.2c"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Work and Simple Machines",
+      "Page": "Lesson 5.3",
+      "Standard": "RST.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Work and Simple Machines",
+      "Page": "Lesson 5.3",
+      "Standard": "A-CED.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Work, Motion, and Forces",
+      "Lesson": "Work and Simple Machines",
+      "Page": "Lesson 5.3",
+      "Standard": "6.EE.2c"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Energy",
+      "Lesson": "Types of Energy and Energy Transformations",
+      "Page": "Lesson 6.1",
+      "Standard": "RST.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Energy",
+      "Lesson": "Types of Energy and Energy Transformations",
+      "Page": "Lesson 6.1",
+      "Standard": "6.EE.2c"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Energy",
+      "Lesson": "Sources of Energy",
+      "Page": "Lesson 6.2",
+      "Standard": "RST.9-10.10"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Energy",
+      "Lesson": "Sources of Energy",
+      "Page": "Lesson 6.2",
+      "Standard": "RST.11-12.10"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Energy",
+      "Lesson": "Heat",
+      "Page": "Lesson 6.3",
+      "Standard": "RST.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Energy",
+      "Lesson": "Waves",
+      "Page": "Lesson 6.4",
+      "Standard": "RST.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Matter",
+      "Lesson": "The Structure of Matter",
+      "Page": "Lesson 7.1",
+      "Standard": "RST.9-10.5"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Matter",
+      "Lesson": "Physical and Chemical Properties of Matter",
+      "Page": "Lesson 7.2",
+      "Standard": "RST.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Matter",
+      "Lesson": "Chemical Reactions",
+      "Page": "Lesson 7.3",
+      "Standard": "RST.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "Matter",
+      "Lesson": "Solutions",
+      "Page": "Lesson 7.4",
+      "Standard": "RST.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "The Atmosphere",
+      "Page": "Lesson 8.1",
+      "Standard": "RST.11-12.10"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "The Atmosphere",
+      "Page": "Lesson 8.1",
+      "Standard": "S-IC.6"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "The Oceans",
+      "Page": "Lesson 8.2",
+      "Standard": "RST.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "Earth’s Structure, Composition, and Landforms",
+      "Page": "Lesson 8.3",
+      "Standard": "RST.11-12.10"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "Earth’s Resources",
+      "Page": "Lesson 8.4",
+      "Standard": "RST.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "Interactions Between Earth’s Systems",
+      "Page": "Lesson 8.5",
+      "Standard": "RST.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Earth",
+      "Lesson": "Interactions Between Earth’s Systems",
+      "Page": "Lesson 8.5",
+      "Standard": "S-IC.1"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Structures in the Universe",
+      "Page": "Lesson 9.1",
+      "Standard": "RST.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Structures in the Solar System",
+      "Page": "Lesson 9.2",
+      "Standard": "RST.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Science",
+      "Chapter": "The Cosmos",
+      "Lesson": "Structures in the Solar System",
+      "Page": "Lesson 9.2",
+      "Standard": "7.RP.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RH.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Types of Modern and Historical Governments",
+      "Page": "Lesson 1.1",
+      "Standard": "RI.11-12..9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "American Constitutional Democracy",
+      "Page": "Lesson 1.2",
+      "Standard": "HSN.Q.A.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "American Constitutional Democracy",
+      "Page": "Lesson 1.2",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "American Constitutional Democracy",
+      "Page": "Lesson 1.2",
+      "Standard": "RH.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "American Constitutional Democracy",
+      "Page": "Lesson 1.2",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "American Constitutional Democracy",
+      "Page": "Lesson 1.2",
+      "Standard": "RI.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Structure of American Government",
+      "Page": "Lesson 1.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Structure of American Government",
+      "Page": "Lesson 1.3",
+      "Standard": "RH.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Government",
+      "Lesson": "Structure of American Government",
+      "Page": "Lesson 1.3",
+      "Standard": "W.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Individual Rights and Responsibilities",
+      "Page": "Lesson 2.1",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Individual Rights and Responsibilities",
+      "Page": "Lesson 2.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Individual Rights and Responsibilities",
+      "Page": "Lesson 2.1",
+      "Standard": "RH.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Individual Rights and Responsibilities",
+      "Page": "Lesson 2.1",
+      "Standard": "RH.11-12.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Individual Rights and Responsibilities",
+      "Page": "Lesson 2.1",
+      "Standard": "RH.11-12.5"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Individual Rights and Responsibilities",
+      "Page": "Lesson 2.1",
+      "Standard": "RI.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Political Parties, Campaigns, and Elections",
+      "Page": "Lesson 2.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Political Parties, Campaigns, and Elections",
+      "Page": "Lesson 2.2",
+      "Standard": "RH.11.12.2"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Political Parties, Campaigns, and Elections",
+      "Page": "Lesson 2.2",
+      "Standard": "W.9-10.2.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 2.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 2.3",
+      "Standard": "RH.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 2.3",
+      "Standard": "RH.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Civics",
+      "Lesson": "Contemporary Public Policy",
+      "Page": "Lesson 2.3",
+      "Standard": "W.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "American Revolution",
+      "Page": "Lesson 3.1",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "American Revolution",
+      "Page": "Lesson 3.1",
+      "Standard": "RH.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "American Revolution",
+      "Page": "Lesson 3.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "American Revolution",
+      "Page": "Lesson 3.1",
+      "Standard": "RI.11-12..9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "A New Nation",
+      "Page": "Lesson 3.2",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "A New Nation",
+      "Page": "Lesson 3.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "A New Nation",
+      "Page": "Lesson 3.2",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "A New Nation",
+      "Page": "Lesson 3.2",
+      "Standard": "RI.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "A New Nation",
+      "Page": "Lesson 3.2",
+      "Standard": "W.9-10.3.C"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "Civil War and Reconstruction",
+      "Page": "Lesson 3.3",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "Civil War and Reconstruction",
+      "Page": "Lesson 3.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "Civil War and Reconstruction",
+      "Page": "Lesson 3.3",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "Civil War and Reconstruction",
+      "Page": "Lesson 3.3",
+      "Standard": "RI.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "Civil War and Reconstruction",
+      "Page": "Lesson 3.3",
+      "Standard": "W.11-12.1.A"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "European Settlement and Population of the Americas",
+      "Page": "Lesson 3.4",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "European Settlement and Population of the Americas",
+      "Page": "Lesson 3.4",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "European Settlement and Population of the Americas",
+      "Page": "Lesson 3.4",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: Revolutionary War Through Civil War",
+      "Lesson": "European Settlement and Population of the Americas",
+      "Page": "Lesson 3.4",
+      "Standard": "W.9-10.3.A"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War I",
+      "Page": "Lesson 4.1",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War I",
+      "Page": "Lesson 4.1",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War I",
+      "Page": "Lesson 4.1",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War I",
+      "Page": "Lesson 4.1",
+      "Standard": "RI.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War I",
+      "Page": "Lesson 4.1",
+      "Standard": "W.9-10.1.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War II",
+      "Page": "Lesson 4.2",
+      "Standard": "RH.9-10.9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War II",
+      "Page": "Lesson 4.2",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War II",
+      "Page": "Lesson 4.2",
+      "Standard": "RH.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War II",
+      "Page": "Lesson 4.2",
+      "Standard": "RH.11-12.9"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "World War II",
+      "Page": "Lesson 4.2",
+      "Standard": "W.9-10.3.D"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "The Cold War",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "The Cold War",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "The Cold War",
+      "Page": "Lesson 4.3",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "The Cold War",
+      "Page": "Lesson 4.3",
+      "Standard": "W.9-10.3.A"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "The Cold War",
+      "Page": "Lesson 4.3",
+      "Standard": "W.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 4.4",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Societal Changes",
+      "Page": "Lesson 4.4",
+      "Standard": "RI.9-10.2"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Foreign Policy in the 21st Century",
+      "Page": "Lesson 4.5",
+      "Standard": "RH.9-10.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Foreign Policy in the 21st Century",
+      "Page": "Lesson 4.5",
+      "Standard": "RH.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Foreign Policy in the 21st Century",
+      "Page": "Lesson 4.5",
+      "Standard": "W.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "American History: World War I Through Modern Times",
+      "Lesson": "Foreign Policy in the 21st Century",
+      "Page": "Lesson 4.5",
+      "Standard": "W.11-12.8"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Markets, Monopolies, and Competition",
+      "Page": "Lesson 5.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Markets, Monopolies, and Competition",
+      "Page": "Lesson 5.1",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Markets, Monopolies, and Competition",
+      "Page": "Lesson 5.1",
+      "Standard": "W.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Factors of Production",
+      "Page": "Lesson 5.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Factors of Production",
+      "Page": "Lesson 5.2",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Factors of Production",
+      "Page": "Lesson 5.2",
+      "Standard": "W.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Profits and Productivity",
+      "Page": "Lesson 5.3",
+      "Standard": "HSN.Q.A.2"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Profits and Productivity",
+      "Page": "Lesson 5.3",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Profits and Productivity",
+      "Page": "Lesson 5.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Profits and Productivity",
+      "Page": "Lesson 5.3",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Specialization and Comparative Advantage",
+      "Page": "Lesson 5.4",
+      "Standard": "HSN.Q.A.2"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Specialization and Comparative Advantage",
+      "Page": "Lesson 5.4",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Specialization and Comparative Advantage",
+      "Page": "Lesson 5.4",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Fundamentals of Economics",
+      "Lesson": "Specialization and Comparative Advantage",
+      "Page": "Lesson 5.4",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Microeconomics",
+      "Page": "Lesson 6.1",
+      "Standard": "HSN.Q.A.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Microeconomics",
+      "Page": "Lesson 6.1",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Microeconomics",
+      "Page": "Lesson 6.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Microeconomics",
+      "Page": "Lesson 6.1",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Microeconomics",
+      "Page": "Lesson 6.1",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics and Government Policy",
+      "Page": "Lesson 6.2",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics and Government Policy",
+      "Page": "Lesson 6.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics and Government Policy",
+      "Page": "Lesson 6.2",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics and Government Policy",
+      "Page": "Lesson 6.2",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics and Government Policy",
+      "Page": "Lesson 6.2",
+      "Standard": "I"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics, the GDP, and Price Fluctuation",
+      "Page": "Lesson 6.3",
+      "Standard": "HSN.Q.A.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics, the GDP, and Price Fluctuation",
+      "Page": "Lesson 6.3",
+      "Standard": "HSN.Q.A.2"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics, the GDP, and Price Fluctuation",
+      "Page": "Lesson 6.3",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics, the GDP, and Price Fluctuation",
+      "Page": "Lesson 6.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics, the GDP, and Price Fluctuation",
+      "Page": "Lesson 6.3",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Microeconomics and Macroeconomics",
+      "Lesson": "Macroeconomics, the GDP, and Price Fluctuation",
+      "Page": "Lesson 6.3",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 7.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 7.1",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 7.1",
+      "Standard": "RH.11-12.6"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "Major Economic Events",
+      "Page": "Lesson 7.1",
+      "Standard": "W.11-12.3.D"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "The Relationship between Politics and Economics",
+      "Page": "Lesson 7.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "The Relationship between Politics and Economics",
+      "Page": "Lesson 7.2",
+      "Standard": "RH.11-12.3"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "The Scientific and Industrial Revolutions",
+      "Page": "Lesson 7.3",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "The Scientific and Industrial Revolutions",
+      "Page": "Lesson 7.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Economics and History",
+      "Lesson": "The Scientific and Industrial Revolutions",
+      "Page": "Lesson 7.3",
+      "Standard": "W.11-12.3.D"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Savings and Banking",
+      "Page": "Lesson 8.1",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Savings and Banking",
+      "Page": "Lesson 8.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Types of Credit",
+      "Page": "Lesson 8.2",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Types of Credit",
+      "Page": "Lesson 8.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Consumer Credit Laws",
+      "Page": "Lesson 8.3",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Consumer Credit Laws",
+      "Page": "Lesson 8.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Consumer Credit",
+      "Lesson": "Consumer Credit Laws",
+      "Page": "Lesson 8.3",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Development of Ancient Civilizations",
+      "Page": "Lesson 9.1",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Development of Ancient Civilizations",
+      "Page": "Lesson 9.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Development of Ancient Civilizations",
+      "Page": "Lesson 9.1",
+      "Standard": "RH.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Development of Ancient Civilizations",
+      "Page": "Lesson 9.1",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 9.2",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 9.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 9.2",
+      "Standard": "RH.9-10.8"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 9.2",
+      "Standard": "RH.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Nationhood and Statehood",
+      "Page": "Lesson 9.2",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Human Activity and the Environment",
+      "Page": "Lesson 9.3",
+      "Standard": "HSS.MD.B.5.B"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Human Activity and the Environment",
+      "Page": "Lesson 9.3",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Human Activity and the Environment",
+      "Page": "Lesson 9.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Human Activity and the Environment",
+      "Page": "Lesson 9.3",
+      "Standard": "RH.11-12.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Societal Development",
+      "Lesson": "Human Activity and the Environment",
+      "Page": "Lesson 9.3",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Concepts of Region and Place",
+      "Page": "Lesson 10.1",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Concepts of Region and Place",
+      "Page": "Lesson 10.1",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Concepts of Region and Place",
+      "Page": "Lesson 10.1",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Concepts of Region and Place",
+      "Page": "Lesson 10.1",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 10.2",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 10.2",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Natural and Cultural Diversity",
+      "Page": "Lesson 10.2",
+      "Standard": "RH.11-12.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Population Trends and Issues",
+      "Page": "Lesson 10.3",
+      "Standard": "RH.9-10.1"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Population Trends and Issues",
+      "Page": "Lesson 10.3",
+      "Standard": "RH.9-10.4"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Population Trends and Issues",
+      "Page": "Lesson 10.3",
+      "Standard": "RH.9-10.7"
+    },
+    {
+      "Source": "Common Core Achieve: Social Studies",
+      "Chapter": "Borders Between People and Nations",
+      "Lesson": "Population Trends and Issues",
+      "Page": "Lesson 10.3",
+      "Standard": "RH.11-12.7"
+    }
+  ]
+}
