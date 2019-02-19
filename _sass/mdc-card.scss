@@ -2,10 +2,18 @@
   margin-bottom: 16px;
   @include mdc-card-fill-color(transparent);
   @include mdc-card-outline(primary, 1px);
-  border-color: var(--mdc-theme-primary);
   & dt, dd {
     margin: 0;
     padding: 0 8px;
+  }
+  &[data-ccss^="ri"], &[data-ccss^="rl"] {
+    @include mdc-theme-prop(border-color, #2196f3, true, true);
+  }
+  &[data-ccss^="rst"] {
+    @include mdc-theme-prop(border-color, #673ab7, true, true);
+  }
+  &[data-ccss^="whst"], &[data-ccss^="rh"] {
+    @include mdc-theme-prop(border-color, #4caf50, true, true);
   }
 }
 
