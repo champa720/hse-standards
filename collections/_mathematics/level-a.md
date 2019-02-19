@@ -1,5 +1,5 @@
 ---
-title: Mathematics Standards Level A
+title: Mathematics Standards
 level: A
 grade: "K-1"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Reading Standards Level E
+title: Reading Standards
 level: E
 grade: "9-12"
 ---

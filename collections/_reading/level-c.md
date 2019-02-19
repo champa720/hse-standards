@@ -1,5 +1,5 @@
 ---
-title: Reading Standards Level C
+title: Reading Standards
 level: C
 grade: "4-5"
 ---

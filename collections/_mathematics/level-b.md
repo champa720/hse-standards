@@ -1,5 +1,5 @@
 ---
-title: Mathematics Standards Level B
+title: Mathematics Standards
 level: B
 grade: "2-3"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mathematics Standards Level E
+title: Mathematics Standards
 level: E
 grade: "9-12"
 ---

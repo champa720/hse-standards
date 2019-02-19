@@ -1,5 +1,5 @@
 ---
-title: Reading Standards Level A
+title: Reading Standards
 level: A
 grade: "K-1"
 ---

@@ -1,5 +1,5 @@
 ---
-title: Mathematics Standards Level C
+title: Mathematics Standards
 level: C
 grade: "4-5, 6"
 ---

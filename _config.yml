@@ -42,6 +42,7 @@ minima:
 header_pages:
  - mathematics.html
  - reading.html
+ - writing.html
 
 # Build settings
 # theme: minima
@@ -62,6 +63,8 @@ collections:
     output: true
   reading:
     output: true
+  writing:
+    output: true
 defaults:
   - scope:
       path: ""
@@ -71,5 +74,10 @@ defaults:
   - scope:
       path: ""
       type: "reading"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "writing"
     values:
       layout: default

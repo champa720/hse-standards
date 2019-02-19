@@ -1,5 +1,5 @@
 ---
-title: Mathematics Standards Level D
+title: Mathematics Standards
 level: D
 grade: "6, 7-8"
 ---

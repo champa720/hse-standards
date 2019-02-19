@@ -1,5 +1,5 @@
 ---
-title: Reading Standards Level B
+title: Reading Standards
 level: B
 grade: "2-3"
 ---

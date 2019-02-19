@@ -24,6 +24,14 @@
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
   group_by: "Standard" -%}
 
+  {%- elsif page.collection == "writing" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Writing"] |
+  where_exp: "item", "item.Level == page.level" |
+  group_by: "Domain" -%}
+
+  {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  group_by: "Standard" -%}
+
   {%- endif -%}
 
   <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
@@ -51,7 +59,7 @@
       <nav class="mdc-list mdc-list--two-line" role="listbox" aria-labelledby="nav2">
         <h3 id="nav2" class="mdc-list-group__subheader">Standard Domains</h3>
         {%- for sDataDomain in CCRStandard -%}
-        <a class="mdc-list-item" href="#level-{{ page.level }}-{{ mDataDomain.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
+        <a class="mdc-list-item" href="#level-{{ page.level }}-{{ sDataDomain.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
           <i class="material-icons mdc-list-item__graphic" aria-hidden="true">send</i>
           <span class="mdc-list-item__text">
             <span class="mdc-list-item__primary-text">{{ sDataDomain.name }}</span>
@@ -78,11 +86,11 @@
         <div class="mdc-layout-grid__cell">
 
           {%- for sDataDomain in CCRStandard -%}
-          <section id="level-{{ page.level }}-{{ mDataDomain.name | slugify }}">
-            <h2 class="mdc-typography--headline4">{{ mDataDomain.name }}</h2>
+          <section id="level-{{ page.level }}-{{ sDataDomain.name | slugify }}">
+            <h2 class="mdc-typography--headline4">{{ sDataDomain.name }}</h2>
 
             {%- for sDataItem in sDataDomain.items -%}
-            <article class="mdc-card mdc-card--outlined">
+            <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataItem["Standard"] | slugify }}">
               <dl class="mdc-card__primary">
                 <dt>{{ sDataItem["Standard"] }}</dt>
                 <dd>{{ sDataItem["Standard statement"] }}</dd>

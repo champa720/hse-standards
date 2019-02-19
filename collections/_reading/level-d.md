@@ -1,5 +1,5 @@
 ---
-title: Reading Standards Level D
+title: Reading Standards
 level: D
 grade: "6-8"
 ---
