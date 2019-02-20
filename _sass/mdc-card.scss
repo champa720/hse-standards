@@ -7,14 +7,24 @@
     padding: 0 8px;
   }
   &[data-ccss^="ri"], &[data-ccss^="rl"] {
-    @include mdc-theme-prop(border-color, #2196f3, true, true);
+    --mdc-theme-primary: #{$theme-reading-primary};
+    @include mdc-card-outline($theme-reading-primary, 1px);
   }
   &[data-ccss^="rst"] {
-    @include mdc-theme-prop(border-color, #673ab7, true, true);
+    --mdc-theme-primary: #{$theme-science-primary};
+    @include mdc-card-outline($theme-science-primary, 1px);
   }
   &[data-ccss^="whst"], &[data-ccss^="rh"] {
-    @include mdc-theme-prop(border-color, #4caf50, true, true);
+    --mdc-theme-primary: #{$theme-social-studies-primary};
+    @include mdc-card-outline($theme-social-studies-primary, 1px);
   }
+  & + p {
+    margin-top: 5rem;
+  }
+}
+
+section > h2 {
+  margin-top: 5rem;
 }
 
 .mdc-card__primary {
@@ -24,16 +34,11 @@
   padding: 8px;
   & dt {
     @include mdc-typography(headline6);
-    @include mdc-theme-prop(color, text-primary-on-background, true, false);
+    @include mdc-theme-prop(color, text-primary-on-background, true, true);
   }
   & dd {
-    @include mdc-typography(overline);
-    @include mdc-theme-prop(color, text-secondary-on-background, true, false);
-
-    & + dd {
-      @include mdc-typography(body1);
-      @include mdc-theme-prop(color, text-primary-on-background, true, false);
-      padding-top: 16px;
-    }
+    @include mdc-typography(body1);
+    @include mdc-theme-prop(color, text-primary-on-background, true, true);
+    padding-top: 16px;
   }
 }

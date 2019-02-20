@@ -3,6 +3,13 @@ $mdc-theme-secondary: #311b92; // baseline deep-purple, 900 tone
 $mdc-theme-background: rgba(0,0,0,0.87);
 $mdc-theme-surface: rgba(0,0,0,0.87);
 
+// default subject colors
+$theme-mathematics-primary: #ff5722; // baseline deep-orange, 500 tone
+$theme-reading-primary: #2196f3; // baseline blue, 500 tone
+$theme-science-primary: #673ab7; // baseline deep-purple, 500 tone
+$theme-social-studies-primary: #4caf50; // baseline green, 500 tone
+$theme-writing-primary: #f44336; // baseline red, 500 tone
+
 $mdc-layout-grid-max-width: 1280px;
 $mdc-layout-grid-default-column-span: 12;
 
@@ -10,8 +17,11 @@ $mdc-typography-font-family: unquote("-apple-system, BlinkMacSystemFont, Segoe U
 $mdc-typography-styles-body1: (
   line-height: 1.67rem,
 );
-$mdc-typography-styles-overline: (
-  line-height: 1rem,
+$mdc-typography-styles-body2: (
+  margin: 0,
+  margin-bottom: 3em,
+  color: var(--mdc-theme-text-secondary-on-background),
+  text-transform: uppercase,
 );
 
 $mdc-drawer-width: 320px; // default 256px
@@ -22,29 +32,3 @@ $mdc-drawer-width: 320px; // default 256px
 @import "default";
 @import "mdc-card";
 @import "mdc-layout-grid";
-
-// default subject colors
-#mathematics {
-  --mdc-theme-primary: #ff5722; // baseline deep-orange, 500 tone
-  --mdc-theme-secondary: #4d4d4d;
-}
-
-#reading {
-  --mdc-theme-primary-reading: #2196f3; // baseline blue, 500 tone
-  --mdc-theme-secondary: #4d4d4d;
-}
-
-#science {
-  --mdc-theme-primary: #673ab7; // baseline deep-purple, 500 tone
-  --mdc-theme-secondary: #4d4d4d;
-}
-
-#social-studies {
-  --mdc-theme-primary: #4caf50; // baseline green, 500 tone
-  --mdc-theme-secondary: #4d4d4d;
-}
-
-#writing {
-  --mdc-theme-primary: #f44336; // baseline red, 500 tone
-  --mdc-theme-secondary: #4d4d4d;
-}

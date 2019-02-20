@@ -2,8 +2,8 @@ body {
   margin: 0;
   display: flex;
   height: 100vh;
-  @include mdc-theme-prop(background-color, background, true, false);
-  @include mdc-theme-prop(color, text-primary-on-background, true, false);
+  @include mdc-theme-prop(background-color, background, true, true);
+  @include mdc-theme-prop(color, text-primary-on-background, true, true);
 
   &#index {
     align-items: center;
