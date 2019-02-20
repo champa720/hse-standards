@@ -89,11 +89,14 @@
           <section id="level-{{ page.level }}-{{ sDataDomain.name | slugify }}">
             <h2 class="mdc-typography--headline4">{{ sDataDomain.name }}</h2>
 
-            {%- for sDataItem in sDataDomain.items -%}
+            {%- assign sDataStatements = sDataDomain.items | group_by: "Standard statement" -%}
+            {%- for sDataStatement in sDataStatements -%}
+            <p class="mdc-typography--body2">{{ sDataStatement.name }}</p>
+
+            {%- for sDataItem in sDataStatement.items -%}
             <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataItem["Standard"] | slugify }}">
               <dl class="mdc-card__primary">
                 <dt>{{ sDataItem["Standard"] }}</dt>
-                <dd>{{ sDataItem["Standard statement"] }}</dd>
                 <dd>{{ sDataItem["Standard description"] }}</dd>
               </dl>
               <div class="mdc-card__actions">
@@ -107,6 +110,7 @@
                 </div>
               </div>
             </article>
+            {%- endfor -%}
             {%- endfor -%}
 
           </section>
