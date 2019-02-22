@@ -17,12 +17,6 @@ $mdc-typography-font-family: unquote("-apple-system, BlinkMacSystemFont, Segoe U
 $mdc-typography-styles-body1: (
   line-height: 1.67rem,
 );
-$mdc-typography-styles-body2: (
-  margin: 0,
-  margin-bottom: 3em,
-  color: var(--mdc-theme-text-secondary-on-background),
-  text-transform: uppercase,
-);
 
 $mdc-drawer-width: 320px; // default 256px
 

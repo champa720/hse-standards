@@ -6,6 +6,13 @@
     margin: 0;
     padding: 0 8px;
   }
+  &[data-ccss*="cc"], &[data-ccss*="oa"], &[data-ccss*="nbt"],
+  &[data-ccss*="nf"], &[data-ccss*="md"], &[data-ccss*="g"],
+  &[data-ccss*="rp"], &[data-ccss*="ns"], &[data-ccss*="ee"],
+  &[data-ccss*="f"], &[data-ccss*="sp"] {
+    --mdc-theme-primary: #{$theme-mathematics-primary};
+    @include mdc-card-outline($theme-mathematics-primary, 1px);
+  }
   &[data-ccss^="ri"], &[data-ccss^="rl"] {
     --mdc-theme-primary: #{$theme-reading-primary};
     @include mdc-card-outline($theme-reading-primary, 1px);
@@ -25,6 +32,12 @@
 
 section > h2 {
   margin-top: 5rem;
+}
+
+h2 ~ .mdc-typography--subtitle2 {
+  margin-bottom: 3em;
+  color: var(--mdc-theme-text-secondary-on-background);
+  text-transform: uppercase;
 }
 
 .mdc-card__primary {
