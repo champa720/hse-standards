@@ -6,12 +6,12 @@
 <body class="mdc-typography">
 
   {%- if page.collection == "english" -%}
-  {% assign CCRStandard = site.data.CCRStandardsAdultEd["English"] |
+  {% assign CCRStandards = site.data.CCRStandardsAdultEd["English"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
   {%- elsif page.collection == "mathematics" -%}
-  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Mathematics"] |
+  {% assign CCRStandards = site.data.CCRStandardsAdultEd["Mathematics"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
@@ -22,25 +22,25 @@
   group_by: "Standard" -%}
 
   {%- elsif page.collection == "reading" -%}
-  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Reading"] |
+  {% assign CCRStandards = site.data.CCRStandardsAdultEd["Reading"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
-  {% assign ELPStandard = site.data.CCRStandardsAdultEd["English"] |
+  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "Reading standard#" -%}
+  group_by: "rStandards" -%}
 
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
   group_by: "Standard" -%}
 
   {%- elsif page.collection == "writing" -%}
-  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Writing"] |
+  {% assign CCRStandards = site.data.CCRStandardsAdultEd["Writing"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
-  {% assign ELPStandard = site.data.CCRStandardsAdultEd["English"] |
+  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "Writing standard#" -%}
+  group_by: "wStandards" -%}
 
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
   group_by: "Standard" -%}
@@ -72,7 +72,7 @@
     <div class="mdc-drawer__content">
       <nav class="mdc-list mdc-list--two-line" role="listbox" aria-labelledby="nav2">
         <h3 id="nav2" class="mdc-list-group__subheader">Standard Domains</h3>
-        {%- for sDataDomain in CCRStandard -%}
+        {%- for sDataDomain in CCRStandards -%}
         <a class="mdc-list-item" href="#level-{{ page.level }}-{{ sDataDomain.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
           <i class="material-icons mdc-list-item__graphic" aria-hidden="true">send</i>
           <span class="mdc-list-item__text">
@@ -99,20 +99,29 @@
       <div class="mdc-layout-grid__inner">
         <div class="mdc-layout-grid__cell">
 
-          {%- for sDataDomain in CCRStandard -%}
+          {%- for sDataDomain in CCRStandards -%}
           <section id="level-{{ page.level }}-{{ sDataDomain.name | slugify }}">
             <h2 class="mdc-typography--headline4">{{ sDataDomain.name }}</h2>
 
-            {%- assign sDataStatements = sDataDomain.items | group_by: "Standard statement" -%}
+            {%- assign sDataStatements = sDataDomain.items | group_by: "Statement" -%}
             {%- for sDataStatement in sDataStatements -%}
             <p class="mdc-typography--subtitle2">{{ sDataStatement.name }}</p>
 
-            {%- for sDataItem in sDataStatement.items -%}
-            <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataItem["Standard"] | slugify }}">
+            {%- assign sDataStandards = sDataStatement.items | group_by: "KEY" -%}
+            {%- for sDataStandard in sDataStandards -%}
+            <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataStandard.name | slugify }}">
               <dl class="mdc-card__primary">
-                <dt>{{ sDataItem["Standard"] }}</dt>
-                <dd>{{ sDataItem["Standard description"] }}</dd>
+                <dt>{{ sDataStandard.name }}</dt>
+
+                {%- for sDataStandardItem in sDataStandard.items -%}
+                {%- capture cDataStandard -%} {{ sDataStandardItem["Standard"] }} {%- endcapture -%}
+
+                <dd>{{ sDataStandardItem["Description"] }}</dd>
+                {%- endfor -%}
+
               </dl>
+
+              {%- if TEXT.name == sDataStandard.name -%}
               <div class="mdc-card__actions">
                 <div class="mdc-card__action-buttons">
                   <button class="mdc-button mdc-card__action mdc-card__action--button">
@@ -123,26 +132,28 @@
                   <button class="material-icons mdc-icon-button mdc-card__action mdc-card__action--icon" title="khan academy exercises">more_vert</button>
                 </div>
               </div>
+              {%- endif -%}
+
             </article>
 
             {%- if forloop.last -%}
 
-            {%- for sDataEnglish in ELPStandard -%}
-            {%- if sDataEnglish.name contains sDataItem["Standard#"] -%}
+            {%- for englishAlignment in englishAlignments -%}
+            {%- if englishAlignment.name contains cDataStandard -%}
+            {%- assign sDataEnglishStandards = englishAlignment.items | group_by: "KEY" -%}
 
-              {%- assign sDataEnglishStandards = sDataEnglish.items | group_by: "Standard" -%}
-              {%- for sDataEnglishStandard in sDataEnglishStandards -%}
-              <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataEnglishStandard.name | slugify }}">
-                <dl class="mdc-card__primary">
-                  <dt>{{ sDataEnglishStandard.name }}</dt>
+            {%- for sDataEnglishStandard in sDataEnglishStandards -%}
+            <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataEnglishStandard.name | slugify }}">
+              <dl class="mdc-card__primary">
+                <dt>{{ sDataEnglishStandard.name }}</dt>
 
-                  {%- for sDataEnglishStandardItem in sDataEnglishStandard.items -%}
-                  <dd>{{ sDataEnglishStandardItem["Standard description"] }}</dd>
-                  {%- endfor -%}
+                {%- for sDataEnglishStandardItem in sDataEnglishStandard.items -%}
+                <dd>{{ sDataEnglishStandardItem["Description"] }}</dd>
+                {%- endfor -%}
 
-                </dl>
-              </article>
-              {%- endfor -%}
+              </dl>
+            </article>
+            {%- endfor -%}
 
             {%- endif -%}
             {%- endfor -%}
