@@ -40,6 +40,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
+ - english.html
  - mathematics.html
  - reading.html
  - writing.html
@@ -59,6 +60,8 @@ plugins:
 collections_dir: collections
 
 collections:
+  english:
+    output: true
   mathematics:
     output: true
   reading:
@@ -68,9 +71,19 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: "english"
+    values:
+      layout: default
+  - scope:
+      path: ""
       type: "mathematics"
     values:
       layout: default
+  - scope:
+      path: "_mathematics/Content"
+      type: "mathematics"
+    values:
+      layout: default2
   - scope:
       path: ""
       type: "reading"

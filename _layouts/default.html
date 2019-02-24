@@ -5,9 +5,14 @@
 
 <body class="mdc-typography">
 
-  {%- if page.collection == "mathematics" -%}
+  {%- if page.collection == "english" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["English"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "Domain" -%}
+
+  {%- elsif page.collection == "mathematics" -%}
   {% assign CCRStandard = site.data.CCRStandardsAdultEd["Mathematics"] |
-  where_exp: "item", "item.Level == page.level" |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
   {% assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] |
@@ -18,16 +23,24 @@
 
   {%- elsif page.collection == "reading" -%}
   {% assign CCRStandard = site.data.CCRStandardsAdultEd["Reading"] |
-  where_exp: "item", "item.Level == page.level" |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
+
+  {% assign ELPStandard = site.data.CCRStandardsAdultEd["English"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "Reading standard#" -%}
 
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
   group_by: "Standard" -%}
 
   {%- elsif page.collection == "writing" -%}
   {% assign CCRStandard = site.data.CCRStandardsAdultEd["Writing"] |
-  where_exp: "item", "item.Level == page.level" |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
+
+  {% assign ELPStandard = site.data.CCRStandardsAdultEd["English"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "Writing standard#" -%}
 
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
   group_by: "Standard" -%}
@@ -43,7 +56,7 @@
           <option value=""></option>
           {%- for collection in site[page.collection] -%}
           <option value="{{ collection.url | relative_url }}" {%- if page.url==collection.url %} selected {%- endif -%}>
-            Level {{ collection.level }}
+            {{ "Level " | append: collection.CCRS }}
           </option>
           {%- endfor -%}
         </select>
@@ -64,7 +77,7 @@
           <i class="material-icons mdc-list-item__graphic" aria-hidden="true">send</i>
           <span class="mdc-list-item__text">
             <span class="mdc-list-item__primary-text">{{ sDataDomain.name }}</span>
-            <span class="mdc-list-item__secondary-text">Grades {{ page.grade }}</span>
+            <span class="mdc-list-item__secondary-text">{%- if page.grade -%} {{ "Grades " | append: page.grade }} {%- elsif page.ELP -%} {{ "Level " | append: page.ELP }} {%- endif -%}</span>
           </span>
         </a>
         {%- endfor -%}
@@ -111,6 +124,31 @@
                 </div>
               </div>
             </article>
+
+            {%- if forloop.last -%}
+
+            {%- for sDataEnglish in ELPStandard -%}
+            {%- if sDataEnglish.name contains sDataItem["Standard#"] -%}
+
+              {%- assign sDataEnglishStandards = sDataEnglish.items | group_by: "Standard" -%}
+              {%- for sDataEnglishStandard in sDataEnglishStandards -%}
+              <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataEnglishStandard.name | slugify }}">
+                <dl class="mdc-card__primary">
+                  <dt>{{ sDataEnglishStandard.name }}</dt>
+
+                  {%- for sDataEnglishStandardItem in sDataEnglishStandard.items -%}
+                  <dd>{{ sDataEnglishStandardItem["Standard description"] }}</dd>
+                  {%- endfor -%}
+
+                </dl>
+              </article>
+              {%- endfor -%}
+
+            {%- endif -%}
+            {%- endfor -%}
+
+            {%- endif -%}
+
             {%- endfor -%}
             {%- endfor -%}
 
