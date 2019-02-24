@@ -6,6 +6,10 @@
     margin: 0;
     padding: 0 8px;
   }
+  &[data-ccss^="elp"] {
+    --mdc-theme-primary: #{$theme-english-primary};
+    @include mdc-card-outline($theme-english-primary, 1px);
+  }
   &[data-ccss*="cc"], &[data-ccss*="oa"], &[data-ccss*="nbt"],
   &[data-ccss*="nf"], &[data-ccss*="md"], &[data-ccss*="g"],
   &[data-ccss*="rp"], &[data-ccss*="ns"], &[data-ccss*="ee"],
