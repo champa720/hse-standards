@@ -6056,7 +6056,7 @@
   "Writing": [
     {
       "Standard": "",
-      "CCRS": "A",
+      "CCRS": "",
       "Domain": "Text Types and Purposes",
       "Strand": "",
       "Grade": "",
@@ -6086,7 +6086,7 @@
     },
     {
       "Standard": "",
-      "CCRS": "A",
+      "CCRS": "",
       "Domain": "Production and Distribution of Writing",
       "Strand": "",
       "Grade": "",
@@ -6136,7 +6136,7 @@
     },
     {
       "Standard": "",
-      "CCRS": "A",
+      "CCRS": "",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "",
       "Grade": "",
@@ -6160,7 +6160,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "1a",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons."
     },
@@ -6170,7 +6170,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "1b",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Provide reasons that support the opinion."
     },
@@ -6180,7 +6180,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "1c",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons."
     },
@@ -6190,7 +6190,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "1d",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Provide a concluding statement or section."
     },
@@ -6210,7 +6210,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "2a",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Introduce a topic and group related information together; include illustrations when useful to aiding comprehension."
     },
@@ -6220,7 +6220,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "2b",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Develop the topic with facts, definitions, and details."
     },
@@ -6230,7 +6230,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "2c",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of information."
     },
@@ -6240,7 +6240,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "3",
-      "Standard#": "2d",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Provide a concluding statement or section."
     },
@@ -6306,7 +6306,7 @@
     },
     {
       "Standard": "",
-      "CCRS": "B",
+      "CCRS": "",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "",
       "Grade": "",
@@ -6330,7 +6330,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "5",
-      "Standard#": "1a",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which ideas are logically grouped to support the writer's purpose"
     },
@@ -6340,7 +6340,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "5",
-      "Standard#": "1b",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Provide logically ordered reasons that are supported by facts and details."
     },
@@ -6350,7 +6350,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "5",
-      "Standard#": "1c",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Link opinion and reasons using words, phrases, and clauses (e.g., consequently, specifically)."
     },
@@ -6360,7 +6360,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "5",
-      "Standard#": "1d",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Provide a concluding statement or section related to the opinion presented."
     },
@@ -6380,7 +6380,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "4",
-      "Standard#": "2a",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Introduce a topic clearly and group related information in paragraphs and sections; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension."
     },
@@ -6390,7 +6390,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "4",
-      "Standard#": "2b",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic."
     },
@@ -6400,7 +6400,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "4",
-      "Standard#": "2c",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Link ideas within categories of information using words and phrases (e.g., another, for example, also, because)."
     },
@@ -6410,7 +6410,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "4",
-      "Standard#": "2d",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
     },
@@ -6420,7 +6420,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "4",
-      "Standard#": "2e",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Provide a concluding statement or section related to the information or explanation presented."
     },
@@ -6500,7 +6500,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
       "Grade": "5",
-      "Standard#": "9a",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literature (e.g., 'Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text')."
     },
@@ -6510,7 +6510,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
       "Grade": "5",
-      "Standard#": "9b",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to informational text (e.g., 'Explain how an author u(W.5.9)ses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point(s)'). (W.5.9)"
     },
@@ -6590,7 +6590,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "2a",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension."
     },
@@ -6600,7 +6600,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "2b",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples."
     },
@@ -6610,7 +6610,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "2c",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts."
     },
@@ -6620,7 +6620,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "2d",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
     },
@@ -6630,7 +6630,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "2e",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Establish and maintain a formal style."
     },
@@ -6640,7 +6640,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "2f",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Provide a concluding statement or section that follows from and supports the information or explanation presented."
     },
@@ -6720,7 +6720,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "9a",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literature (e.g., 'Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments')."
     },
@@ -6730,7 +6730,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
       "Grade": "6-8",
-      "Standard#": "9b",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literary nonfiction (e.g., 'Analyze how a text makes connections among and distinctions between individuals' ideas or events')."
     },
@@ -6750,7 +6750,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "2a",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension."
     },
@@ -6760,7 +6760,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "2b",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples."
     },
@@ -6770,7 +6770,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "2c",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts."
     },
@@ -6780,7 +6780,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "2d",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
     },
@@ -6790,7 +6790,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "2e",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Establish and maintain a formal style."
     },
@@ -6800,7 +6800,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "2f",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Provide a concluding statement or section that follows from and supports the information or explanation presented."
     },
@@ -6850,7 +6850,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "9a",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literature (e.g., 'Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments')."
     },
@@ -6860,7 +6860,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
       "Grade": "6-8",
-      "Standard#": "9b",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literary nonfiction (e.g., 'Analyze how a text makes connections among and distinctions between individuals' ideas or events')."
     },
@@ -6880,7 +6880,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "1a",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among the claim(s), counterclaims, reasons, and evidence."
     },
@@ -6890,7 +6890,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "1b",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns."
     },
@@ -6900,7 +6900,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "1c",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims."
     },
@@ -6910,7 +6910,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "1d",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
@@ -6920,7 +6920,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "1e",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Provide a concluding statement or section that follows from and supports the argument presented."
     },
@@ -6940,7 +6940,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "2a",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Introduce a topic and organize complex ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension."
     },
@@ -6950,7 +6950,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "2b",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic."
     },
@@ -6960,7 +6960,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "2c",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts."
     },
@@ -6970,7 +6970,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "2d",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use precise language and domain-specific vocabulary to manage the complexity of the topic."
     },
@@ -6980,7 +6980,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "2e",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
@@ -6990,7 +6990,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "W",
       "Grade": "9-10",
-      "Standard#": "2f",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic)."
     },
@@ -7070,7 +7070,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
       "Grade": "11-12",
-      "Standard#": "9a",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literature (e.g., 'Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the cumulative impact of specific word choices on meaning and tone')."
     },
@@ -7080,7 +7080,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
       "Grade": "11-12",
-      "Standard#": "9b",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literary nonfiction (e.g., 'Integrate quantitative or technical analysis with qualitative analysis in print or digital text')."
     },
@@ -7100,7 +7100,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "1a",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among the claim(s), counterclaims, reasons, and evidence."
     },
@@ -7110,7 +7110,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "1b",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns."
     },
@@ -7120,7 +7120,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "1c",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims."
     },
@@ -7130,7 +7130,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "1d",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
@@ -7140,7 +7140,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "1e",
+      "Standard#": "1",
       "Standard statement": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
       "Standard description": "Provide a concluding statement or section that follows from and supports the argument presented."
     },
@@ -7160,7 +7160,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "2a",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Introduce a topic and organize complex ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension."
     },
@@ -7170,7 +7170,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "2b",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic."
     },
@@ -7180,7 +7180,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "2c",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts."
     },
@@ -7190,7 +7190,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "2d",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Use precise language and domain-specific vocabulary to manage the complexity of the topic."
     },
@@ -7200,7 +7200,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "2e",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
@@ -7210,7 +7210,7 @@
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
       "Grade": "9-10",
-      "Standard#": "2f",
+      "Standard#": "2",
       "Standard statement": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
       "Standard description": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic)."
     },
@@ -7260,7 +7260,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
       "Grade": "11-12",
-      "Standard#": "9a",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literature (e.g., 'Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the cumulative impact of specific word choices on meaning and tone')."
     },
@@ -7270,7 +7270,7 @@
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
       "Grade": "11-12",
-      "Standard#": "9b",
+      "Standard#": "9",
       "Standard statement": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
       "Standard description": "Apply Reading standards from this level to literary nonfiction (e.g., 'Integrate quantitative or technical analysis with qualitative analysis in print or digital text')."
     }
