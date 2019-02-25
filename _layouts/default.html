@@ -15,7 +15,8 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
-  {% assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] |
+  {% assign TEXT = site.data.CCRSMathCorrelations["Mathematics Text"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
   {% assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] |
@@ -31,6 +32,7 @@
   group_by: "rStandards" -%}
 
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
   {%- elsif page.collection == "writing" -%}
@@ -43,6 +45,7 @@
   group_by: "wStandards" -%}
 
   {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
   {%- endif -%}
@@ -179,6 +182,36 @@
   <footer>
     <!-- footer content in here -->
   </footer>
+
+  {%- for tDataStandards in TEXT -%}
+  <aside class="mdc-drawer mdc-drawer--dismissible mdc-top-app-bar--fixed-adjust">
+    <div class="mdc-drawer__header">
+      <h2 class="mdc-drawer__title">{{ tDataStandards.name }}</h2>
+      <span class="mdc-drawer__subtitle">Text Correlations</span>
+    </div>
+    <div class="mdc-drawer__content">
+
+      {%- assign tDataCorrelations = tDataStandards.items | group_by: "Source" -%}
+      {%- for tDataCorrelation in tDataCorrelations -%}
+      <hr class="mdc-list-divider mdc-list-divider--inset">
+      <p id="sNav{{ forloop.index }}" class="mdc-list-group__subheader">{{ tDataCorrelation.name }}</p>
+      <ul class="mdc-list mdc-list--two-line mdc-list--non-interactive" role="listbox" aria-labelledby="sNav{{ forloop.index }}">
+
+        {%- for tDataCorrelationItem in tDataCorrelation.items -%}
+        <li class="mdc-list-item">
+          <span class="mdc-list-item__text">
+            <span class="mdc-list-item__primary-text">{{ tDataCorrelationItem["Lesson"] }}</span>
+            <span class="mdc-list-item__secondary-text">{{ tDataCorrelationItem["Page"] }}</span>
+          </span>
+        </li>
+        {%- endfor -%}
+
+      </ul>
+      {%- endfor -%}
+
+    </div>
+  </aside>
+  {%- endfor -%}
 
   <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.js"></script>
   <script type="text/javascript">
