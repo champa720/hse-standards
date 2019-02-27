@@ -45,6 +45,18 @@ header_pages:
  - reading.html
  - writing.html
 
+math_domains:
+  - OA
+  - NBT
+  - NF
+  - MD
+  - G
+  - RP
+  - NS
+  - EE
+  - F
+  - SP
+
 # Build settings
 # theme: minima
 
@@ -69,6 +81,11 @@ collections:
   writing:
     output: true
 defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: index2
   - scope:
       path: ""
       type: "english"

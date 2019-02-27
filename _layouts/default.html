@@ -19,7 +19,8 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
-  {% assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] |
+  {% assign KHAN = site.data.CCRSMathCorrelations["Khan Academy"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
   {%- elsif page.collection == "reading" -%}
@@ -124,18 +125,33 @@
 
               </dl>
 
-              {%- if TEXT.name == sDataStandard.name -%}
+              {%- for tDataStandards in TEXT -%}
+              {%- if tDataStandards.name == sDataStandard.name -%}
+              {%- assign tDataCorrelationsCount = tDataStandards.items | size -%}
               <div class="mdc-card__actions">
                 <div class="mdc-card__action-buttons">
-                  <button class="mdc-button mdc-card__action mdc-card__action--button">
-                    <span class="mdc-button__label">Resources</span>
+                  <button class="mdc-button mdc-card__action mdc-card__action--button" data-mdc-drawer="{{ "NAV" | append: tDataStandards.name | remove: "." }}">
+                    <span class="mdc-button__label">
+                      {%- if tDataCorrelationsCount < 2-%}
+                      {{ " Resource" | prepend: tDataCorrelationsCount }}
+                      {%- else -%}
+                      {{ " Resources" | prepend: tDataCorrelationsCount }}
+                      {%- endif -%}
+                    </span>
                   </button>
                 </div>
+
+                {%- for kDataStandards in KHAN -%}
+                {%- if kDataStandards.name == sDataStandard.name -%}
                 <div class="mdc-card__action-icons">
                   <button class="material-icons mdc-icon-button mdc-card__action mdc-card__action--icon" title="khan academy exercises">more_vert</button>
                 </div>
+                {%- endif -%}
+                {%- endfor -%}
+
               </div>
               {%- endif -%}
+              {%- endfor -%}
 
             </article>
 
@@ -184,7 +200,8 @@
   </footer>
 
   {%- for tDataStandards in TEXT -%}
-  <aside class="mdc-drawer mdc-drawer--dismissible mdc-top-app-bar--fixed-adjust">
+  {% capture tStandard %} {{ tDataStandards.name | slugify }} {%- endcapture -%}
+  <aside id="{{ "NAV" | append: tDataStandards.name | remove: "." }}" class="mdc-drawer mdc-drawer--dismissible mdc-top-app-bar--fixed-adjust">
     <div class="mdc-drawer__header">
       <h2 class="mdc-drawer__title">{{ tDataStandards.name }}</h2>
       <span class="mdc-drawer__subtitle">Text Correlations</span>
@@ -194,8 +211,8 @@
       {%- assign tDataCorrelations = tDataStandards.items | group_by: "Source" -%}
       {%- for tDataCorrelation in tDataCorrelations -%}
       <hr class="mdc-list-divider mdc-list-divider--inset">
-      <p id="sNav{{ forloop.index }}" class="mdc-list-group__subheader">{{ tDataCorrelation.name }}</p>
-      <ul class="mdc-list mdc-list--two-line mdc-list--non-interactive" role="listbox" aria-labelledby="sNav{{ forloop.index }}">
+      <p id="{{ "Nav" | append: tStandard | slugify }}" class="mdc-list-group__subheader">{{ tDataCorrelation.name }}</p>
+      <ul class="mdc-list mdc-list--two-line mdc-list--non-interactive" role="listbox" aria-labelledby="{{ "Nav" | append: tStandard | slugify }}">
 
         {%- for tDataCorrelationItem in tDataCorrelation.items -%}
         <li class="mdc-list-item">
@@ -224,6 +241,35 @@
     select.listen('MDCSelect:change', () => {
       window.location = select.value;
     });
+
+    document.addEventListener('click', function (event) {
+
+    	if (event.target.matches('button')) {
+    		// Run your code to open a modal
+
+        console.log(el.attribute.value);
+    	}
+
+    	if (event.target.matches('.close')) {
+    		// Run your code to close a modal
+    	}
+
+    }, false);
+
+
+    //const drawer = new mdc.drawer.MDCDrawer.attachTo(document.querySelector('.mdc-drawer--dismissible'));
+    //const button = document.querySelectorAll('button');
+    //for (let i = 0; i < button.length; ++i) {
+    //  button[i].addEventListener('click', (evt) => {
+//
+    //    var checkbox = evt.value;
+    //    console.log(checkbox + " changed to " + checkbox);
+//
+    //    let drawer = mdc.drawer.MDCDrawer.attachTo(document.querySelector('#NAV4NBT4'));
+  //      drawer.open = !drawer.open;
+    //  });
+  //  }
+
   </script>
 
 </body>

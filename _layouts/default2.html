@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body class="mdc-typography">
+
+  {%- if page.collection == "mathematics" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Mathematics"] |
+  where_exp: "item", "item.Standard contains page.permalink" |
+  group_by: "Standard statement" -%}
+
+  {% assign TEXT = site.data.CCRStandardsAdultEd["Mathematics Text"] |
+  group_by: "Standard" -%}
+
+  {% assign KHAN = site.data.CCRStandardsAdultEd["Khan Academy"] |
+  group_by: "Standard" -%}
+
+  {%- elsif page.collection == "reading" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Reading"] |
+  where_exp: "item", "item.Level == page.level" |
+  group_by: "Domain" -%}
+
+  {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  group_by: "Standard" -%}
+
+  {%- elsif page.collection == "writing" -%}
+  {% assign CCRStandard = site.data.CCRStandardsAdultEd["Writing"] |
+  where_exp: "item", "item.Level == page.level" |
+  group_by: "Domain" -%}
+
+  {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  group_by: "Standard" -%}
+
+  {%- endif -%}
+
+  <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
+    <div class="mdc-drawer__header">
+      <!-- h2 class="mdc-drawer__title">{{ page.collection | capitalize }}</h2 -->
+      <div class="mdc-select mdc-select--outlined">
+        <i class="mdc-select__dropdown-icon"></i>
+        <select id="nav1" class="mdc-select__native-control" name="nav1">
+          <option value=""></option>
+          {%- for collection in site[page.collection] -%}
+          <option value="{{ collection.url | relative_url }}" {%- if page.url==collection.url %} selected {%- endif -%}>
+            Level {{ collection.level }}
+          </option>
+          {%- endfor -%}
+        </select>
+        <div class="mdc-notched-outline mdc-notched-outline--notched">
+          <div class="mdc-notched-outline__leading"></div>
+          <div class="mdc-notched-outline__notch">
+            <label class="mdc-floating-label {%- if page.url==collection.url %} mdc-floating-label--float-above {%- endif -%}" for="nav1">{{ page.collection | capitalize }} Domains</label>
+          </div>
+          <div class="mdc-notched-outline__trailing"></div>
+        </div>
+      </div>
+    </div>
+    <div class="mdc-drawer__content">
+      <nav class="mdc-list mdc-list--two-line" role="listbox" aria-labelledby="nav2">
+        <h3 id="nav2" class="mdc-list-group__subheader">Standard Domains</h3>
+        {%- for sDataStatements in CCRStandard -%}
+        <a class="mdc-list-item" href="#level-{{ page.level }}-{{ sDataStatements.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
+          <i class="material-icons mdc-list-item__graphic" aria-hidden="true">send</i>
+          <span class="mdc-list-item__text">
+            <span class="mdc-list-item__primary-text">{{ sDataStatements.name }}</span>
+            <span class="mdc-list-item__secondary-text">{{ sDataStatements.items | size }}</span>
+          </span>
+        </a>
+        {%- endfor -%}
+      </nav>
+    </div>
+  </aside>
+
+  <div class="mdc-drawer-app-content">
+    <header class="mdc-layout-grid mdc-typography--body1">
+      <div class="mdc-layout-grid__inner">
+        <div class="mdc-layout-grid__cell">
+          <h1 class="mdc-typography--headline3">{{ page.title }}</h1>
+          {{ content }}
+        </div>
+      </div>
+    </header>
+
+    <main class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        <div class="mdc-layout-grid__cell">
+
+          {%- for sDataStatements in CCRStandard -%}
+          <section id="level-{{ page.level }}-{{ sDataStatements.name | slugify }}">
+            <h2 class="mdc-typography--headline4">{{ sDataStatements.name }}</h2>
+
+            {%- assign sDataLevels = sDataStatements.items | group_by: "Level" -%}
+            {%- for sDataLevel in sDataLevels -%}
+            <p class="mdc-typography--subtitle2">Level {{ sDataLevel.name }}</p>
+
+            {%- for sDataItem in sDataLevel.items -%}
+            <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataItem["Standard"] | slugify }}">
+              <dl class="mdc-card__primary">
+                <dt>{{ sDataItem["Standard"] }}</dt>
+                <dd>{{ sDataItem["Standard description"] }}</dd>
+              </dl>
+              <div class="mdc-card__actions">
+                <div class="mdc-card__action-buttons">
+                  <button class="mdc-button mdc-card__action mdc-card__action--button">
+                    <span class="mdc-button__label">Resources</span>
+                  </button>
+                </div>
+                <div class="mdc-card__action-icons">
+                  <button class="material-icons mdc-icon-button mdc-card__action mdc-card__action--icon" title="khan academy exercises">more_vert</button>
+                </div>
+              </div>
+            </article>
+            {%- endfor -%}
+            {%- endfor -%}
+
+          </section>
+          {%- endfor -%}
+
+          <aside>
+            <h2>Related</h2>
+
+            <!-- aside content in here -->
+          </aside>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    <!-- footer content in here -->
+  </footer>
+
+  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.js"></script>
+  <script type="text/javascript">
+    window.mdc.autoInit();
+
+    const list = new mdc.list.MDCList(document.querySelector('.mdc-list'));
+    list.singleSelection = true;
+
+    const select = new mdc.select.MDCSelect(document.querySelector('.mdc-select'));
+    select.listen('MDCSelect:change', () => {
+      window.location = select.value;
+    });
+  </script>
+
+</body>
+
+</html>
