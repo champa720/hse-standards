@@ -1,6 +1,5 @@
 ---
 layout: index
-elp:
 sources:
 - title: "College and Career Readiness Standards for Adult Education"
   url: "https://lincs.ed.gov/publications/pdf/CCRStandardsAdultEd.pdf"

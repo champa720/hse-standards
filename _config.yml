@@ -40,10 +40,10 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - english.html
- - mathematics.html
- - reading.html
- - writing.html
+ - english.md
+ - mathematics.md
+ - reading.md
+ - writing.md
 
 domains:
   english:
@@ -102,7 +102,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: index2
+      layout: default
   - scope:
       path: ""
       type: "english"
