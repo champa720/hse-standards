@@ -45,7 +45,6 @@ header_pages:
  - reading.html
  - writing.html
 
-<<<<<<< HEAD
 domains:
   english:
     - "Receptive Modalities"
@@ -74,19 +73,6 @@ domains:
     - "Text Types and Purposes"
     - "Production and Distribution of Writing"
     - "Research to Build and Present Knowledge"
-=======
-math_domains:
-  - OA
-  - NBT
-  - NF
-  - MD
-  - G
-  - RP
-  - NS
-  - EE
-  - F
-  - SP
->>>>>>> 05683f7b63833cb48a07ea4240aa32333cf15e62
 
 # Build settings
 # theme: minima

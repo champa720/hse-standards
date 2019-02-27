@@ -6,7 +6,6 @@
 <body class="mdc-typography">
 
   {%- assign default_paths = site[page.collection] | map: "path" -%}
-<<<<<<< HEAD
   {%- assign domains = site.domains[page.collection] | default: default_paths -%}
 
   <div class="mdc-drawer-app-content">
@@ -52,44 +51,6 @@
               <!-- aside content in here -->
             </aside>
           </div>
-=======
-  {%- assign page_paths = site.math_domains | default: default_paths -%}
-
-  <div class="mdc-drawer-app-content">
-    <header class="mdc-layout-grid mdc-typography--body1">
-      <div class="mdc-layout-grid__inner">
-        <div class="mdc-layout-grid__cell">
-          <h1 class="mdc-typography--headline3">{{ page.title }}</h1>
-          {{ content }}
-        </div>
-      </div>
-    </header>
-    <main class="mdc-layout-grid">
-      <div class="mdc-layout-grid__inner">
-        <div class="mdc-layout-grid__cell">
-          <section class="mdc-layout-grid mdc-typography--body1">
-            <h2>{{ my_page.KEY }}</h2>
-            <ul class="mdc-list mdc-list--non-interactive">
-
-              {%- for path in page_paths -%}
-              {%- assign my_page = site.data.CCRStandardsAdultEd[page.title] | where: "Strand", path | first -%}
-
-
-
-              <li class="mdc-list-item" tabindex="0">
-                <span class="mdc-list-item__text">{{ my_page.Statement }}--{{ my_page.Strand }}</span>
-              </li>
-
-
-              {%- endfor -%}
-            </ul>
-          </section>
-          <aside>
-            <h2>Related</h2>
-
-            <!-- aside content in here -->
-          </aside>
->>>>>>> 05683f7b63833cb48a07ea4240aa32333cf15e62
         </div>
       </div>
     </main>
