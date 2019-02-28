@@ -15,6 +15,10 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
+  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "lStandards" -%}
+
   {%- elsif page.collection == "mathematics" -%}
   {% assign CCRStandards = site.data.CCRStandardsAdultEd["Mathematics"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
