@@ -2325,7 +2325,1899 @@
       "mpStandards": "MP6"
     }
   ],
+  "Language": [
+    {
+      "KEY": "L.K.1",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.K.1a",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Print many upper- and lowercase letters."
+    },
+    {
+      "KEY": "L.K.1b",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use frequently occurring nouns and verbs."
+    },
+    {
+      "KEY": "L.K.1c",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form regular plural nouns orally by adding /s/ or /es/ (e.g., dog, dogs; wish, wishes)."
+    },
+    {
+      "KEY": "L.K.1d",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Understand and use question words (interrogatives) (e.g., who, what, where, when, why, how)."
+    },
+    {
+      "KEY": "L.K.1e",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use the most frequently occurring prepositions (e.g., to, from, in, out, on, off, for, of, by, with)."
+    },
+    {
+      "KEY": "L.K.1f",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Produce and expand complete sentences in shared language activities."
+    },
+    {
+      "KEY": "L.1.1",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.1.1a",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Print all upper- and lowercase letters."
+    },
+    {
+      "KEY": "L.1.1b",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use common, proper, and possessive nouns."
+    },
+    {
+      "KEY": "L.1.1c",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use singular and plural nouns with matching verbs in basic sentences (e.g., He hops; We hop)."
+    },
+    {
+      "KEY": "L.1.1d",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use personal, possessive, and indefinite pronouns (e.g., I, me, my; they, them, their, anyone, everything)."
+    },
+    {
+      "KEY": "L.1.1e",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use verbs to convey a sense of past, present, and future (e.g., Yesterday I walked home; Today I walk home; Tomorrow I will walk home)."
+    },
+    {
+      "KEY": "L.1.1f",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use frequently occurring adjectives."
+    },
+    {
+      "KEY": "L.1.1g",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use frequently occurring conjunctions (e.g., and, but, or, so, because)."
+    },
+    {
+      "KEY": "L.1.1h",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use determiners (e.g., articles, demonstratives)."
+    },
+    {
+      "KEY": "L.1.1i",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use frequently occurring prepositions (e.g., during, beyond, toward)."
+    },
+    {
+      "KEY": "L.1.1j",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Produce and expand complete simple and compound declarative, interrogative, imperative, and exclamatory sentences in response to prompts."
+    },
+    {
+      "KEY": "L.K.2",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.K.2a",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Capitalize the first word in a sentence and the pronoun I"
+    },
+    {
+      "KEY": "L.K.2b",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Recognize and name end punctuation."
+    },
+    {
+      "KEY": "L.K.2c",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Write a letter or letters for most consonant and short-vowel sounds (phonemes)."
+    },
+    {
+      "KEY": "L.K.2d",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "K",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell simple words phonetically, drawing on knowledge of sound-letter relationships."
+    },
+    {
+      "KEY": "L.1.2",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.1.2a",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Capitalize dates and names of people."
+    },
+    {
+      "KEY": "L.1.2b",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use end punctuation for sentences."
+    },
+    {
+      "KEY": "L.1.2c",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use commas in dates and to separate single words in a series."
+    },
+    {
+      "KEY": "L.1.2d",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use conventional spelling for words with common spelling patterns and for frequently occurring irregular words."
+    },
+    {
+      "KEY": "L.1.2e",
+      "CCRS": "A",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell untaught words phonetically, drawing on phonemic awareness and spelling conventions."
+    },
+    {
+      "KEY": "",
+      "CCRS": "",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "(L.K.3 begins in grade 2)"
+    },
+    {
+      "KEY": "",
+      "CCRS": "",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "(L.1.3 begins in grade 2)"
+    },
+    {
+      "KEY": "L.1.4",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 1 reading and content, choosing flexibly from an array of strategies."
+    },
+    {
+      "KEY": "L.1.4a",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use sentence-level context as a clue to the meaning of a word or phrase."
+    },
+    {
+      "KEY": "L.1.4b",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use frequently occurring affixes as a clue to the meaning of a word."
+    },
+    {
+      "KEY": "L.1.4c",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Identify frequently occurring root words (e.g., look) and their inflectional forms (e.g., looks, looked, looking)."
+    },
+    {
+      "KEY": "L.1.5",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "With guidance and support from adults, demonstrate understanding of word relationships and nuances in word meanings."
+    },
+    {
+      "KEY": "L.1.5a",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Sort words into categories (e.g., colors, clothing) to gain a sense of the concepts the categories represent."
+    },
+    {
+      "KEY": "L.1.5b",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Define words by category and by one or more key attributes (e.g., a duck is a bird that swims; a tiger is a large cat with stripes)."
+    },
+    {
+      "KEY": "L.1.5c",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Identify real-life connections between words and their use (e.g., note places at home that are cozy)."
+    },
+    {
+      "KEY": "L.1.5d",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Distinguish shades of meaning among verbs differing in manner (e.g., look, peek, glance, stare, glare, scowl) and adjectives differing in intensity (e.g., large, gigantic) by defining or choosing them or by acting out the meanings."
+    },
+    {
+      "KEY": "L.1.6",
+      "CCRS": "A",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "1",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using frequently occurring conjunctions to signal simple relationships (e.g., because)."
+    },
+    {
+      "KEY": "L.2.1",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.2.1a",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use collective nouns (e.g., group)."
+    },
+    {
+      "KEY": "L.2.1b",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use frequently occurring irregular plural nouns (e.g., feet, children, teeth, mice, fish)."
+    },
+    {
+      "KEY": "L.2.1c",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use reflexive pronouns (e.g., myself, ourselves)."
+    },
+    {
+      "KEY": "L.2.1d",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use the past tense of frequently occurring irregular verbs (e.g., sat, hid, told)."
+    },
+    {
+      "KEY": "L.2.1e",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use adjectives and adverbs, and choose between them depending on what is to be modified."
+    },
+    {
+      "KEY": "L.2.1f",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Produce, expand, and rearrange complete simple and compound sentences (e.g., The boy watched the movie; The little boy watched the movie; The action movie was watched by the little boy)."
+    },
+    {
+      "KEY": "L.3.1",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.3.1a",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences."
+    },
+    {
+      "KEY": "L.3.1b",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use regular and irregular plural nouns."
+    },
+    {
+      "KEY": "L.3.1c",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use abstract nouns (e.g., childhood)."
+    },
+    {
+      "KEY": "L.3.1d",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use regular and irregular verbs."
+    },
+    {
+      "KEY": "L.3.1e",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses."
+    },
+    {
+      "KEY": "L.3.1f",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Ensure subject-verb and pronoun-antecedent agreement.*"
+    },
+    {
+      "KEY": "L.3.1g",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified."
+    },
+    {
+      "KEY": "L.3.1h",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use coordinating and subordinating conjunctions."
+    },
+    {
+      "KEY": "L.3.1i",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Produce simple, compound, and complex sentences."
+    },
+    {
+      "KEY": "L.2.2",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.2.2a",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Capitalize holidays, product names, and geographic names."
+    },
+    {
+      "KEY": "L.2.2b",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use commas in greetings and closings of letters."
+    },
+    {
+      "KEY": "L.2.2c",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use an apostrophe to form contractions and frequently occurring possessives."
+    },
+    {
+      "KEY": "L.2.2d",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Generalize learned spelling patterns when writing words (e.g., cage → badge; boy → boil)."
+    },
+    {
+      "KEY": "L.2.2e",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings."
+    },
+    {
+      "KEY": "L.3.2",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.3.2a",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Capitalize appropriate words in titles."
+    },
+    {
+      "KEY": "L.3.2b",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use commas in addresses."
+    },
+    {
+      "KEY": "L.3.2c",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use commas and quotation marks in dialogue."
+    },
+    {
+      "KEY": "L.3.2d",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Form and use possessives."
+    },
+    {
+      "KEY": "L.3.2e",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness)."
+    },
+    {
+      "KEY": "L.3.2f",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words."
+    },
+    {
+      "KEY": "L.3.2g",
+      "CCRS": "B",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings."
+    },
+    {
+      "KEY": "L.3.3",
+      "CCRS": "B",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+    },
+    {
+      "KEY": "L.3.3a",
+      "CCRS": "B",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Choose words and phrases for effect.*"
+    },
+    {
+      "KEY": "L.3.3b",
+      "CCRS": "B",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Recognize and observe differences between the conventions of spoken and written standard English."
+    },
+    {
+      "KEY": "L.2.4",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 2 reading and content, choosing flexibly from an array of strategies."
+    },
+    {
+      "KEY": "L.2.4a",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use sentence-level context as a clue to the meaning of a word or phrase."
+    },
+    {
+      "KEY": "L.2.4b",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine the meaning of the new word formed when a known prefix is added to a known word (e.g., happy/unhappy, tell/retell)."
+    },
+    {
+      "KEY": "L.2.4c",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., addition, additional)."
+    },
+    {
+      "KEY": "L.2.4d",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use knowledge of the meaning of individual words to predict the meaning of compound words (e.g., birdhouse, lighthouse, housefly; bookshelf, notebook, bookmark)."
+    },
+    {
+      "KEY": "L.2.4e",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use glossaries and beginning dictionaries, both print and digital, to determine or clarify the meaning of words and phrases."
+    },
+    {
+      "KEY": "L.2.5",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Demonstrate understanding of word relationships and nuances in word meanings."
+    },
+    {
+      "KEY": "L.2.5a",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Identify real-life connections between words and their use (e.g., describe foods that are spicy or juicy)."
+    },
+    {
+      "KEY": "L.2.5b",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Distinguish shades of meaning among closely related verbs (e.g., toss, throw, hurl) and closely related adjectives (e.g., thin, slender, skinny, scrawny)."
+    },
+    {
+      "KEY": "L.3.5",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Demonstrate understanding of figurative language, word relationships and nuances in word meanings."
+    },
+    {
+      "KEY": "L.3.5a",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Distinguish the literal and nonliteral meanings of words and phrases in context (e.g., take steps)."
+    },
+    {
+      "KEY": "L.3.5b",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Identify real-life connections between words and their use (e.g., describe people who are friendly or helpful)."
+    },
+    {
+      "KEY": "L.3.5c",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "5",
+      "Statement": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+      "Description": "Distinguish shades of meaning among related words that describe states of mind or degrees of certainty (e.g., knew, believed, suspected, heard, wondered)."
+    },
+    {
+      "KEY": "L.2.6",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "2",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Use words and phrases acquired through conversations, reading and being read to, and responding to texts, including using adjectives and adverbs to describe (e.g., When other kids are happy that makes me happy)."
+    },
+    {
+      "KEY": "L.3.6",
+      "CCRS": "B",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "3",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them)."
+    },
+    {
+      "KEY": "L.4.1",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.4.1a",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use relative pronouns (who, whose, whom, which, that) and relative adverbs (where, when, why)."
+    },
+    {
+      "KEY": "L.4.1b",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use the progressive (e.g., I was walking; I am walking; I will be walking) verb tenses."
+    },
+    {
+      "KEY": "L.4.1c",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use modal auxiliaries (e.g., can, may, must) to convey various conditions."
+    },
+    {
+      "KEY": "L.4.1d",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag)."
+    },
+    {
+      "KEY": "L.4.1e",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use prepositional phrases."
+    },
+    {
+      "KEY": "L.4.1f",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons.*"
+    },
+    {
+      "KEY": "L.4.1g",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Correctly use frequently confused words (e.g., to, too, two; there, their).*"
+    },
+    {
+      "KEY": "L.5.1",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.5.1a",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Explain the function of conjunctions, prepositions, and interjections in general and their function in particular sentences."
+    },
+    {
+      "KEY": "L.5.1b",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use the perfect (e.g., I had walked; I have walked; I will have walked) verb tenses."
+    },
+    {
+      "KEY": "L.5.1c",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use verb tense to convey various times, sequences, states, and conditions."
+    },
+    {
+      "KEY": "L.5.1d",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Recognize and correct inappropriate shifts in verb tense.*"
+    },
+    {
+      "KEY": "L.5.1e",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use correlative conjunctions (e.g., either/or, neither/nor)."
+    },
+    {
+      "KEY": "L.4.2",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.4.2a",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use correct capitalization."
+    },
+    {
+      "KEY": "L.4.2b",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use commas and quotation marks to mark direct speech and quotations from a text."
+    },
+    {
+      "KEY": "L.4.2c",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use a comma before a coordinating conjunction in a compound sentence."
+    },
+    {
+      "KEY": "L.4.2d",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell grade-appropriate words correctly, consulting references as needed."
+    },
+    {
+      "KEY": "L.5.2",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.5.2a",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use punctuation to separate items in a series.*"
+    },
+    {
+      "KEY": "L.5.2b",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use a comma to separate an introductory element from the rest of the sentence."
+    },
+    {
+      "KEY": "L.5.2c",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use a comma to set off the words yes and no (e.g., Yes, thank you), to set off a tag question from the rest of the sentence (e.g., It's true, isn't it?), and to indicate direct address (e.g., Is that you, Steve?)."
+    },
+    {
+      "KEY": "L.5.2d",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use underlining, quotation marks, or italics to indicate titles of works."
+    },
+    {
+      "KEY": "L.5.2e",
+      "CCRS": "C",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell grade-appropriate words correctly, consulting references as needed."
+    },
+    {
+      "KEY": "L.4.3",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+    },
+    {
+      "KEY": "L.4.3a",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Choose words and phrases to convey ideas precisely.*"
+    },
+    {
+      "KEY": "L.4.3b",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Choose punctuation for effect.*"
+    },
+    {
+      "KEY": "L.4.3c",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion)."
+    },
+    {
+      "KEY": "L.5.3",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+    },
+    {
+      "KEY": "L.5.3a",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Expand, combine, and reduce sentences for meaning, reader/listener interest, and style."
+    },
+    {
+      "KEY": "L.5.3b",
+      "CCRS": "C",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Compare and contrast the varieties of English (e.g., dialects, registers) used in stories, dramas, or poems."
+    },
+    {
+      "KEY": "L.4.4",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies."
+    },
+    {
+      "KEY": "L.4.4a",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use context (e.g., definitions, examples, or restatements in text) as a clue to the meaning of a word or phrase."
+    },
+    {
+      "KEY": "L.4.4b",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., telegraph, photograph, autograph)."
+    },
+    {
+      "KEY": "L.4.4c",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases."
+    },
+    {
+      "KEY": "L.5.4",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies."
+    },
+    {
+      "KEY": "L.5.4a",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use context (e.g., cause/effect relationships and comparisons in text) as a clue to the meaning of a word or phrase."
+    },
+    {
+      "KEY": "L.5.4b",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., photograph, photosynthesis)."
+    },
+    {
+      "KEY": "L.5.4c",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases."
+    },
+    {
+      "KEY": "L.4.6",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "4",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal precise actions, emotions, or states of being (e.g., quizzed, whined, stammered) and that are basic to a particular topic (e.g., wildlife, conservation, and endangered when discussing animal preservation)."
+    },
+    {
+      "KEY": "L.5.6",
+      "CCRS": "C",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "5",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal contrast, addition, and other logical relationships (e.g., however, although, nevertheless, similarly, moreover, in addition)."
+    },
+    {
+      "KEY": "L.6.1",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.6.1a",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Ensure that pronouns are in the proper case (subjective, objective, possessive)."
+    },
+    {
+      "KEY": "L.6.1b",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use intensive pronouns (e.g., myself, ourselves)."
+    },
+    {
+      "KEY": "L.6.1c",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Recognize and correct inappropriate shifts in pronoun number and person.*"
+    },
+    {
+      "KEY": "L.6.1d",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents).*"
+    },
+    {
+      "KEY": "L.6.1e",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language.*"
+    },
+    {
+      "KEY": "L.7.1",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.7.1a",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Explain the function of phrases and clauses in general and their function in specific sentences."
+    },
+    {
+      "KEY": "L.7.1b",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Choose among simple, compound, complex, and compound-complex sentences to signal differing relationships among ideas."
+    },
+    {
+      "KEY": "L.7.1c",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Place phrases and clauses within a sentence, recognizing and correcting misplaced and dangling modifiers.*"
+    },
+    {
+      "KEY": "L.8.1",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.8.1a",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Explain the function of verbals (gerunds, participles, infinitives) in general and their function in particular sentences."
+    },
+    {
+      "KEY": "L.8.1b",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use verbs in the active and passive voice."
+    },
+    {
+      "KEY": "L.8.1c",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Form and use verbs in the indicative, imperative, interrogative, conditional, and subjunctive mood."
+    },
+    {
+      "KEY": "L.8.1d",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Recognize and correct inappropriate shifts in verb voice and mood.*"
+    },
+    {
+      "KEY": "L.6.2",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.6.2a",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use punctuation (commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements.*"
+    },
+    {
+      "KEY": "L.6.2b",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell correctly."
+    },
+    {
+      "KEY": "L.7.2",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.7.2a",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use a comma to separate coordinate adjectives (e.g., It was a fascinating, enjoyable movie but not He wore an old[,] green shirt)."
+    },
+    {
+      "KEY": "L.7.2b",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell correctly."
+    },
+    {
+      "KEY": "L.8.2",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.8.2a",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use punctuation (comma, ellipsis, dash) to indicate a pause or break."
+    },
+    {
+      "KEY": "L.8.2b",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use an ellipsis to indicate an omission."
+    },
+    {
+      "KEY": "L.8.2c",
+      "CCRS": "D",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell correctly."
+    },
+    {
+      "KEY": "L.6.3",
+      "CCRS": "D",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+    },
+    {
+      "KEY": "L.6.3a",
+      "CCRS": "D",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Vary sentence patterns for meaning, reader/listener interest, and style.*"
+    },
+    {
+      "KEY": "L.6.3b",
+      "CCRS": "D",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Maintain consistency in style and tone.*"
+    },
+    {
+      "KEY": "L.7.3",
+      "CCRS": "D",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+    },
+    {
+      "KEY": "L.7.3a",
+      "CCRS": "D",
+      "Domain": "Knowledge of Language",
+      "Strand": "L",
+      "Grade": "7",
+      "Standard": "3",
+      "Statement": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+      "Description": "Choose language that expresses ideas precisely and concisely, recognizing and eliminating wordiness and redundancy.*"
+    },
+    {
+      "KEY": "L.6.4",
+      "CCRS": "D",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies."
+    },
+    {
+      "KEY": "L.6.4a",
+      "CCRS": "D",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase."
+    },
+    {
+      "KEY": "L.6.4b",
+      "CCRS": "D",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., audience, auditory, audible)."
+    },
+    {
+      "KEY": "L.6.4c",
+      "CCRS": "D",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech."
+    },
+    {
+      "KEY": "L.6.4d",
+      "CCRS": "D",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "6",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary)."
+    },
+    {
+      "KEY": "L.8.6",
+      "CCRS": "D",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "8",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression."
+    },
+    {
+      "KEY": "L.9-10.1",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+    },
+    {
+      "KEY": "L.9-10.1a",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use parallel structure.*"
+    },
+    {
+      "KEY": "L.9-10.1b",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "1",
+      "Statement": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "Description": "Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations."
+    },
+    {
+      "KEY": "L.9-10.2",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+    },
+    {
+      "KEY": "L.9-10.2a",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use a semicolon (and perhaps a conjunctive adverb) to link two or more closely related independent clauses."
+    },
+    {
+      "KEY": "L.9-10.2b",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Use a colon to introduce a list or quotation."
+    },
+    {
+      "KEY": "L.9-10.2c",
+      "CCRS": "E",
+      "Domain": "Conventions of Standard English",
+      "Strand": "L",
+      "Grade": "9-10",
+      "Standard": "2",
+      "Statement": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+      "Description": "Spell correctly."
+    },
+    {
+      "KEY": "L.11-12.4",
+      "CCRS": "E",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "11-12",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11-12 reading and content, choosing flexibly from a range of strategies."
+    },
+    {
+      "KEY": "L.11-12.4a",
+      "CCRS": "E",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "11-12",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word's position or function in a sentence) as a clue to the meaning of a word or phrase."
+    },
+    {
+      "KEY": "L.11-12.4b",
+      "CCRS": "E",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "11-12",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., conceive, conception, conceivable)."
+    },
+    {
+      "KEY": "L.11-12.4c",
+      "CCRS": "E",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "11-12",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, its etymology, or its standard usage."
+    },
+    {
+      "KEY": "L.11-12.4d",
+      "CCRS": "E",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "11-12",
+      "Standard": "4",
+      "Statement": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+      "Description": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary)."
+    },
+    {
+      "KEY": "L.11-12.6",
+      "CCRS": "E",
+      "Domain": "Vocabulary Acquisition and Use",
+      "Strand": "L",
+      "Grade": "11-12",
+      "Standard": "6",
+      "Statement": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+      "Description": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression."
+    }
+  ],
   "Mathematics": [
+    {
+      "KEY": "MP.1",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "1",
+      "Statement": "Make sense of problems and persevere in solving them.",
+      "Description": "Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
+    },
+    {
+      "KEY": "MP.2",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "2",
+      "Statement": "Reason abstractly and quantitatively.",
+      "Description": "Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to <i>decontextualize</i>—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to <i>contextualize</i>, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
+    },
+    {
+      "KEY": "MP.3",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "3",
+      "Statement": "Construct viable arguments and critique the reasoning of others.",
+      "Description": "Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
+    },
+    {
+      "KEY": "MP.4",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "4",
+      "Statement": "Model with mathematics.",
+      "Description": "Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+    },
+    {
+      "KEY": "MP.5",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "5",
+      "Statement": "Use appropriate tools strategically.",
+      "Description": "Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
+    },
+    {
+      "KEY": "MP.6",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "6",
+      "Statement": "Attend to precision.",
+      "Description": "Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
+    },
+    {
+      "KEY": "MP.7",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "7",
+      "Statement": "Look for and make use of structure.",
+      "Description": "Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression <i>x</i><sup>2</sup> + 9<i>x</i> + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 - 3(<i>x</i> - <i>y</i>)<sup>2</sup> as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers <i>x</i> and <i>y</i>."
+    },
+    {
+      "KEY": "MP.8",
+      "CCRS": "",
+      "Grade": "",
+      "Domain": "Mathematical Practice",
+      "Strand": "MP",
+      "Standard": "8",
+      "Statement": "Look for and express regularity in repeated reasoning.",
+      "Description": "Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (<i>y</i> - 2)/(<i>x</i> - 1) = 3. Noticing the regularity in the way terms cancel when expanding (<i>x</i> - 1)(<i>x</i> + 1), (<i>x</i> - 1)(<i>x</i><sup>2</sup> + <i>x</i> + 1), and (<i>x</i> - 1)(<i>x</i><sup>3</sup> + <i>x</i>2 + <i>x</i> + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
+    },
     {
       "KEY": "1.OA.2",
       "CCRS": "A",
@@ -2733,7 +4625,7 @@
       "Domain": "Number and Operations: Base Ten",
       "Strand": "NBT",
       "Standard": "1",
-      "Statement": "Use place value understanding and properties of operations to perform multi-digit arithmetic.13",
+      "Statement": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
       "Description": "Use place value understanding to round whole numbers to the nearest 10 or 100."
     },
     {
@@ -2743,7 +4635,7 @@
       "Domain": "Number and Operations: Base Ten",
       "Strand": "NBT",
       "Standard": "2",
-      "Statement": "Use place value understanding and properties of operations to perform multi-digit arithmetic.13",
+      "Statement": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
       "Description": "Fluently add and subtract within 1000 using strategies and algorithms based on place value, properties of operations, and/or the relationship between addition and subtraction."
     },
     {
@@ -2753,7 +4645,7 @@
       "Domain": "Number and Operations: Base Ten",
       "Strand": "NBT",
       "Standard": "3",
-      "Statement": "Use place value understanding and properties of operations to perform multi-digit arithmetic.13",
+      "Statement": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
       "Description": "Multiply one-digit whole numbers by multiples of 10 in the range 10–90 (e.g., 9 × 80, 5 × 60) using strategies based on place value and properties of operations."
     },
     {

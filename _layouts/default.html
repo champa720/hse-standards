@@ -10,6 +10,11 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
+  {%- if page.collection == "language" -%}
+  {% assign CCRStandards = site.data.CCRStandardsAdultEd["Language"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "Domain" -%}
+
   {%- elsif page.collection == "mathematics" -%}
   {% assign CCRStandards = site.data.CCRStandardsAdultEd["Mathematics"] |
   where_exp: "item", "item.CCRS == page.CCRS" |

@@ -91,6 +91,8 @@ collections_dir: collections
 collections:
   english:
     output: true
+  language:
+    output: true
   mathematics:
     output: true
   reading:
@@ -106,6 +108,11 @@ defaults:
   - scope:
       path: ""
       type: "english"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "language"
     values:
       layout: default
   - scope:
