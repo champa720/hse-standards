@@ -15,7 +15,7 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
-  {% assign KHAN = site.data.CCRSCorrelations["Khan Academy"] |
+  {% assign KHAN = site.data.CCRStandardsCorrelations["Khan Academy"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
@@ -48,7 +48,7 @@
 
   {%- endif -%}
 
-  {% assign TEXT = site.data.CCRSCorrelations["Text"] |
+  {% assign TEXT = site.data.CCRStandardsCorrelations["Text"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
