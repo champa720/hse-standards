@@ -8893,7 +8893,7 @@
       "Description": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content. [This includes the narration of historical events, scientific procedures/experiments, or technical processes.]"
     },
     {
-      "KEY": "W.6a-8.2a",
+      "KEY": "W.6-8.2a",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -8903,7 +8903,7 @@
       "Description": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension."
     },
     {
-      "KEY": "W.6b-8.2b",
+      "KEY": "W.6-8.2b",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -8913,7 +8913,7 @@
       "Description": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples."
     },
     {
-      "KEY": "W.6c-8.2c",
+      "KEY": "W.6-8.2c",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -8923,7 +8923,7 @@
       "Description": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts."
     },
     {
-      "KEY": "W.6d-8.2d",
+      "KEY": "W.6-8.2d",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -8933,7 +8933,7 @@
       "Description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
     },
     {
-      "KEY": "W.6e-8.2e",
+      "KEY": "W.6-8.2e",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -8943,7 +8943,7 @@
       "Description": "Establish and maintain a formal style."
     },
     {
-      "KEY": "W.6f-8.2f",
+      "KEY": "W.6-8.2f",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9023,7 +9023,7 @@
       "Description": "Draw evidence from literary or informational texts to support analysis, reflection, and research."
     },
     {
-      "KEY": "W.6a-8.9a",
+      "KEY": "W.6-8.9a",
       "CCRS": "D",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
@@ -9033,7 +9033,7 @@
       "Description": "Apply Reading standards from this level to literature (e.g., 'Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments')."
     },
     {
-      "KEY": "W.6b-8.9b",
+      "KEY": "W.6-8.9b",
       "CCRS": "D",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
@@ -9053,7 +9053,7 @@
       "Description": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content. [This includes the narration of historical events, scientific procedures/experiments, or technical processes.]"
     },
     {
-      "KEY": "WHST.6a-8.2a",
+      "KEY": "WHST.6-8.2a",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9063,7 +9063,7 @@
       "Description": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension."
     },
     {
-      "KEY": "WHST.6b-8.2b",
+      "KEY": "WHST.6-8.2b",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9073,7 +9073,7 @@
       "Description": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples."
     },
     {
-      "KEY": "WHST.6c-8.2c",
+      "KEY": "WHST.6-8.2c",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9083,7 +9083,7 @@
       "Description": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts."
     },
     {
-      "KEY": "WHST.6d-8.2d",
+      "KEY": "WHST.6-8.2d",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9093,7 +9093,7 @@
       "Description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
     },
     {
-      "KEY": "WHST.6e-8.2e",
+      "KEY": "WHST.6-8.2e",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9103,7 +9103,7 @@
       "Description": "Establish and maintain a formal style."
     },
     {
-      "KEY": "WHST.6f-8.2f",
+      "KEY": "WHST.6-8.2f",
       "CCRS": "D",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9153,7 +9153,7 @@
       "Description": "Draw evidence from literary or informational texts to support analysis, reflection, and research."
     },
     {
-      "KEY": "WHST.6a-8.9a",
+      "KEY": "WHST.6-8.9a",
       "CCRS": "D",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
@@ -9163,7 +9163,7 @@
       "Description": "Apply Reading standards from this level to literature (e.g., 'Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments')."
     },
     {
-      "KEY": "WHST.6b-8.9b",
+      "KEY": "WHST.6-8.9b",
       "CCRS": "D",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
@@ -9183,7 +9183,7 @@
       "Description": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence."
     },
     {
-      "KEY": "W.9a-10.1a",
+      "KEY": "W.9-10.1a",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9193,7 +9193,7 @@
       "Description": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among the claim(s), counterclaims, reasons, and evidence."
     },
     {
-      "KEY": "W.9b-10.1b",
+      "KEY": "W.9-10.1b",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9203,7 +9203,7 @@
       "Description": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns."
     },
     {
-      "KEY": "W.9c-10.1c",
+      "KEY": "W.9-10.1c",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9213,7 +9213,7 @@
       "Description": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims."
     },
     {
-      "KEY": "W.9d-10.1d",
+      "KEY": "W.9-10.1d",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9223,7 +9223,7 @@
       "Description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
     {
-      "KEY": "W.9e-10.1e",
+      "KEY": "W.9-10.1e",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9243,7 +9243,7 @@
       "Description": "Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content. [This includes the narration of historical events,scientific procedures/experiments, or technical processes.]"
     },
     {
-      "KEY": "W.9a-10.2a",
+      "KEY": "W.9-10.2a",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9253,7 +9253,7 @@
       "Description": "Introduce a topic and organize complex ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension."
     },
     {
-      "KEY": "W.9b-10.2b",
+      "KEY": "W.9-10.2b",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9263,7 +9263,7 @@
       "Description": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic."
     },
     {
-      "KEY": "W.9c-10.2c",
+      "KEY": "W.9-10.2c",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9273,7 +9273,7 @@
       "Description": "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts."
     },
     {
-      "KEY": "W.9d-10.2d",
+      "KEY": "W.9-10.2d",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9283,7 +9283,7 @@
       "Description": "Use precise language and domain-specific vocabulary to manage the complexity of the topic."
     },
     {
-      "KEY": "W.9e-10.2e",
+      "KEY": "W.9-10.2e",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9293,7 +9293,7 @@
       "Description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
     {
-      "KEY": "W.9f-10.2f",
+      "KEY": "W.9-10.2f",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "W",
@@ -9373,7 +9373,7 @@
       "Description": "Draw evidence from literary or informational texts to support analysis, reflection, and research."
     },
     {
-      "KEY": "W.11a-12.9a",
+      "KEY": "W.11-12.9a",
       "CCRS": "E",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
@@ -9383,7 +9383,7 @@
       "Description": "Apply Reading standards from this level to literature (e.g., 'Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the cumulative impact of specific word choices on meaning and tone')."
     },
     {
-      "KEY": "W.11b-12.9b",
+      "KEY": "W.11-12.9b",
       "CCRS": "E",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "W",
@@ -9403,7 +9403,7 @@
       "Description": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence."
     },
     {
-      "KEY": "WHST.9a-10.1a",
+      "KEY": "WHST.9-10.1a",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9413,7 +9413,7 @@
       "Description": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among the claim(s), counterclaims, reasons, and evidence."
     },
     {
-      "KEY": "WHST.9b-10.1b",
+      "KEY": "WHST.9-10.1b",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9423,7 +9423,7 @@
       "Description": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns."
     },
     {
-      "KEY": "WHST.9c-10.1c",
+      "KEY": "WHST.9-10.1c",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9433,7 +9433,7 @@
       "Description": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims."
     },
     {
-      "KEY": "WHST.9d-10.1d",
+      "KEY": "WHST.9-10.1d",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9443,7 +9443,7 @@
       "Description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
     {
-      "KEY": "WHST.9e-10.1e",
+      "KEY": "WHST.9-10.1e",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9463,7 +9463,7 @@
       "Description": "Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content. [This includes the narration of historical events,scientific procedures/experiments, or technical processes.]"
     },
     {
-      "KEY": "WHST.9a-10.2a",
+      "KEY": "WHST.9-10.2a",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9473,7 +9473,7 @@
       "Description": "Introduce a topic and organize complex ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension."
     },
     {
-      "KEY": "WHST.9b-10.2b",
+      "KEY": "WHST.9-10.2b",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9483,7 +9483,7 @@
       "Description": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic."
     },
     {
-      "KEY": "WHST.9c-10.2c",
+      "KEY": "WHST.9-10.2c",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9493,7 +9493,7 @@
       "Description": "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts."
     },
     {
-      "KEY": "WHST.9d-10.2d",
+      "KEY": "WHST.9-10.2d",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9503,7 +9503,7 @@
       "Description": "Use precise language and domain-specific vocabulary to manage the complexity of the topic."
     },
     {
-      "KEY": "WHST.9e-10.2e",
+      "KEY": "WHST.9-10.2e",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9513,7 +9513,7 @@
       "Description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
     },
     {
-      "KEY": "WHST.9f-10.2f",
+      "KEY": "WHST.9-10.2f",
       "CCRS": "E",
       "Domain": "Text Types and Purposes",
       "Strand": "WHST",
@@ -9563,7 +9563,7 @@
       "Description": "Draw evidence from literary or informational texts to support analysis, reflection, and research."
     },
     {
-      "KEY": "WHST.11a-12.9a",
+      "KEY": "WHST.11-12.9a",
       "CCRS": "E",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
@@ -9573,7 +9573,7 @@
       "Description": "Apply Reading standards from this level to literature (e.g., 'Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the cumulative impact of specific word choices on meaning and tone')."
     },
     {
-      "KEY": "WHST.11b-12.9b",
+      "KEY": "WHST.11-12.9b",
       "CCRS": "E",
       "Domain": "Research to Build and Present Knowledge",
       "Strand": "WHST",
