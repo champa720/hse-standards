@@ -3838,7 +3838,7 @@
       "Lesson": "Identify Direct and Implied Main Ideas",
       "Page": "Lessons 1.3",
       "Standard": "W.11-12.9a",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -3894,7 +3894,7 @@
       "Lesson": "Identify a Theme",
       "Page": "Lessons 1.5",
       "Standard": "W.11-12.9a",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4142,7 +4142,7 @@
       "Lesson": "Analyze Tone",
       "Page": "Lessons 3.2",
       "Standard": "W.11-12.9a",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4150,7 +4150,7 @@
       "Lesson": "Analyze Tone",
       "Page": "Lessons 3.2",
       "Standard": "W.11-12.9b",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4214,7 +4214,7 @@
       "Lesson": "Analyze the Development of Ideas",
       "Page": "Lessons 4.1",
       "Standard": "L.11-12.6",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4750,7 +4750,7 @@
       "Lesson": "Compare Similar Genres",
       "Page": "Lessons 7.2",
       "Standard": "W.11-12.9a",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4806,7 +4806,7 @@
       "Lesson": "Analyze Two Arguments",
       "Page": "Lessons 7.3",
       "Standard": "W.11-12.9b",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4894,7 +4894,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 2",
       "Standard": "L.8.2a",
-      "CCRS": ""
+      "CCRS": "D"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4958,7 +4958,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 2",
       "Standard": "W.9-10.2f",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4982,7 +4982,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 3",
       "Standard": "L.11-12.6",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4990,7 +4990,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 3",
       "Standard": "L.8.1c",
-      "CCRS": ""
+      "CCRS": "D"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -4998,7 +4998,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 3",
       "Standard": "L.8.1d",
-      "CCRS": ""
+      "CCRS": "D"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -5038,7 +5038,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 3",
       "Standard": "W.11-12.9b",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -5086,7 +5086,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 5",
       "Standard": "L.6.1c",
-      "CCRS": ""
+      "CCRS": "D"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -5094,7 +5094,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 5",
       "Standard": "L.6.1d",
-      "CCRS": ""
+      "CCRS": "D"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -5166,7 +5166,7 @@
       "Lesson": "Writer’s Workshop",
       "Page": "Chapter 7",
       "Standard": "L.9-10.2a",
-      "CCRS": ""
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Reading & Writing",
@@ -5701,7 +5701,7 @@
       "Chapter": "Government",
       "Lesson": "Types of Modern and Historical Governments",
       "Page": "Lesson 1.1",
-      "Standard": "RI.11-12..9",
+      "Standard": "RI.11-12.9",
       "CCRS": ""
     },
     {
@@ -5837,8 +5837,8 @@
       "Chapter": "Civics",
       "Lesson": "Political Parties, Campaigns, and Elections",
       "Page": "Lesson 2.2",
-      "Standard": "W.9-10.2.B",
-      "CCRS": ""
+      "Standard": "W.9-10.2b",
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Social Studies",
@@ -5901,7 +5901,7 @@
       "Chapter": "American History: Revolutionary War Through Civil War",
       "Lesson": "American Revolution",
       "Page": "Lesson 3.1",
-      "Standard": "RI.11-12..9",
+      "Standard": "RI.11-12.9",
       "CCRS": ""
     },
     {
@@ -5941,7 +5941,7 @@
       "Chapter": "American History: Revolutionary War Through Civil War",
       "Lesson": "A New Nation",
       "Page": "Lesson 3.2",
-      "Standard": "W.9-10.3.C",
+      "Standard": "W.9-10.3c",
       "CCRS": ""
     },
     {
@@ -5981,7 +5981,7 @@
       "Chapter": "American History: Revolutionary War Through Civil War",
       "Lesson": "Civil War and Reconstruction",
       "Page": "Lesson 3.3",
-      "Standard": "W.11-12.1.A",
+      "Standard": "W.11-12.1a",
       "CCRS": ""
     },
     {
@@ -6013,7 +6013,7 @@
       "Chapter": "American History: Revolutionary War Through Civil War",
       "Lesson": "European Settlement and Population of the Americas",
       "Page": "Lesson 3.4",
-      "Standard": "W.9-10.3.A",
+      "Standard": "W.9-10.3a",
       "CCRS": ""
     },
     {
@@ -6053,8 +6053,8 @@
       "Chapter": "American History: World War I Through Modern Times",
       "Lesson": "World War I",
       "Page": "Lesson 4.1",
-      "Standard": "W.9-10.1.B",
-      "CCRS": ""
+      "Standard": "W.9-10.1b",
+      "CCRS": "E"
     },
     {
       "Source": "Common Core Achieve: Social Studies",
@@ -6093,7 +6093,7 @@
       "Chapter": "American History: World War I Through Modern Times",
       "Lesson": "World War II",
       "Page": "Lesson 4.2",
-      "Standard": "W.9-10.3.D",
+      "Standard": "W.9-10.3d",
       "CCRS": ""
     },
     {
@@ -6125,7 +6125,7 @@
       "Chapter": "American History: World War I Through Modern Times",
       "Lesson": "The Cold War",
       "Page": "Lesson 4.3",
-      "Standard": "W.9-10.3.A",
+      "Standard": "W.9-10.3a",
       "CCRS": ""
     },
     {
@@ -6774,6 +6774,846 @@
       "Lesson": "Population Trends and Issues",
       "Page": "Lesson 10.3",
       "Standard": "RH.11-12.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 11–21",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 11–21",
+      "Standard": "RL.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 11–21",
+      "Standard": "RH.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 11–21",
+      "Standard": "RST.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 45–52",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 45–52",
+      "Standard": "RL.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 45–52",
+      "Standard": "RH.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 45–52",
+      "Standard": "RST.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–65",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–65",
+      "Standard": "RL.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–65",
+      "Standard": "RH.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–65",
+      "Standard": "RST.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48–49",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48–49",
+      "Standard": "RL.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48–49",
+      "Standard": "RH.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 48–49",
+      "Standard": "RST.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 50–51",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 50–51",
+      "Standard": "RL.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 50–51",
+      "Standard": "RH.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 50–51",
+      "Standard": "RST.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 53–58",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 53–58",
+      "Standard": "RL.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 53–58",
+      "Standard": "RH.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 53–58",
+      "Standard": "RST.9-10.1",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 12–17",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 12–17",
+      "Standard": "RL.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–65",
+      "Standard": "RL.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 58–63",
+      "Standard": "RI.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 58–63",
+      "Standard": "RL.9-10.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–17",
+      "Standard": "RST.11-12.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 58–63",
+      "Standard": "RST.11-12.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 53–58",
+      "Standard": "RST.11-12.2",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 18–23",
+      "Standard": "RI.11-12.3",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 12–17",
+      "Standard": "RH.9-10.3",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 59–64",
+      "Standard": "RST.9-10.3",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–11",
+      "Standard": "RI.9-10.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–11",
+      "Standard": "RL.9-10.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–11",
+      "Standard": "RST.9-10.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All excerpts within book; identify problem vocabulary words",
+      "Standard": "RI.9-10.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All excerpts within book; identify problem vocabulary words",
+      "Standard": "RL.9-10.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All excerpts within book; identify problem vocabulary words",
+      "Standard": "RST.9-10.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–21",
+      "Standard": "RI.9-10.5",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 30–35",
+      "Standard": "RI.11-12.5",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 11–21",
+      "Standard": "RI.11-12.5",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–21",
+      "Standard": "RI.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 5–21",
+      "Standard": "RL.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 36–41",
+      "Standard": "RI.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 36–41",
+      "Standard": "RL.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 46–51",
+      "Standard": "RI.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 46–51",
+      "Standard": "RL.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 36–41",
+      "Standard": "RL.11-12.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 64–69",
+      "Standard": "RL.11-12.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 59–64",
+      "Standard": "RST.9-10.9",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 59–64",
+      "Standard": "RH.9-10.9",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  23–34",
+      "Standard": "W.9-10.1a",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.1a",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  23–34",
+      "Standard": "WHST.9-10.1a",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  26–27",
+      "Standard": "W.9-10.1b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  46–52",
+      "Standard": "W.9-10.1b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.1b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  26–27",
+      "Standard": "WHST.9-10.1b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  35–44",
+      "Standard": "W.9-10.1c",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.1c",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  35–44",
+      "Standard": "WHST.9-10.1c",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.1d",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.1e",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.2a",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.2b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.2c",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.2d",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.2e",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  5–65",
+      "Standard": "W.9-10.2f",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  45–48",
+      "Standard": "W.11-12.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition ",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  53–61",
+      "Standard": "WHST.11-12.4",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  23–44",
+      "Standard": "W.11-12.5",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "W.9-10.6",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "W.11-12.7",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "WHST.11-12.7",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  37–41",
+      "Standard": "L.6.1a",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  37–41",
+      "Standard": "L.6.1c",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  37–41",
+      "Standard": "L.6.1d",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  58–59",
+      "Standard": "L.6.1e",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  19–27",
+      "Standard": "L.7.1b",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  32–35",
+      "Standard": "L.7.1c",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  30–31",
+      "Standard": "L.9-10.1a",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "p. 27",
+      "Standard": "L.9-10.1b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.9-10.1b",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  28–35",
+      "Standard": "L.6.2a",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  66–67",
+      "Standard": "L.7.2a",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.8.2b",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "using free online resource",
+      "Standard": "L.8.2c",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp.  68–69",
+      "Standard": "L.9-10.2a",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "using free online resource",
+      "Standard": "L.9-10.2c",
+      "CCRS": "E"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "practice prompt writing",
+      "Standard": "L.6.3a",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 4, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "practice prompt writing",
+      "Standard": "L.6.3b",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "pp. 60–61",
+      "Standard": "L.7.3a",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.6.4c",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.7.4c",
+      "CCRS": ""
+    },
+    {
+      "Source": "Writing for the GED Test 1",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.8.4c",
+      "CCRS": ""
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.6.4c",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.7.4c",
+      "CCRS": ""
+    },
+    {
+      "Source": "Writing for the GED Test 2",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.8.4c",
+      "CCRS": ""
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.6.4c",
+      "CCRS": "D"
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.7.4c",
+      "CCRS": ""
+    },
+    {
+      "Source": "Writing for the GED Test 3, 2016 Edition",
+      "Chapter": "",
+      "Lesson": "",
+      "Page": "All",
+      "Standard": "L.8.4c",
       "CCRS": ""
     },
     {
@@ -7837,7 +8677,7 @@
       "Chapter": "Unit 2",
       "Lesson": "Lesson 2.5",
       "Page": "pp. 110–117",
-      "Standard": "RH.6‐8.6",
+      "Standard": "RH.6-8.6",
       "CCRS": ""
     },
     {
@@ -8085,7 +8925,7 @@
       "Chapter": "Unit 3",
       "Lesson": "Lesson 3.5",
       "Page": "pp. 166–173",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -8389,7 +9229,7 @@
       "Chapter": "Unit 1",
       "Lesson": "Lesson 1.6",
       "Page": "pp. 54–61",
-      "Standard": "L.9‐10.3",
+      "Standard": "L.9-10.3",
       "CCRS": ""
     },
     {
@@ -8629,7 +9469,7 @@
       "Chapter": "Unit 2",
       "Lesson": "Lesson 2.5",
       "Page": "pp. 110–117",
-      "Standard": "SL.9‐10.4",
+      "Standard": "SL.9-10.4",
       "CCRS": ""
     },
     {
@@ -8741,7 +9581,7 @@
       "Chapter": "Unit 3",
       "Lesson": "Lesson 3.2",
       "Page": "pp. 142–149",
-      "Standard": "RI.11‐12.6",
+      "Standard": "RI.11-12.6",
       "CCRS": ""
     },
     {
@@ -8837,7 +9677,7 @@
       "Chapter": "Unit 3",
       "Lesson": "Lesson 3.5",
       "Page": "pp. 166–173",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -8957,7 +9797,7 @@
       "Chapter": "Unit 1",
       "Lesson": "Lesson 1.3",
       "Page": "pp. 30–43",
-      "Standard": "L.9‐10.6",
+      "Standard": "L.9-10.6",
       "CCRS": ""
     },
     {
@@ -8981,7 +9821,7 @@
       "Chapter": "Unit 1",
       "Lesson": "Lesson 1.3",
       "Page": "pp. 30–43",
-      "Standard": "SL.9‐10.1d",
+      "Standard": "SL.9-10.1d",
       "CCRS": ""
     },
     {
@@ -9157,7 +9997,7 @@
       "Chapter": "Unit 2",
       "Lesson": "Lesson 2.1",
       "Page": "pp. 78–85",
-      "Standard": "L.9‐10.4a",
+      "Standard": "L.9-10.4a",
       "CCRS": ""
     },
     {
@@ -9165,7 +10005,7 @@
       "Chapter": "Unit 2",
       "Lesson": "Lesson 2.1",
       "Page": "pp. 78–85",
-      "Standard": "RI.9‐10.3",
+      "Standard": "RI.9-10.3",
       "CCRS": ""
     },
     {
@@ -9181,7 +10021,7 @@
       "Chapter": "Unit 2",
       "Lesson": "Lesson 2.2",
       "Page": "pp. 86–93",
-      "Standard": "L.9‐10.6",
+      "Standard": "L.9-10.6",
       "CCRS": ""
     },
     {
@@ -9253,7 +10093,7 @@
       "Chapter": "Unit 2",
       "Lesson": "Lesson 2.4",
       "Page": "pp. 102–109",
-      "Standard": "RI.9‐10.1",
+      "Standard": "RI.9-10.1",
       "CCRS": ""
     },
     {
@@ -9493,7 +10333,7 @@
       "Chapter": "Unit 3",
       "Lesson": "Lesson 3.5",
       "Page": "pp. 166–173",
-      "Standard": "L.9‐10.4a",
+      "Standard": "L.9-10.4a",
       "CCRS": ""
     },
     {
@@ -9501,7 +10341,7 @@
       "Chapter": "Unit 3",
       "Lesson": "Lesson 3.5",
       "Page": "pp. 166–173",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -9613,7 +10453,7 @@
       "Chapter": "Introductory",
       "Lesson": "Lesson 2.3",
       "Page": "p. 38–39",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -9709,7 +10549,7 @@
       "Chapter": "Introductory",
       "Lesson": "Unit 3 Workplace Skill Activity",
       "Page": "p. 50",
-      "Standard": "SL.9‐10.1",
+      "Standard": "SL.9-10.1",
       "CCRS": ""
     },
     {
@@ -9813,7 +10653,7 @@
       "Chapter": "Intermediate 1",
       "Lesson": "Lesson 2.5",
       "Page": "p. 74",
-      "Standard": "RH.6‐8.6",
+      "Standard": "RH.6-8.6",
       "CCRS": ""
     },
     {
@@ -9853,7 +10693,7 @@
       "Chapter": "Intermediate 1",
       "Lesson": "Lesson 3.5",
       "Page": "p. 80",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -9933,7 +10773,7 @@
       "Chapter": "Intermediate 2",
       "Lesson": "Lesson 1.6",
       "Page": "p. 102",
-      "Standard": "L.9‐10.3",
+      "Standard": "L.9-10.3",
       "CCRS": ""
     },
     {
@@ -9989,7 +10829,7 @@
       "Chapter": "Intermediate 2",
       "Lesson": "Lesson 3.2",
       "Page": "p. 111",
-      "Standard": "RI.11‐12.6",
+      "Standard": "RI.11-12.6",
       "CCRS": ""
     },
     {
@@ -9998,7 +10838,7 @@
       "Lesson": "Lesson 3.3",
       "Page": "p. 112",
       "Standard": "RI.5.3",
-      "CCRS": ""
+      "CCRS": " "
     },
     {
       "Source": "Reading Basics Instructor’s Guide",
@@ -10013,7 +10853,7 @@
       "Chapter": "Intermediate 2",
       "Lesson": "Lesson 3.5",
       "Page": "p. 114",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -10021,7 +10861,7 @@
       "Chapter": "Intermediate 2",
       "Lesson": "Unit 1 Workplace Skill Activity",
       "Page": "p. 116",
-      "Standard": "SL.11‐12.1d",
+      "Standard": "SL.11-12.1d",
       "CCRS": ""
     },
     {
@@ -10037,8 +10877,8 @@
       "Chapter": "Intermediate 2",
       "Lesson": "Unit 3 Workplace Skill Activity",
       "Page": "p. 118",
-      "Standard": "W.11‐12.7",
-      "CCRS": ""
+      "Standard": "W.11-12.7",
+      "CCRS": "E"
     },
     {
       "Source": "Reading Basics Instructor’s Guide",
@@ -10077,7 +10917,7 @@
       "Chapter": "Advanced",
       "Lesson": "Lesson 1.4",
       "Page": "pp. 133–134",
-      "Standard": "SL.9‐10.1d",
+      "Standard": "SL.9-10.1d",
       "CCRS": ""
     },
     {
@@ -10125,7 +10965,7 @@
       "Chapter": "Advanced",
       "Lesson": "Lesson 2.2",
       "Page": "p. 138",
-      "Standard": "RI.9‐10.3",
+      "Standard": "RI.9-10.3",
       "CCRS": ""
     },
     {
@@ -10141,8 +10981,8 @@
       "Chapter": "Advanced",
       "Lesson": "Lesson 2.4",
       "Page": "p. 141",
-      "Standard": "RI.9‐10.1",
-      "CCRS": ""
+      "Standard": "RI.9-10.1",
+      "CCRS": "E"
     },
     {
       "Source": "Reading Basics Instructor’s Guide",
@@ -10197,7 +11037,7 @@
       "Chapter": "Advanced",
       "Lesson": "Lesson 3.6",
       "Page": "p. 148",
-      "Standard": "RH.6‐8.8",
+      "Standard": "RH.6-8.8",
       "CCRS": ""
     },
     {
@@ -10205,7 +11045,7 @@
       "Chapter": "Advanced",
       "Lesson": "Unit 2 Workplace Skill Activity",
       "Page": "p. 151",
-      "Standard": "SL.9‐10.1",
+      "Standard": "SL.9-10.1",
       "CCRS": ""
     },
     {
@@ -10213,7 +11053,7 @@
       "Chapter": "Advanced",
       "Lesson": "Unit 3 Workplace Skill Activity",
       "Page": "p. 152",
-      "Standard": "L.9‐10.3",
+      "Standard": "L.9-10.3",
       "CCRS": ""
     },
     {
@@ -10301,7 +11141,7 @@
       "Chapter": "Advanced Reader",
       "Lesson": "Unit 1 Language Development Activity: Vocabulary Review ",
       "Page": "p. 274",
-      "Standard": "L.9‐10.6",
+      "Standard": "L.9-10.6",
       "CCRS": ""
     },
     {
