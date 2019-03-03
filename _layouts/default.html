@@ -10,25 +10,12 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
-  {%- elsif page.collection == "language" -%}
-  {% assign CCRStandards = site.data.CCRStandardsAdultEd["Language"] |
-  where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "Domain" -%}
-
-  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
-  where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "lStandards" -%}
-
   {%- elsif page.collection == "mathematics" -%}
   {% assign CCRStandards = site.data.CCRStandardsAdultEd["Mathematics"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Domain" -%}
 
-  {% assign TEXT = site.data.CCRSMathCorrelations["Mathematics Text"] |
-  where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "Standard" -%}
-
-  {% assign KHAN = site.data.CCRSMathCorrelations["Khan Academy"] |
+  {% assign KHAN = site.data.CCRSCorrelations["Khan Academy"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "Standard" -%}
 
@@ -41,10 +28,6 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "rStandards" -%}
 
-  {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
-  where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "Standard" -%}
-
   {%- elsif page.collection == "writing" -%}
   {% assign CCRStandards = site.data.CCRStandardsAdultEd["Writing"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
@@ -54,11 +37,20 @@
   where_exp: "item", "item.CCRS == page.CCRS" |
   group_by: "wStandards" -%}
 
-  {% assign TEXT = site.data.CCRSReadingCorrelations["Reading Text"] |
+  {%- elsif page.collection == "language" -%}
+  {% assign CCRStandards = site.data.CCRStandardsAdultEd["Language"] |
   where_exp: "item", "item.CCRS == page.CCRS" |
-  group_by: "Standard" -%}
+  group_by: "Domain" -%}
+
+  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "lStandards" -%}
 
   {%- endif -%}
+
+  {% assign TEXT = site.data.CCRSCorrelations["Text"] |
+  where_exp: "item", "item.CCRS == page.CCRS" |
+  group_by: "Standard" -%}
 
   <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
     <div class="mdc-drawer__header">
