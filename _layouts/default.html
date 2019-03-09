@@ -131,7 +131,7 @@
               {%- assign tDataCorrelationsCount = tDataStandards.items | size -%}
               <div class="mdc-card__actions">
                 <div class="mdc-card__action-buttons">
-                  <button class="mdc-button mdc-card__action mdc-card__action--button" data-mdc-drawer="{{ "NAV" | append: tDataStandards.name | remove: "." }}">
+                  <button class="mdc-button mdc-card__action mdc-card__action--button" value="{{ tDataStandards.name | remove: "." }}">
                     <span class="mdc-button__label">
                       {%- if tDataCorrelationsCount < 2-%}
                       {{ " Resource" | prepend: tDataCorrelationsCount }}
@@ -201,7 +201,7 @@
   </footer>
 
   {%- for tDataStandards in TEXT -%}
-  {% capture tStandard %} {{ tDataStandards.name | slugify }} {%- endcapture -%}
+  {% capture tStandard %} {{ tDataStandards.name }} {%- endcapture -%}
   <aside id="{{ "NAV" | append: tDataStandards.name | remove: "." }}" class="mdc-drawer mdc-drawer--dismissible mdc-top-app-bar--fixed-adjust">
     <div class="mdc-drawer__header">
       <h2 class="mdc-drawer__title">{{ tDataStandards.name }}</h2>
@@ -212,8 +212,8 @@
       {%- assign tDataCorrelations = tDataStandards.items | group_by: "Source" -%}
       {%- for tDataCorrelation in tDataCorrelations -%}
       <hr class="mdc-list-divider mdc-list-divider--inset">
-      <p id="{{ "Nav" | append: tStandard | slugify }}" class="mdc-list-group__subheader">{{ tDataCorrelation.name }}</p>
-      <ul class="mdc-list mdc-list--two-line mdc-list--non-interactive" role="listbox" aria-labelledby="{{ "Nav" | append: tStandard | slugify }}">
+      <p id="{{ "LIST" | append: tStandard | remove: "." }}" class="mdc-list-group__subheader">{{ tDataCorrelation.name }}</p>
+      <ul class="mdc-list mdc-list--two-line mdc-list--non-interactive" role="listbox" aria-labelledby="{{ "LIST" | append: tStandard | remove: "." }}">
 
         {%- for tDataCorrelationItem in tDataCorrelation.items -%}
         <li class="mdc-list-item">
@@ -231,6 +231,7 @@
   </aside>
   {%- endfor -%}
 
+
   <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.js"></script>
   <script type="text/javascript">
     window.mdc.autoInit();
@@ -243,33 +244,16 @@
       window.location = select.value;
     });
 
-    document.addEventListener('click', function (event) {
-
-    	if (event.target.matches('button')) {
-    		// Run your code to open a modal
-
-        console.log(el.attribute.value);
-    	}
-
-    	if (event.target.matches('.close')) {
-    		// Run your code to close a modal
-    	}
-
-    }, false);
-
-
-    //const drawer = new mdc.drawer.MDCDrawer.attachTo(document.querySelector('.mdc-drawer--dismissible'));
-    //const button = document.querySelectorAll('button');
-    //for (let i = 0; i < button.length; ++i) {
-    //  button[i].addEventListener('click', (evt) => {
-//
-    //    var checkbox = evt.value;
-    //    console.log(checkbox + " changed to " + checkbox);
-//
-    //    let drawer = mdc.drawer.MDCDrawer.attachTo(document.querySelector('#NAV4NBT4'));
-  //      drawer.open = !drawer.open;
-    //  });
-  //  }
+    var buttons = document.getElementsByClassName('mdc-button');
+    for (var i=0 ; i < buttons.length ; i++){
+      (function(index){
+        buttons[index].onclick = function(){
+          let drawer = mdc.drawer.MDCDrawer.attachTo(document.querySelector('#NAV' + this.value));
+          drawer.open = !drawer.open; // mdc-drawer--dismissible
+          // drawer.open = true // mdc-drawer--modal
+        };
+      })(i)
+    }
 
   </script>
 
