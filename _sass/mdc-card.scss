@@ -13,7 +13,8 @@
   &[data-ccss*="cc"], &[data-ccss*="oa"], &[data-ccss*="nbt"],
   &[data-ccss*="nf"], &[data-ccss*="md"], &[data-ccss*="g"],
   &[data-ccss*="rp"], &[data-ccss*="ns"], &[data-ccss*="ee"],
-  &[data-ccss*="f"], &[data-ccss*="sp"] {
+  &[data-ccss*="f"], &[data-ccss*="sp"], &[data-ccss*="n"],
+  &[data-ccss*="a"], &[data-ccss*="s"] {
     --mdc-theme-primary: #{$theme-mathematics-primary};
     @include mdc-card-outline($theme-mathematics-primary, 1px);
   }

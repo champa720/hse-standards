@@ -9,10 +9,8 @@
   }
 
   .mdc-image-list {
-    justify-content: center;
-    @include mdc-image-list-standard-columns(4,24px);
+    @include mdc-image-list-standard-columns(5,24px);
     @include mdc-image-list-shape-radius(8px, false);
-    // @include mdc-image-list-aspect(0.7727);
     & .mdc-image-list__image {
       height: 100%
     }
@@ -26,10 +24,8 @@
   }
 
   .mdc-image-list {
-    justify-content: center;
-    @include mdc-image-list-standard-columns(4,16px);
+    @include mdc-image-list-standard-columns(5,16px);
     @include mdc-image-list-shape-radius(8px, false);
-    // @include mdc-image-list-aspect(0.7727);
     & .mdc-image-list__image {
       height: 100%
     }
@@ -43,10 +39,8 @@
   }
 
   .mdc-image-list {
-    justify-content: center;
     @include mdc-image-list-standard-columns(3,24px);
     @include mdc-image-list-shape-radius(8px, false);
-    // @include mdc-image-list-aspect(0.7727);
     & .mdc-image-list__image {
       height: 100%
     }
@@ -60,10 +54,8 @@
   }
 
   .mdc-image-list {
-    justify-content: center;
     @include mdc-image-list-standard-columns(3,16px);
     @include mdc-image-list-shape-radius(8px, false);
-    // @include mdc-image-list-aspect(0.7727);
     & .mdc-image-list__image {
       height: 100%
     }
@@ -77,10 +69,8 @@
   }
 
   .mdc-image-list {
-    justify-content: center;
     @include mdc-image-list-standard-columns(2,16px);
     @include mdc-image-list-shape-radius(8px, false);
-    // @include mdc-image-list-aspect(0.7727);
     & .mdc-image-list__image {
       height: 100%
     }
@@ -88,33 +78,15 @@
 }
 
 // 480 – 599 **handset** xsmall 4 columns and up
-@media (min-width: 600px) {
-  body {
-    // margin-left: 56px;
-  }
+@media (min-width: 600px) { }
 
-  main ul.mdc-list:not(.mdc-list--non-interactive) {
-    display: none;
-  }
-}
+  main ul.mdc-list:not(.mdc-list--non-interactive) { }
 
 // 480 – 599 **handset** xsmall 4 columns and down
 @media (max-width: 599px) {
-  .mdc-drawer,
-  // .mdc-image-list,
-  .mdc-card__action-buttons > .mdc-card__action--button:not(:first-child) {
-    display: none;
-  }
-
-  body#index {
-    align-items: baseline;
-  }
-
   .mdc-image-list {
-    justify-content: center;
     @include mdc-image-list-standard-columns(1,16px);
     @include mdc-image-list-shape-radius(8px, false);
-    // @include mdc-image-list-aspect(0.7727);
     & .mdc-image-list__image {
       height: 100%
     }
