@@ -46,34 +46,32 @@ header_pages:
  - reading.md
  - writing.md
 
-domains:
-  english:
-    - "Receptive Modalities"
-    - "Interactive Modalities"
-    - "Productive Modalities"
-    - "ELA Language"
-  mathematics:
-    - "Operations and Algebraic Thinking"
-    - "Number and Operations: Base Ten"
-    - "Number and Operations: Fractions"
-    - "Measurement and Data"
-    - "Geometry"
-    - "Ratios and Proportional Relationships"
-    - "The Number System"
-    - "Expressions and Equations"
-    - "Functions"
-    - "Statistics and Probability"
-
-  reading:
-    - "Key Ideas and Details"
-    - "Craft and Structure"
-    - "Integration of Knowledge"
-    - "Range of Reading and Level of Text Complexity"
-
-  writing:
-    - "Text Types and Purposes"
-    - "Production and Distribution of Writing"
-    - "Research to Build and Present Knowledge"
+sorted_domains:
+  # english
+  - "Receptive Modalities"
+  - "Interactive Modalities"
+  - "Productive Modalities"
+  - "ELA Language"
+  # mathematics
+  - "Operations and Algebraic Thinking"
+  - "Number and Operations: Base Ten"
+  - "Number and Operations: Fractions"
+  - "Measurement and Data"
+  - "Geometry"
+  - "Ratios and Proportional Relationships"
+  - "The Number System"
+  - "Expressions and Equations"
+  - "Functions"
+  - "Statistics and Probability"
+  # reading
+  - "Key Ideas and Details"
+  - "Craft and Structure"
+  - "Integration of Knowledge"
+  - "Range of Reading and Level of Text Complexity"
+  # writing
+  - "Text Types and Purposes"
+  - "Production and Distribution of Writing"
+  - "Research to Build and Present Knowledge"
 
 # Build settings
 # theme: minima

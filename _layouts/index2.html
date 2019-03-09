@@ -25,7 +25,7 @@
           <div class="mdc-layout-grid__cell">
             <section class="mdc-list-group">
 
-              {%- for domain in site.domains[page.collection] -%}
+              {%- for domain in site.sorted_domains -%}
               {% assign CCRStandards = site.data.CCRStandardsAdultEd[page.title] |
               where: "Domain", domain |
               group_by: "Domain" -%}
