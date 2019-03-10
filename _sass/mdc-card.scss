@@ -35,16 +35,6 @@
   }
 }
 
-section > h2 {
-  margin-top: 5rem;
-}
-
-h2 ~ .mdc-typography--subtitle2 {
-  margin-bottom: 3em;
-  color: var(--mdc-theme-text-secondary-on-background);
-  text-transform: uppercase;
-}
-
 .mdc-card__primary {
   box-sizing: border-box;
   min-height: 52px;
