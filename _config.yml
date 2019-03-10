@@ -52,6 +52,10 @@ sorted_domains:
   - "Interactive Modalities"
   - "Productive Modalities"
   - "ELA Language"
+  # language
+  - "Conventions of Standard English"
+  - "Knowledge of Language"
+  - "Vocabulary Acquisition and Use"
   # mathematics
   - "Operations and Algebraic Thinking"
   - "Number and Operations: Base Ten"
@@ -103,7 +107,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: default
+      layout: index2
   - scope:
       path: ""
       type: "english"

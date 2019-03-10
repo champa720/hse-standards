@@ -5,46 +5,111 @@
 
 <body class="mdc-typography">
 
+  {%- assign Collection = page.collection | capitalize -%}
   {%- assign default_paths = site[page.collection] | map: "path" -%}
-  {%- assign domains = site.domains[page.collection] | default: default_paths -%}
+  {%- assign domains = site.sorted_domains | default: default_paths -%}
+
+  <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
+    <div class="mdc-drawer__header">
+      <!-- h2 class="mdc-drawer__title">{{ page.collection | capitalize }}</h2 -->
+      <div class="mdc-select mdc-select--outlined">
+        <i class="mdc-select__dropdown-icon"></i>
+        <select id="nav1" class="mdc-select__native-control" name="nav1">
+          <option value=""></option>
+          {%- for collection in site[page.collection] -%}
+          <option value="{{ collection.url | relative_url }}" {%- if page.url==collection.url %} selected {%- endif -%}>
+            {{ "Level " | append: collection.CCRS }}
+          </option>
+          {%- endfor -%}
+        </select>
+        <div class="mdc-notched-outline mdc-notched-outline--notched">
+          <div class="mdc-notched-outline__leading"></div>
+          <div class="mdc-notched-outline__notch">
+            <label class="mdc-floating-label {%- if page.url==collection.url %} mdc-floating-label--float-above {%- endif -%}" for="nav1">{{ page.collection | capitalize }} Standards</label>
+          </div>
+          <div class="mdc-notched-outline__trailing"></div>
+        </div>
+      </div>
+    </div>
+    <div class="mdc-drawer__content">
+      <nav class="mdc-list" role="listbox" aria-labelledby="nav2">
+        <h3 id="nav2" class="mdc-list-group__subheader">Standard Domains</h3>
+        {%- for domain in domains -%}
+
+        {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection] | where: "Domain", domain | group_by: "Domain" -%}
+        {%- for sDataDomain in CCRStandards -%}
+        <a class="mdc-list-item" href="#{{ sDataDomain.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
+          <span class="mdc-list-item__text">{{ sDataDomain.name }}</span>
+        </a>
+        {%- endfor -%}
+        {%- endfor -%}
+      </nav>
+    </div>
+  </aside>
 
   <div class="mdc-drawer-app-content">
-    <header class="mdc-typography--body1">
+    <header>
       <div class="mdc-layout-grid">
         <div class="mdc-layout-grid__inner">
           <div class="mdc-layout-grid__cell">
-            <h1 class="mdc-typography--headline3">{{ page.title }}</h1>
+            <h1>{{ page.title }}</h1>
             {{ content }}
           </div>
         </div>
       </div>
     </header>
-    <main class="mdc-typography--body1">
+    <main>
       <div class="mdc-layout-grid">
         <div class="mdc-layout-grid__inner">
           <div class="mdc-layout-grid__cell">
-            <section class="mdc-list-group">
 
-              {%- for domain in site.sorted_domains -%}
-              {% assign CCRStandards = site.data.CCRStandardsAdultEd[page.title] |
-              where: "Domain", domain |
-              group_by: "Domain" -%}
-              {%- for sDataDomain in CCRStandards -%}
-              <h2 class="mdc-list-group__subheader">{{ sDataDomain.name }}</h2>
-              <ul class="mdc-list mdc-list--non-interactive">
+            {%- for domain in domains -%}
 
-                {%- assign sDataStatements = sDataDomain.items | group_by: "Statement" -%}
-                {%- for sDataStatement in sDataStatements -%}
-                <li class="mdc-list-item" tabindex="0">
-                  <span class="mdc-list-item__text">{{ sDataStatement.name }}</span>
-                </li>
-                {%- endfor -%}
+            {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection] | where: "Domain", domain | group_by: "Domain" -%}
+            {%- for sDataDomain in CCRStandards -%}
+            <section id="{{ sDataDomain.name | slugify }}">
+              <h2>{{ sDataDomain.name }}</h2>
 
-              </ul>
+              {%- if page.title != "Mathematics" -%}
+
+              {%- assign sDataStandards = sDataDomain.items | group_by: "Standard" | sort: "name" -%}
+              {%- for sDataStandard in sDataStandards -%}
+              <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataStandard.name | slugify }}">
+                <dl class="mdc-card__primary">
+                  <dt>{{ "Standard " | append: sDataStandard.name }}</dt>
+
+                  {%- assign sDataStatements = sDataStandard.items | group_by: "Statement" -%}
+                  {%- for sDataStatement in sDataStatements -%}
+                  <dd>{{ sDataStatement.name }}</dd>
+                  {%- endfor -%}
+
+                </dl>
+              </article>
               {%- endfor -%}
+
+              {%- else -%}
+
+              {%- assign sDataStandards = sDataDomain.items | group_by: "CCRS" | sort: "name" -%}
+              {%- for sDataStandard in sDataStandards -%}
+              <article class="mdc-card mdc-card--outlined" data-ccss="{{ sDataStandard.name | slugify }}">
+                <dl class="mdc-card__primary">
+                  <dt>{{ "Level " | append: sDataStandard.name }}</dt>
+
+                  {%- assign sDataStatements = sDataStandard.items | group_by: "Statement" -%}
+                  {%- for sDataStatement in sDataStatements -%}
+                  <dd>{{ sDataStatement.name }}</dd>
+                  {%- endfor -%}
+
+                </dl>
+              </article>
               {%- endfor -%}
+
+              {%- endif -%}
 
             </section>
+            {%- endfor -%}
+            {%- endfor -%}
+
             <aside>
               <h2>Related</h2>
 
@@ -55,6 +120,31 @@
       </div>
     </main>
   </div>
+
+  <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.js"></script>
+  <script type="text/javascript">
+    window.mdc.autoInit();
+
+    const list = new mdc.list.MDCList(document.querySelector('.mdc-list'));
+    list.singleSelection = true;
+
+    const select = new mdc.select.MDCSelect(document.querySelector('.mdc-select'));
+    select.listen('MDCSelect:change', () => {
+      window.location = select.value;
+    });
+
+    var buttons = document.getElementsByClassName('mdc-button');
+    for (var i=0 ; i < buttons.length ; i++){
+      (function(index){
+        buttons[index].onclick = function(){
+          let drawer = mdc.drawer.MDCDrawer.attachTo(document.querySelector('#NAV' + this.value));
+          drawer.open = !drawer.open; // mdc-drawer--dismissible
+          // drawer.open = true // mdc-drawer--modal
+        };
+      })(i)
+    }
+
+  </script>
 
 </body>
 
