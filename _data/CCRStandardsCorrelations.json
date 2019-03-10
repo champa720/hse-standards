@@ -5,6 +5,198 @@
       "Chapter": "",
       "Lesson": "Everyday Number Sense: Mental Math and Visual Models",
       "Page": "",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Everyday Number Sense: Mental Math and Visual Models",
+      "Page": "",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Everyday Number Sense: Mental Math and Visual Models",
+      "Page": "",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Everyday Number Sense: Mental Math and Visual Models",
+      "Page": "",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Using Benchmarks: Fractions and Operations",
+      "Page": "",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Using Benchmarks: Fractions and Operations",
+      "Page": "",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Using Benchmarks: Fractions and Operations",
+      "Page": "",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Using Benchmarks: Fractions and Operations",
+      "Page": "",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Split It Up: More Fractions, Decimals, and Percents",
+      "Page": "",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Split It Up: More Fractions, Decimals, and Percents",
+      "Page": "",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Split It Up: More Fractions, Decimals, and Percents",
+      "Page": "",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Split It Up: More Fractions, Decimals, and Percents",
+      "Page": "",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Split It Up: More Fractions, Decimals, and Percents",
+      "Page": "",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Over, Around, and Within: Geometry and Measurement",
+      "Page": "",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Over, Around, and Within: Geometry and Measurement",
+      "Page": "",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Over, Around, and Within: Geometry and Measurement",
+      "Page": "",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Over, Around, and Within: Geometry and Measurement",
+      "Page": "",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Many Points Make a Point: Data and Graphs",
+      "Page": "",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Keeping Things in Proportion: Reasoning with Ratios",
+      "Page": "",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Keeping Things in Proportion: Reasoning with Ratios",
+      "Page": "",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Keeping Things in Proportion: Reasoning with Ratios",
+      "Page": "",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Seeking Patterns, Building Rules: Algebraic Thinking",
+      "Page": "",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Seeking Patterns, Building Rules: Algebraic Thinking",
+      "Page": "",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower",
+      "Chapter": "",
+      "Lesson": "Seeking Patterns, Building Rules: Algebraic Thinking",
+      "Page": "",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "EMPower Plus",
+      "Chapter": "",
+      "Lesson": "Everyday Number Sense: Mental Math and Visual Models",
+      "Page": "",
       "Standard": "1.NBT.4",
       "CCRS": "A"
     },
@@ -11799,6 +11991,1726 @@
       "Page": "pp. 241–242",
       "Standard": "4.MD.3",
       "CCRS": "C"
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Integers",
+      "Lesson": "The Coordinate Grid",
+      "Page": "Lesson 4.5",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Expressions and Equations",
+      "Lesson": "Expressions",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Expressions and Equations",
+      "Lesson": "Solve One-Step Equations",
+      "Page": "Lesson 5.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Expressions and Equations",
+      "Lesson": "Solve Two-Step Equations",
+      "Page": "Lesson 5.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Ratios, Proportions, and Percents",
+      "Lesson": "Use Percents in the Real World",
+      "Page": "Lesson 7.6",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Order Rational Numbers on a Number Line",
+      "Page": "Lesson 1.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Apply Number Properties",
+      "Page": "Lesson 1.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Compute with Exponents",
+      "Page": "Lesson 1.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Apply Ratio and Proportions",
+      "Page": "Lesson 2.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Calculate Real-World Percents",
+      "Page": "Lesson 2.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Determine Probability",
+      "Page": "Lesson 2.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Evaluate Linear Expressions",
+      "Page": "Lesson 3.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Equations",
+      "Page": "Lesson 3.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Inequalities",
+      "Page": "Lesson 3.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Use Expressions, Equations, and Inequalities to Solve Real-World Problems",
+      "Page": "Lesson 3.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Polynomials",
+      "Page": "Lesson 4.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Factor Polynomials",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Solve Quadratic Equations",
+      "Page": "Lesson 4.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Write the Equation of a Line",
+      "Page": "Lesson 5.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Graph Linear Equations",
+      "Page": "Lesson 5.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Solve Systems of Linear Equations",
+      "Page": "Lesson 5.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Compare Functions",
+      "Page": "Lesson 6.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter, Area, Surface Area, and Volume of Composite Figures",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display One-Variable Data",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.1",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Integers",
+      "Lesson": "Add Integers",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Probability",
+      "Lesson": "Counting Methods",
+      "Page": "Lesson 10.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Probability",
+      "Lesson": "Compound Events",
+      "Page": "Lesson 10.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Order Rational Numbers on a Number Line",
+      "Page": "Lesson 1.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Compute with Exponents",
+      "Page": "Lesson 1.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Apply Ratio and Proportions",
+      "Page": "Lesson 2.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Calculate Real-World Percents",
+      "Page": "Lesson 2.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Evaluate Linear Expressions",
+      "Page": "Lesson 3.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Equations",
+      "Page": "Lesson 3.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Use Expressions, Equations, and Inequalities to Solve Real-World Problems",
+      "Page": "Lesson 3.4",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Polynomials",
+      "Page": "Lesson 4.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Factor Polynomials",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Solve Quadratic Equations",
+      "Page": "Lesson 4.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Solve Systems of Linear Equations",
+      "Page": "Lesson 5.4",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter, Area, Surface Area, and Volume of Composite Figures",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display One-Variable Data",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.2",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Ratios, Proportions, and Percents",
+      "Lesson": "Introduction to Percents",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Data",
+      "Lesson": "Plots and Misleading Graphs",
+      "Page": "Lesson 9.3",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Determine Probability",
+      "Page": "Lesson 2.4",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Evaluate Linear Expressions",
+      "Page": "Lesson 3.1",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Polynomials",
+      "Page": "Lesson 4.1",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Factor Polynomials",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Solve Quadratic Equations",
+      "Page": "Lesson 4.3",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Graph Linear Equations",
+      "Page": "Lesson 5.3",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Solve Systems of Linear Equations",
+      "Page": "Lesson 5.4",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Compare Functions",
+      "Page": "Lesson 6.4",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.3",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Place Value",
+      "Page": "Lesson 1.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Decimals",
+      "Lesson": "Introduction to Decimals",
+      "Page": "Lesson 2.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Data",
+      "Lesson": "Measures of Central Tendency and Range",
+      "Page": "Lesson 9.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Geometry",
+      "Lesson": "Perimeter and Circumference",
+      "Page": "Lesson 12.2",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Geometry",
+      "Lesson": "Volume of Cones, Cylinders, and Spheres",
+      "Page": "Lesson 12.7",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Order Rational Numbers on a Number Line",
+      "Page": "Lesson 1.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Apply Number Properties",
+      "Page": "Lesson 1.2",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Compute with Exponents",
+      "Page": "Lesson 1.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Apply Ratio and Proportions",
+      "Page": "Lesson 2.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Determine Probability",
+      "Page": "Lesson 2.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Evaluate Linear Expressions",
+      "Page": "Lesson 3.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Inequalities",
+      "Page": "Lesson 3.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Use Expressions, Equations, and Inequalities to Solve Real-World Problems",
+      "Page": "Lesson 3.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Polynomials",
+      "Page": "Lesson 4.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Factor Polynomials",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Solve Quadratic Equations",
+      "Page": "Lesson 4.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Write the Equation of a Line",
+      "Page": "Lesson 5.2",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Graph Linear Equations",
+      "Page": "Lesson 5.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Solve Systems of Linear Equations",
+      "Page": "Lesson 5.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Compare Functions",
+      "Page": "Lesson 6.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter, Area, Surface Area, and Volume of Composite Figures",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display One-Variable Data",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.4",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Rounding and Estimation",
+      "Page": "Lesson 1.5",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Integers",
+      "Lesson": "Multiply and Divide Integers",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Geometry",
+      "Lesson": "Scale Drawings and Measurement",
+      "Page": "Lesson 12.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Order Rational Numbers on a Number Line",
+      "Page": "Lesson 1.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Apply Number Properties",
+      "Page": "Lesson 1.2",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Compute with Exponents",
+      "Page": "Lesson 1.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Apply Ratio and Proportions",
+      "Page": "Lesson 2.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Calculate Real-World Percents",
+      "Page": "Lesson 2.2",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Determine Probability",
+      "Page": "Lesson 2.4",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Inequalities",
+      "Page": "Lesson 3.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Polynomials",
+      "Page": "Lesson 4.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display One-Variable Data",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.5",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Add and Subtract Whole Numbers",
+      "Page": "Lesson 1.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Problem Solving",
+      "Page": "Lesson 1.7",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Decimals",
+      "Lesson": "Add and Subtract Decimals",
+      "Page": "Lesson 2.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Exponents and Roots",
+      "Lesson": "Scientific Notation",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Calculate Real-World Percents",
+      "Page": "Lesson 2.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Equations",
+      "Page": "Lesson 3.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Use Expressions, Equations, and Inequalities to Solve Real-World Problems",
+      "Page": "Lesson 3.4",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Graph Linear Equations",
+      "Page": "Lesson 5.3",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Solve Systems of Linear Equations",
+      "Page": "Lesson 5.4",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter, Area, Surface Area, and Volume of Composite Figures",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display One-Variable Data",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.6",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Arithmetic Expressions",
+      "Page": "Lesson 1.6",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Geometry",
+      "Lesson": "Volume of Cones, Cylinders, and Spheres",
+      "Page": "Lesson 12.7",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Order Rational Numbers on a Number Line",
+      "Page": "Lesson 1.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Apply Number Properties",
+      "Page": "Lesson 1.2",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Compute with Exponents",
+      "Page": "Lesson 1.3",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Apply Ratio and Proportions",
+      "Page": "Lesson 2.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Ratio, Proportion, and Probability",
+      "Lesson": "Using Counting Techniques",
+      "Page": "Lesson 2.3",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Evaluate Linear Expressions",
+      "Page": "Lesson 3.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations and Inequalities",
+      "Lesson": "Solve Linear Inequalities",
+      "Page": "Lesson 3.3",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Polynomials",
+      "Page": "Lesson 4.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Factor Polynomials",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Solve Quadratic Equations",
+      "Page": "Lesson 4.3",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Write the Equation of a Line",
+      "Page": "Lesson 5.2",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Key Features of a Graph",
+      "Page": "Lesson 6.3",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Circumference and Area of Circles",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Surface Area and Volume",
+      "Page": "Lesson 7.3",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter, Area, Surface Area, and Volume of Composite Figures",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Categorical Data",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.7",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Decimals",
+      "Lesson": "Divide Decimals",
+      "Page": "Lesson 2.4",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Fractions",
+      "Lesson": "Add and Subtract Fractions",
+      "Page": "Lesson 3.2",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Expressions and Equations",
+      "Lesson": "Solve One- and Two-Step Inequalities",
+      "Page": "Lesson 5.4",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Ratios, Proportions, and Percents",
+      "Lesson": "Unit Rates and Proportional Relationships",
+      "Page": "Lesson 7.2",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Ratios, Proportions, and Percents",
+      "Lesson": "Solve Percent Problems",
+      "Page": "Lesson 7.5",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Exponents and Roots",
+      "Lesson": "Roots",
+      "Page": "Lesson 8.2",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Probability",
+      "Lesson": "Introduction to Probability",
+      "Page": "Lesson 10.2",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Geometry",
+      "Lesson": "Geometric Figures",
+      "Page": "Lesson 12.1",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Number Sense and Operations",
+      "Lesson": "Compute with Exponents",
+      "Page": "Lesson 1.3",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Basics: Mathematics",
+      "Chapter": "Whole Numbers",
+      "Lesson": "Factoring",
+      "Page": "Lesson 1.4",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Factor Polynomials",
+      "Page": "Lesson 4.2",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Solve Quadratic Equations",
+      "Page": "Lesson 4.3",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Polynomials and Rational Expressions",
+      "Lesson": "Evaluate Rational Expressions",
+      "Page": "Lesson 4.4",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Linear Equations in the Coordinate Plane",
+      "Lesson": "Interpret Slope",
+      "Page": "Lesson 5.1",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify a Function",
+      "Page": "Lesson 6.1",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Functions",
+      "Lesson": "Identify Linear and Quadratic Functions",
+      "Page": "Lesson 6.2",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter and Area of Polygons",
+      "Page": "Lesson 7.1",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Geometry & Measurement",
+      "Lesson": "Compute Perimeter, Area, Surface Area, and Volume of Composite Figures",
+      "Page": "Lesson 7.4",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Calculate Measures of Central Tendency",
+      "Page": "Lesson 8.1",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display One-Variable Data",
+      "Page": "Lesson 8.3",
+      "Standard": "MP.8",
+      "CCRS": ""
+    },
+    {
+      "Source": "Common Core Achieve: Mathematics",
+      "Chapter": "Data Analysis",
+      "Lesson": "Display Two-Variable Data",
+      "Page": "Lesson 8.4",
+      "Standard": "MP.8",
+      "CCRS": ""
     },
     {
       "Source": "Common Core Basics: Mathematics",
@@ -25894,1918 +27806,6 @@
       "Lesson": "",
       "Page": "All",
       "Standard": "L.8.4c",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
-      "CCRS": ""
-    },
-    {
-      "Source": "",
-      "Chapter": "",
-      "Lesson": "",
-      "Page": "",
-      "Standard": "",
       "CCRS": ""
     },
     {
