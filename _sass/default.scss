@@ -23,8 +23,17 @@ main {
   width: 100%;
 }
 
+sup {
+  line-height: 0;
+}
+
 p {
   @include mdc-typography(body1);
+}
+
+p > em > a {
+  @include mdc-typography(body2);
+  @include mdc-theme-prop(color, text-secondary-on-background, true, true);
 }
 
 h1 {

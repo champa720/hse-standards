@@ -2,34 +2,46 @@
   margin-bottom: 16px;
   @include mdc-card-fill-color(transparent);
   @include mdc-card-outline(primary, 1px);
-  & dt, dd {
-    margin: 0;
-    padding: 0 8px;
-  }
-  &[data-ccss^="elp"] {
+
+  &[data-anchor="english"],
+  &[data-ccss|="elp"] {
     --mdc-theme-primary: #{$theme-english-primary};
     @include mdc-card-outline($theme-english-primary, 1px);
   }
+
+  &[data-anchor="mathematics"],
   &[data-ccss*="cc"], &[data-ccss*="oa"], &[data-ccss*="nbt"],
   &[data-ccss*="nf"], &[data-ccss*="md"], &[data-ccss*="g"],
   &[data-ccss*="rp"], &[data-ccss*="ns"], &[data-ccss*="ee"],
-  &[data-ccss*="f"], &[data-ccss*="sp"], &[data-ccss*="n"],
-  &[data-ccss*="a"], &[data-ccss*="s"] {
+  &[data-ccss*="f"], &[data-ccss*="sp"], &[data-ccss|="n"],
+  &[data-ccss|="a"], &[data-ccss|="f"], &[data-ccss|="g"],
+  &[data-ccss|="s"] {
     --mdc-theme-primary: #{$theme-mathematics-primary};
     @include mdc-card-outline($theme-mathematics-primary, 1px);
   }
-  &[data-ccss^="ri"], &[data-ccss^="rl"] {
+
+  &[data-anchor="reading"],
+  &[data-ccss|="ri"], &[data-ccss|="rl"] {
     --mdc-theme-primary: #{$theme-reading-primary};
     @include mdc-card-outline($theme-reading-primary, 1px);
   }
-  &[data-ccss^="rst"] {
+
+  &[data-ccss|="rst"] {
     --mdc-theme-primary: #{$theme-science-primary};
     @include mdc-card-outline($theme-science-primary, 1px);
   }
-  &[data-ccss^="whst"], &[data-ccss^="rh"] {
+
+  &[data-ccss|="rh"], &[data-ccss|="whst"] {
     --mdc-theme-primary: #{$theme-social-studies-primary};
     @include mdc-card-outline($theme-social-studies-primary, 1px);
   }
+
+  &[data-anchor="language"], &[data-ccss|="l"],
+  &[data-anchor="writing"], &[data-ccss|="w"] {
+    --mdc-theme-primary: #{$theme-writing-primary};
+    @include mdc-card-outline($theme-writing-primary, 1px);
+  }
+
   & + p {
     margin-top: 5rem;
   }
@@ -40,13 +52,34 @@
   min-height: 52px;
   margin: 0;
   padding: 8px;
+
   & dt {
-    @include mdc-typography(headline6);
+    @include mdc-typography(headline5);
     @include mdc-theme-prop(color, text-primary-on-background, true, true);
   }
+
   & dd {
     @include mdc-typography(body1);
     @include mdc-theme-prop(color, text-primary-on-background, true, true);
     padding-top: 16px;
+  }
+
+  & dt, dd {
+    margin: 0;
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+
+  & dd:last-child {
+    padding-bottom: 8px;
+  }
+
+  & ~ aside {
+    margin-right: 16px;
+    margin-left: 16px;
+
+    & dt {
+      @include mdc-typography(headline6);
+    }
   }
 }
