@@ -7,7 +7,7 @@
 
   {%- if page.collection == "mathematics" -%}
   {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
-  group_by: "mpStandards" -%}
+  group_by: "mStandards" -%}
 
   {%- elsif page.collection == "reading" -%}
   {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
@@ -24,9 +24,9 @@
   {%- endif -%}
 
   {%- assign Collection = page.collection | capitalize -%}
-  {%- assign domains = site.sorted_domains | default: default_paths -%}
+  {%- assign domains = site.sorted_domains[page.collection] | default: default_paths -%}
 
-  <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
+  <aside class="mdc-drawer mdc-top-app-bar--fixed-adjust" style="display:none;">
     <div class="mdc-drawer__header">
       <!-- h2 class="mdc-drawer__title">{{ page.collection | capitalize }}</h2 -->
       <div class="mdc-select mdc-select--outlined">
@@ -85,58 +85,38 @@
             <a class="mdc-button" href="{%- link math-content.md -%}">Mathematical Content</a>
             <a class="mdc-button" href="{%- link math-practice.md -%}">Mathematical Practice</a>
 
-            {%- elsif page.title == "Mathematical Practice" -%}
-
-            {%- assign CCRStandards = site.data.CCRStandardsAdultEd[Collection] | where: "Domain", "Mathematical Practice" | sort: "Standard" -%}
-            {%- for sDataDomain in CCRStandards -%}
-            <section id="{{ sDataDomain['Statement'] | slugify }}">
-              <h2>{{ sDataDomain["Statement"] }}</h2>
-              <article class="mdc-card mdc-card--outlined" data-anchor="{{ page.collection }}">
-                <dl class="mdc-card__primary">
-                  <dt>{{ "Mathematical Practice " | append: sDataDomain["Standard"] }}</dt>
-                  <dd>{{ sDataDomain["Description"] }}</dd>
-                </dl>
-
-                {%- for englishAlignment in englishAlignments -%}
-                {%- if englishAlignment.name contains sDataDomain["Standard"] -%}
-
-                {%- assign sDataEnglishStandards = englishAlignment.items | group_by: "Standard" | sort: "name" -%}
-                {%- for sDataEnglishStandard in sDataEnglishStandards -%}
-                <aside class="mdc-card mdc-card--outlined" data-anchor="english">
-                  <dl class="mdc-card__primary">
-                    <dt>{{ "ELP Standard " | append: sDataEnglishStandard.name }}</dt>
-
-                    {%- assign sDataEnglishStatements = sDataEnglishStandard.items | group_by: "Statement" -%}
-                    {%- for sDataEnglishStatement in sDataEnglishStatements -%}
-                    <dd>{{ sDataEnglishStatement.name }}</dd>
-                    {%- endfor -%}
-
-                  </dl>
-                </aside>
-                {%- endfor -%}
-
-                {%- endif -%}
-                {%- endfor -%}
-              </article>
-            </section>
-            {%- endfor -%}
-
             {%- else -%}
 
             {%- for domain in domains -%}
-            {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection] | where: "Domain", domain | group_by: "Domain" -%}
+
+            {%- if page.title == "Mathematical Content" -%}
+            {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection]
+              | where_exp: "item", "item.Domain == domain"
+              | where_exp: "item", "item.Strand != 'MP'" | group_by: "Domain" -%}
+
+            {%- elsif page.title == "Mathematical Practice" -%}
+            {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection]
+              | where_exp: "item", "item.Domain == domain"
+              | where_exp: "item", "item.Strand == 'MP'" | group_by: "Domain" -%}
+
+            {%- else -%}
+            {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection]
+              | where: "Domain", domain | group_by: "Domain" -%}
+
+            {%- endif -%}
 
             {%- for sDataDomain in CCRStandards -%}
+
+            {%- if page.title == "Mathematical Content" -%}
+            {%- assign sDataStandards = sDataDomain.items | group_by: "CCRS" | sort: "name" -%}
+
+            {%- else -%}
+            {%- assign sDataStandards = sDataDomain.items | group_by: "Standard" | sort: "name" -%}
+
+            {%- endif -%}
+
             <section id="{{ sDataDomain.name | slugify }}">
               <h2>{{ sDataDomain.name }}</h2>
-
-              {%- if page.title == "Mathematical Content" -%}
-              {%- assign sDataStandards = sDataDomain.items | group_by: "CCRS" | sort: "name" -%}
-
-              {%- elsif page.title != "Mathematical Content" and page.title != "Mathematical Practice" -%}
-              {%- assign sDataStandards = sDataDomain.items | group_by: "Standard" | sort: "name" -%}
-
-              {%- endif -%}
 
               {%- for sDataStandard in sDataStandards -%}
               <article class="mdc-card mdc-card--outlined" data-anchor="{{ page.collection }}">
@@ -145,7 +125,10 @@
                   {%- if page.title == "Mathematical Content" -%}
                   <dt>{{ "Level " | append: sDataStandard.name }}</dt>
 
-                  {%- elsif page.title != "Mathematical Content" and page.title != "Mathematical Practice" -%}
+                  {%- elsif page.title == "Mathematical Practice" -%}
+                  <dt>{{ "MP." | append: sDataStandard.name }}</dt>
+
+                  {%- else -%}
                   <dt>{{ "Anchor Standard " | append: sDataStandard.name }}</dt>
 
                   {%- endif -%}
@@ -159,8 +142,8 @@
 
                 {%- for englishAlignment in englishAlignments -%}
                 {%- if englishAlignment.name contains sDataStandard.name -%}
-
                 {%- assign sDataEnglishStandards = englishAlignment.items | group_by: "Standard" -%}
+
                 {%- for sDataEnglishStandard in sDataEnglishStandards -%}
                 <aside class="mdc-card mdc-card--outlined" data-anchor="english">
                   <dl class="mdc-card__primary">
