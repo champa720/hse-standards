@@ -5,24 +5,6 @@
 
 <body class="mdc-typography">
 
-  {%- if page.collection == "mathematics" -%}
-  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
-  group_by: "mStandards" -%}
-
-  {%- elsif page.collection == "reading" -%}
-  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
-  group_by: "rStandards" -%}
-
-  {%- elsif page.collection == "writing" -%}
-  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
-  group_by: "wStandards" -%}
-
-  {%- elsif page.collection == "language" -%}
-  {% assign englishAlignments = site.data.CCRStandardsAdultEd["English"] |
-  group_by: "lStandards" -%}
-
-  {%- endif -%}
-
   {%- assign Collection = page.collection | capitalize -%}
   {%- assign domains = site.sorted_domains[page.collection] | default: default_paths -%}
 
@@ -140,25 +122,30 @@
 
                 </dl>
 
-                {%- for englishAlignment in englishAlignments -%}
-                {%- if englishAlignment.name contains sDataStandard.name -%}
-                {%- assign sDataEnglishStandards = englishAlignment.items | group_by: "Standard" -%}
+                {%- assign sDataStandardItemsELPs = sDataStandard.items | group_by: "ELA" -%}
+                {%- for sDataStandardItemELP in sDataStandardItemsELPs -%}
 
-                {%- for sDataEnglishStandard in sDataEnglishStandards -%}
+                {%- assign sDataStandardELPs = sDataStandardItemELP.name | split: ", " -%}
+                {%- for sDataStandardELP in sDataStandardELPs -%}
+
+                {%- assign englishAlignments = site.data.CCRStandardsAdultEd["English"] | group_by: "Standard" -%}
+                {%- for englishAlignment in englishAlignments -%}
+
+                {%- if englishAlignment.name == sDataStandardELP -%}
                 <aside class="mdc-card mdc-card--outlined" data-anchor="english">
                   <dl class="mdc-card__primary">
-                    <dt>{{ "ELP Standard " | append: sDataEnglishStandard.name }}</dt>
+                    <dt>{{ "ELP Standard " | append: englishAlignment.name }}</dt>
 
-                    {%- assign sDataEnglishStatements = sDataEnglishStandard.items | group_by: "Statement" -%}
+                    {%- assign sDataEnglishStatements = englishAlignment.items | group_by: "Statement" -%}
                     {%- for sDataEnglishStatement in sDataEnglishStatements -%}
                     <dd>{{ sDataEnglishStatement.name }}</dd>
                     {%- endfor -%}
 
                   </dl>
                 </aside>
-                {%- endfor -%}
-
                 {%- endif -%}
+                {%- endfor -%}
+                {%- endfor -%}
                 {%- endfor -%}
 
               </article>
