@@ -2,8 +2,8 @@ body {
   margin: 0;
   display: flex;
   height: 100vh;
-  @include mdc-theme-prop(background-color, background, true, true);
-  @include mdc-theme-prop(color, text-primary-on-background, true, true);
+  @include mdc-theme-prop(background-color, background, true);
+  @include mdc-theme-prop(color, text-primary-on-background, true);
 
   &#index {
     align-items: center;
@@ -33,7 +33,7 @@ p {
 
 p > em > a {
   @include mdc-typography(body2);
-  @include mdc-theme-prop(color, text-secondary-on-background, true, true);
+  @include mdc-theme-prop(color, text-secondary-on-background, true);
 }
 
 h1 {
@@ -47,7 +47,7 @@ h2 {
   & ~ p {
     margin-bottom: 3em;
     @include mdc-typography(subtitle2);
-    @include mdc-theme-prop(color, text-secondary-on-background, true, true);
+    @include mdc-theme-prop(color, text-secondary-on-background, true);
     text-transform: uppercase !important;
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "material.io",
-  "version": "2.0.0",
+  "version": "7.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,6 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "@primer/css": "^15.0.0",
-    "material-components-web": "^7.0.0",
-    "normalize-scss": "^7.0.1"
-  },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "css-loader": "^4.2.0",
@@ -26,5 +21,10 @@
     "sass-loader": "^9.0.2",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@primer/css": "^15.0.0",
+    "material-components-web": "^7.0.0",
+    "normalize-scss": "^7.0.1"
   }
 }
