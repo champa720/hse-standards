@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body class="mdc-typography">
+
+  {%- assign Collection = page.collection | capitalize -%}
+  {%- assign domains = site.sorted_domains[page.collection] | default: default_paths -%}
+
+  <header>
+    <div class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        <div class="mdc-layout-grid__cell">
+          <h1>{{ page.title }}</h1>
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        <div class="mdc-layout-grid__cell">
+
+          {%- if page.title == "Mathematics" -%}
+
+          <a class="mdc-button" href="{%- link math-content.md -%}">
+            <span class="mdc-button__ripple"></span>
+            <span class="mdc-button__label">Mathematical Content</span>
+          </a>
+          <a class="mdc-button" href="{%- link math-practice.md -%}">
+            <span class="mdc-button__ripple"></span>
+            <span class="mdc-button__label">Mathematical Practice</span>
+          </a>
+
+          {%- else -%}
+
+          {%- for domain in domains -%}
+
+          {%- if page.title == "Mathematical Content" -%}
+          {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection]
+            | where_exp: "item", "item.Domain == domain"
+            | where_exp: "item", "item.Strand != 'MP'"
+            | group_by: "Domain" -%}
+
+          {%- elsif page.title == "Mathematical Practice" -%}
+          {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection]
+            | where_exp: "item", "item.Domain == domain"
+            | where_exp: "item", "item.Strand == 'MP'"
+            | group_by: "Domain" -%}
+
+          {%- else -%}
+          {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection]
+            | where: "Domain", domain
+            | group_by: "Domain" -%}
+
+          {%- endif -%}
+
+          {%- for sDataDomain in CCRStandards -%}
+
+          {%- if page.title == "Mathematical Content" -%}
+          {%- assign sDataStandards = sDataDomain.items
+            | group_by: "CCRS"
+            | sort: "name" -%}
+
+          {%- else -%}
+          {%- assign sDataStandards = sDataDomain.items
+            | group_by: "Standard"
+            | sort: "name" -%}
+
+          {%- endif -%}
+
+          <section id="{{ sDataDomain.name | slugify }}">
+            <h2>{{ sDataDomain.name }}</h2>
+
+            {%- for sDataStandard in sDataStandards -%}
+            <article class="mdc-card mdc-card--outlined" data-anchor="{{ page.collection }}">
+              <dl class="mdc-card__primary">
+
+                {%- if page.title == "Mathematical Content" -%}
+                <dt>{{ "Standard Statements Level " | append: sDataStandard.name }}</dt>
+
+                {%- elsif page.title == "Mathematical Practice" -%}
+                <dt>{{ "Mathematical Practice Statement " | append: sDataStandard.name }}</dt>
+
+                {%- else -%}
+                <dt>{{ "CCR Anchor Standard " | append: sDataStandard.name }}</dt>
+
+                {%- endif -%}
+
+                {%- assign sDataStatements = sDataStandard.items | map: "Statement" | uniq -%}
+                {%- for sDataStatement in sDataStatements -%}
+                <dd>{{ sDataStatement }}</dd>
+                {%- endfor -%}
+
+              </dl>
+
+              {%- assign sDataStandardELPs = sDataStandard.items | map: "ELP" | uniq -%}
+              {%- for sDataStandardELP in sDataStandardELPs -%}
+
+              {%- assign sDataEnglishStandards = site.data.CCRStandardsAdultEd["English"] | group_by: "Standard" -%}
+              {%- for sDataEnglishStandard in sDataEnglishStandards -%}
+
+              {%- if sDataStandardELP == sDataEnglishStandard.name -%}
+              <aside class="mdc-card mdc-card--outlined" data-anchor="english">
+                <dl class="mdc-card__primary">
+                  <dt>{{ "ELP Anchor Standard " | append: sDataEnglishStandard.name }}</dt>
+
+                  {%- assign sDataEnglishStatements = sDataEnglishStandard.items | map: "Statement" | uniq -%}
+                  {%- for sDataEnglishStatement in sDataEnglishStatements -%}
+                  <dd>{{ sDataEnglishStatement }}</dd>
+                  {%- endfor -%}
+
+                </dl>
+              </aside>
+              {%- endif -%}
+              {%- endfor -%}
+              {%- endfor -%}
+
+            </article>
+            {%- endfor -%}
+
+          </section>
+          {%- endfor -%}
+          {%- endfor -%}
+          {%- endif -%}
+
+          <aside>
+            <h2>Related</h2>
+
+            <!-- aside content in here -->
+          </aside>
+        </div>
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>

@@ -1,1 +1,75 @@
+{%- assign Collection = page.collection | capitalize -%}
+{%- assign domains = site.sorted_domains[page.collection] | default: default_paths -%}
 
+<aside class="mdc-drawer mdc-top-app-bar--fixed-adjust">
+  <div class="mdc-drawer__header">
+    <!-- h2 class="mdc-drawer__title">{{ page.collection | capitalize }}</h2 -->
+    <div class="mdc-select mdc-select--outlined">
+      <div class="mdc-select__anchor"
+           role="button"
+           aria-haspopup="listbox"
+           aria-expanded="false"
+           aria-labelledby="outlined-select-label">
+        <span class="mdc-notched-outline">
+         <span class="mdc-notched-outline__leading"></span>
+         <span class="mdc-notched-outline__notch">
+           <span id="outlined-select-label" class="mdc-floating-label">{{ page.collection | capitalize }} Standards</span>
+         </span>
+         <span class="mdc-notched-outline__trailing"></span>
+        </span>
+        <span id="nav1-selected-text" class="mdc-select__selected-text"></span>
+        <span class="mdc-select__dropdown-icon">
+          <svg
+              class="mdc-select__dropdown-icon-graphic"
+              viewBox="7 10 10 5">
+            <polygon
+                class="mdc-select__dropdown-icon-inactive"
+                stroke="none"
+                fill-rule="evenodd"
+                points="7 10 12 15 17 10">
+            </polygon>
+            <polygon
+                class="mdc-select__dropdown-icon-active"
+                stroke="none"
+                fill-rule="evenodd"
+                points="7 15 12 10 17 15">
+            </polygon>
+          </svg>
+        </span>
+      </div>
+
+      <div class="mdc-select__menu mdc-menu mdc-menu-surface mdc-menu-surface--fullwidth">
+        <ul class="mdc-list" role="listbox" aria-label="{{ page.collection | capitalize }} standards listbox">
+          <li class="mdc-list-item mdc-list-item--selected" aria-selected="true" data-value="" role="option">
+            <span class="mdc-list-item__ripple"></span>
+          </li>
+
+          {%- for collection in site[page.collection] -%}
+          <li class="mdc-list-item" aria-selected="false" data-value="{{ collection.url | relative_url }}" role="option">
+            <span class="mdc-list-item__ripple"></span>
+            <span class="mdc-list-item__text">
+              {{- "Level " | append: collection.CCRS -}}
+            </span>
+          </li>
+          {%- endfor -%}
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="mdc-drawer__content">
+    <nav class="mdc-list" role="listbox" aria-labelledby="nav2">
+      <h3 id="nav2" class="mdc-list-group__subheader">Standard Domains</h3>
+      {%- for domain in domains -%}
+
+      {% assign CCRStandards = site.data.CCRStandardsAdultEd[Collection] | where: "Domain", domain | group_by: "Domain" -%}
+      {%- for sDataDomain in CCRStandards -%}
+      <a class="mdc-list-item" href="#{{ sDataDomain.name | slugify }}" role="option" {%- if forloop.first %} tabindex="0" {%- endif -%}>
+        <span class="mdc-list-item__text">{{ sDataDomain.name }}</span>
+      </a>
+      {%- endfor -%}
+      {%- endfor -%}
+    </nav>
+  </div>
+</aside>
