@@ -139,3 +139,9 @@ defaults:
       type: "writing"
     values:
       layout: default
+
+exclude:
+  - package-lock.json
+  - package.json
+  - webpack.config.js
+  - webpack.style-bundle.js

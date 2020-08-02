@@ -55,12 +55,12 @@
 
   & dt {
     @include mdc-typography(headline5);
-    @include mdc-theme-prop(color, text-primary-on-background, true, true);
+    @include mdc-theme-prop(color, text-primary-on-background, true);
   }
 
   & dd {
     @include mdc-typography(body1);
-    @include mdc-theme-prop(color, text-primary-on-background, true, true);
+    @include mdc-theme-prop(color, text-primary-on-background, true);
     padding-top: 16px;
   }
 
