@@ -1,0 +1,57 @@
+@use '@material/theme';
+@use '@material/typography';
+
+
+body {
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  @include theme.property(background-color, theme.$background);
+  @include theme.property(color, theme.$on-surface);
+
+  &#index {
+    align-items: center;
+  }
+}
+
+main {
+  flex: auto;
+}
+
+.mdc-drawer-app-content {
+  flex: auto;
+  overflow: auto;
+}
+
+.mdc-select {
+  width: 100%;
+}
+
+sup {
+  line-height: 0;
+}
+
+p {
+  @include typography.typography(body1);
+}
+
+p > em > a {
+  @include typography.typography(body2);
+  @include theme.property(color, theme.$on-surface);
+}
+
+h1 {
+  @include typography.typography(headline3);
+}
+
+h2 {
+  margin-top: 5rem;
+  @include typography.typography(headline4);
+
+  & ~ p {
+    margin-bottom: 3em;
+    @include typography.typography(subtitle2);
+    @include theme.property(color, theme.$on-surface);
+    text-transform: uppercase !important;
+  }
+}

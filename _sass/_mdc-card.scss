@@ -1,12 +1,26 @@
+@use '@material/theme';
+@use '@material/typography';
+@use "@material/card";
+
+
+// default subject colors
+$theme-english-primary: #FFEB3B; // baseline yellow, 500 tone
+$theme-mathematics-primary: #ff5722; // baseline deep-orange, 500 tone
+$theme-reading-primary: #2196f3; // baseline blue, 500 tone
+$theme-science-primary: #673ab7; // baseline deep-purple, 500 tone
+$theme-social-studies-primary: #4caf50; // baseline green, 500 tone
+$theme-writing-primary: #f44336; // baseline red, 500 tone
+
+
 .mdc-card {
   margin-bottom: 16px;
-  @include mdc-card-fill-color(transparent);
-  @include mdc-card-outline(primary, 1px);
+  @include card.fill-color(transparent);
+  @include card.outline(primary, 1px);
 
   &[data-anchor="english"],
   &[data-ccss|="elp"] {
     --mdc-theme-primary: #{$theme-english-primary};
-    @include mdc-card-outline($theme-english-primary, 1px);
+    @include card.outline($theme-english-primary, 1px);
   }
 
   &[data-anchor="mathematics"],
@@ -17,29 +31,29 @@
   &[data-ccss|="a"], &[data-ccss|="f"], &[data-ccss|="g"],
   &[data-ccss|="s"] {
     --mdc-theme-primary: #{$theme-mathematics-primary};
-    @include mdc-card-outline($theme-mathematics-primary, 1px);
+    @include card.outline($theme-mathematics-primary, 1px);
   }
 
   &[data-anchor="reading"],
   &[data-ccss|="ri"], &[data-ccss|="rl"] {
     --mdc-theme-primary: #{$theme-reading-primary};
-    @include mdc-card-outline($theme-reading-primary, 1px);
+    @include card.outline($theme-reading-primary, 1px);
   }
 
   &[data-ccss|="rst"] {
     --mdc-theme-primary: #{$theme-science-primary};
-    @include mdc-card-outline($theme-science-primary, 1px);
+    @include card.outline($theme-science-primary, 1px);
   }
 
   &[data-ccss|="rh"], &[data-ccss|="whst"] {
     --mdc-theme-primary: #{$theme-social-studies-primary};
-    @include mdc-card-outline($theme-social-studies-primary, 1px);
+    @include card.outline($theme-social-studies-primary, 1px);
   }
 
   &[data-anchor="language"], &[data-ccss|="l"],
   &[data-anchor="writing"], &[data-ccss|="w"] {
     --mdc-theme-primary: #{$theme-writing-primary};
-    @include mdc-card-outline($theme-writing-primary, 1px);
+    @include card.outline($theme-writing-primary, 1px);
   }
 
   & + p {
@@ -54,13 +68,13 @@
   padding: 8px;
 
   & dt {
-    @include mdc-typography(headline5);
-    @include mdc-theme-prop(color, text-primary-on-background, true);
+    @include typography.typography(headline5);
+    @include theme.property(color, theme.$on-surface);
   }
 
   & dd {
-    @include mdc-typography(body1);
-    @include mdc-theme-prop(color, text-primary-on-background, true);
+    @include typography.typography(body1);
+    @include theme.property(color, theme.$on-surface);
     padding-top: 16px;
   }
 
@@ -79,7 +93,7 @@
     margin-left: 16px;
 
     & dt {
-      @include mdc-typography(headline6);
+      @include typography.typography(headline6);
     }
   }
 }
